@@ -1,0 +1,8065 @@
+[
+    {
+        "id": "1039",
+        "firstname": "David",
+        "surname": "Baker",
+        "share": "2",
+        "year": "2024",
+        "category": "chemistry"
+    },
+    {
+        "id": "1040",
+        "firstname": "Demis",
+        "surname": "Hassabis",
+        "share": "4",
+        "year": "2024",
+        "category": "chemistry"
+    },
+    {
+        "id": "1041",
+        "firstname": "John",
+        "surname": "Jumper",
+        "share": "4",
+        "year": "2024",
+        "category": "chemistry"
+    },
+    {
+        "id": "1044",
+        "firstname": "Daron",
+        "surname": "Acemoglu",
+        "share": "3",
+        "year": "2024",
+        "category": "economics"
+    },
+    {
+        "id": "1045",
+        "firstname": "Simon",
+        "surname": "Johnson",
+        "share": "3",
+        "year": "2024",
+        "category": "economics"
+    },
+    {
+        "id": "1046",
+        "firstname": "James",
+        "surname": "Robinson",
+        "share": "3",
+        "year": "2024",
+        "category": "economics"
+    },
+    {
+        "id": "1042",
+        "firstname": "Kang",
+        "surname": "Han",
+        "share": "1",
+        "year": "2024",
+        "category": "literature"
+    },
+    {
+        "id": "1043",
+        "share": "1",
+        "firstname": "Nihon Hidankyo",
+        "year": "2024",
+        "category": "peace"
+    },
+    {
+        "id": "1037",
+        "firstname": "John",
+        "surname": "Hopfield",
+        "share": "2",
+        "year": "2024",
+        "category": "physics"
+    },
+    {
+        "id": "1038",
+        "firstname": "Geoffrey",
+        "surname": "Hinton",
+        "share": "2",
+        "year": "2024",
+        "category": "physics"
+    },
+    {
+        "id": "1035",
+        "firstname": "Victor",
+        "surname": "Ambros",
+        "share": "2",
+        "year": "2024",
+        "category": "medicine"
+    },
+    {
+        "id": "1036",
+        "firstname": "Gary",
+        "surname": "Ruvkun",
+        "share": "2",
+        "year": "2024",
+        "category": "medicine"
+    },
+    {
+        "id": "1029",
+        "firstname": "Moungi",
+        "surname": "Bawendi",
+        "share": "3",
+        "year": "2023",
+        "category": "chemistry"
+    },
+    {
+        "id": "1030",
+        "firstname": "Louis",
+        "surname": "Brus",
+        "share": "3",
+        "year": "2023",
+        "category": "chemistry"
+    },
+    {
+        "id": "1031",
+        "firstname": "Aleksey",
+        "surname": "Yekimov",
+        "share": "3",
+        "year": "2023",
+        "category": "chemistry"
+    },
+    {
+        "id": "1034",
+        "firstname": "Claudia",
+        "surname": "Goldin",
+        "share": "1",
+        "year": "2023",
+        "category": "economics"
+    },
+    {
+        "id": "1032",
+        "firstname": "Jon",
+        "surname": "Fosse",
+        "share": "1",
+        "year": "2023",
+        "category": "literature"
+    },
+    {
+        "id": "1033",
+        "firstname": "Narges",
+        "surname": "Mohammadi",
+        "share": "1",
+        "year": "2023",
+        "category": "peace"
+    },
+    {
+        "id": "1026",
+        "firstname": "Pierre",
+        "surname": "Agostini",
+        "share": "3",
+        "year": "2023",
+        "category": "physics"
+    },
+    {
+        "id": "1027",
+        "firstname": "Ferenc",
+        "surname": "Krausz",
+        "share": "3",
+        "year": "2023",
+        "category": "physics"
+    },
+    {
+        "id": "1028",
+        "firstname": "Anne",
+        "surname": "L\u2019Huillier",
+        "share": "3",
+        "year": "2023",
+        "category": "physics"
+    },
+    {
+        "id": "1024",
+        "firstname": "Katalin",
+        "surname": "Karik\u00f3",
+        "share": "2",
+        "year": "2023",
+        "category": "medicine"
+    },
+    {
+        "id": "1025",
+        "firstname": "Drew",
+        "surname": "Weissman",
+        "share": "2",
+        "year": "2023",
+        "category": "medicine"
+    },
+    {
+        "id": "1015",
+        "firstname": "Carolyn",
+        "surname": "Bertozzi",
+        "share": "3",
+        "year": "2022",
+        "category": "chemistry"
+    },
+    {
+        "id": "1016",
+        "firstname": "Morten",
+        "surname": "Meldal",
+        "share": "3",
+        "year": "2022",
+        "category": "chemistry"
+    },
+    {
+        "id": "743",
+        "firstname": "Barry",
+        "surname": "Sharpless",
+        "share": "3",
+        "year": "2022",
+        "category": "chemistry"
+    },
+    {
+        "id": "1021",
+        "firstname": "Ben",
+        "surname": "Bernanke",
+        "share": "3",
+        "year": "2022",
+        "category": "economics"
+    },
+    {
+        "id": "1022",
+        "firstname": "Douglas",
+        "surname": "Diamond",
+        "share": "3",
+        "year": "2022",
+        "category": "economics"
+    },
+    {
+        "id": "1023",
+        "firstname": "Philip",
+        "surname": "Dybvig",
+        "share": "3",
+        "year": "2022",
+        "category": "economics"
+    },
+    {
+        "id": "1017",
+        "firstname": "Annie",
+        "surname": "Ernaux",
+        "share": "1",
+        "year": "2022",
+        "category": "literature"
+    },
+    {
+        "id": "1018",
+        "firstname": "Ales",
+        "surname": "Bialiatski ",
+        "share": "3",
+        "year": "2022",
+        "category": "peace"
+    },
+    {
+        "id": "1019",
+        "share": "3",
+        "firstname": "Memorial",
+        "year": "2022",
+        "category": "peace"
+    },
+    {
+        "id": "1020",
+        "share": "3",
+        "firstname": "Center for Civil Liberties",
+        "year": "2022",
+        "category": "peace"
+    },
+    {
+        "id": "1012",
+        "firstname": "Alain",
+        "surname": "Aspect",
+        "share": "3",
+        "year": "2022",
+        "category": "physics"
+    },
+    {
+        "id": "1013",
+        "firstname": "John ",
+        "surname": "Clauser",
+        "share": "3",
+        "year": "2022",
+        "category": "physics"
+    },
+    {
+        "id": "1014",
+        "firstname": "Anton",
+        "surname": "Zeilinger",
+        "share": "3",
+        "year": "2022",
+        "category": "physics"
+    },
+    {
+        "id": "1011",
+        "firstname": "Svante",
+        "surname": "P\u00e4\u00e4bo",
+        "share": "1",
+        "year": "2022",
+        "category": "medicine"
+    },
+    {
+        "id": "1002",
+        "firstname": "Benjamin",
+        "surname": "List",
+        "share": "2",
+        "year": "2021",
+        "category": "chemistry"
+    },
+    {
+        "id": "1003",
+        "firstname": "David",
+        "surname": "MacMillan",
+        "share": "2",
+        "year": "2021",
+        "category": "chemistry"
+    },
+    {
+        "id": "1007",
+        "firstname": "David",
+        "surname": "Card",
+        "share": "2",
+        "year": "2021",
+        "category": "economics"
+    },
+    {
+        "id": "1008",
+        "firstname": "Joshua",
+        "surname": "Angrist",
+        "share": "4",
+        "year": "2021",
+        "category": "economics"
+    },
+    {
+        "id": "1009",
+        "firstname": "Guido",
+        "surname": "Imbens",
+        "share": "4",
+        "year": "2021",
+        "category": "economics"
+    },
+    {
+        "id": "1004",
+        "firstname": "Abdulrazak",
+        "surname": "Gurnah",
+        "share": "1",
+        "year": "2021",
+        "category": "literature"
+    },
+    {
+        "id": "1005",
+        "firstname": "Maria",
+        "surname": "Ressa",
+        "share": "2",
+        "year": "2021",
+        "category": "peace"
+    },
+    {
+        "id": "1006",
+        "firstname": "Dmitry",
+        "surname": "Muratov",
+        "share": "2",
+        "year": "2021",
+        "category": "peace"
+    },
+    {
+        "id": "999",
+        "firstname": "Syukuro",
+        "surname": "Manabe",
+        "share": "4",
+        "year": "2021",
+        "category": "physics"
+    },
+    {
+        "id": "1000",
+        "firstname": "Klaus",
+        "surname": "Hasselmann",
+        "share": "4",
+        "year": "2021",
+        "category": "physics"
+    },
+    {
+        "id": "1001",
+        "firstname": "Giorgio",
+        "surname": "Parisi",
+        "share": "2",
+        "year": "2021",
+        "category": "physics"
+    },
+    {
+        "id": "997",
+        "firstname": "David",
+        "surname": "Julius",
+        "share": "2",
+        "year": "2021",
+        "category": "medicine"
+    },
+    {
+        "id": "998",
+        "firstname": "Ardem",
+        "surname": "Patapoutian",
+        "share": "2",
+        "year": "2021",
+        "category": "medicine"
+    },
+    {
+        "id": "991",
+        "firstname": "Emmanuelle",
+        "surname": "Charpentier",
+        "share": "2",
+        "year": "2020",
+        "category": "chemistry"
+    },
+    {
+        "id": "992",
+        "firstname": "Jennifer A.",
+        "surname": "Doudna",
+        "share": "2",
+        "year": "2020",
+        "category": "chemistry"
+    },
+    {
+        "id": "995",
+        "firstname": "Paul",
+        "surname": "Milgrom",
+        "share": "2",
+        "year": "2020",
+        "category": "economics"
+    },
+    {
+        "id": "996",
+        "firstname": "Robert",
+        "surname": "Wilson",
+        "share": "2",
+        "year": "2020",
+        "category": "economics"
+    },
+    {
+        "id": "993",
+        "firstname": "Louise",
+        "surname": "Gl\u00fcck",
+        "share": "1",
+        "year": "2020",
+        "category": "literature"
+    },
+    {
+        "id": "994",
+        "share": "1",
+        "firstname": "World Food Programme",
+        "year": "2020",
+        "category": "peace"
+    },
+    {
+        "id": "988",
+        "firstname": "Roger",
+        "surname": "Penrose",
+        "share": "2",
+        "year": "2020",
+        "category": "physics"
+    },
+    {
+        "id": "989",
+        "firstname": "Reinhard",
+        "surname": "Genzel",
+        "share": "4",
+        "year": "2020",
+        "category": "physics"
+    },
+    {
+        "id": "990",
+        "firstname": "Andrea",
+        "surname": "Ghez",
+        "share": "4",
+        "year": "2020",
+        "category": "physics"
+    },
+    {
+        "id": "985",
+        "firstname": "Harvey",
+        "surname": "Alter",
+        "share": "3",
+        "year": "2020",
+        "category": "medicine"
+    },
+    {
+        "id": "986",
+        "firstname": "Michael",
+        "surname": "Houghton",
+        "share": "3",
+        "year": "2020",
+        "category": "medicine"
+    },
+    {
+        "id": "987",
+        "firstname": "Charles",
+        "surname": "Rice",
+        "share": "3",
+        "year": "2020",
+        "category": "medicine"
+    },
+    {
+        "id": "976",
+        "firstname": "John",
+        "surname": "Goodenough",
+        "share": "3",
+        "year": "2019",
+        "category": "chemistry"
+    },
+    {
+        "id": "977",
+        "firstname": "M. Stanley",
+        "surname": "Whittingham",
+        "share": "3",
+        "year": "2019",
+        "category": "chemistry"
+    },
+    {
+        "id": "978",
+        "firstname": "Akira",
+        "surname": "Yoshino",
+        "share": "3",
+        "year": "2019",
+        "category": "chemistry"
+    },
+    {
+        "id": "982",
+        "firstname": "Abhijit",
+        "surname": "Banerjee",
+        "share": "3",
+        "year": "2019",
+        "category": "economics"
+    },
+    {
+        "id": "983",
+        "firstname": "Esther",
+        "surname": "Duflo",
+        "share": "3",
+        "year": "2019",
+        "category": "economics"
+    },
+    {
+        "id": "984",
+        "firstname": "Michael",
+        "surname": "Kremer",
+        "share": "3",
+        "year": "2019",
+        "category": "economics"
+    },
+    {
+        "id": "980",
+        "firstname": "Peter",
+        "surname": "Handke",
+        "share": "1",
+        "year": "2019",
+        "category": "literature"
+    },
+    {
+        "id": "981",
+        "firstname": "Abiy",
+        "surname": "Ahmed Ali",
+        "share": "1",
+        "year": "2019",
+        "category": "peace"
+    },
+    {
+        "id": "973",
+        "firstname": "James",
+        "surname": "Peebles",
+        "share": "2",
+        "year": "2019",
+        "category": "physics"
+    },
+    {
+        "id": "974",
+        "firstname": "Michel",
+        "surname": "Mayor",
+        "share": "4",
+        "year": "2019",
+        "category": "physics"
+    },
+    {
+        "id": "975",
+        "firstname": "Didier",
+        "surname": "Queloz",
+        "share": "4",
+        "year": "2019",
+        "category": "physics"
+    },
+    {
+        "id": "970",
+        "firstname": "William",
+        "surname": "Kaelin",
+        "share": "3",
+        "year": "2019",
+        "category": "medicine"
+    },
+    {
+        "id": "971",
+        "firstname": "Peter",
+        "surname": "Ratcliffe",
+        "share": "3",
+        "year": "2019",
+        "category": "medicine"
+    },
+    {
+        "id": "972",
+        "firstname": "Gregg",
+        "surname": "Semenza",
+        "share": "3",
+        "year": "2019",
+        "category": "medicine"
+    },
+    {
+        "id": "963",
+        "firstname": "Frances H.",
+        "surname": "Arnold",
+        "share": "2",
+        "year": "2018",
+        "category": "chemistry"
+    },
+    {
+        "id": "964",
+        "firstname": "George P.",
+        "surname": "Smith",
+        "share": "4",
+        "year": "2018",
+        "category": "chemistry"
+    },
+    {
+        "id": "965",
+        "firstname": "Sir Gregory P.",
+        "surname": "Winter",
+        "share": "4",
+        "year": "2018",
+        "category": "chemistry"
+    },
+    {
+        "id": "968",
+        "firstname": "William D.",
+        "surname": "Nordhaus",
+        "share": "2",
+        "year": "2018",
+        "category": "economics"
+    },
+    {
+        "id": "969",
+        "firstname": "Paul M.",
+        "surname": "Romer",
+        "share": "2",
+        "year": "2018",
+        "category": "economics"
+    },
+    {
+        "id": "979",
+        "firstname": "Olga",
+        "surname": "Tokarczuk",
+        "share": "1",
+        "year": "2018",
+        "category": "literature"
+    },
+    {
+        "id": "966",
+        "firstname": "Denis",
+        "surname": "Mukwege",
+        "share": "2",
+        "year": "2018",
+        "category": "peace"
+    },
+    {
+        "id": "967",
+        "firstname": "Nadia",
+        "surname": "Murad",
+        "share": "2",
+        "year": "2018",
+        "category": "peace"
+    },
+    {
+        "id": "960",
+        "firstname": "Arthur",
+        "surname": "Ashkin",
+        "share": "2",
+        "year": "2018",
+        "category": "physics"
+    },
+    {
+        "id": "961",
+        "firstname": "G\u00e9rard",
+        "surname": "Mourou",
+        "share": "4",
+        "year": "2018",
+        "category": "physics"
+    },
+    {
+        "id": "962",
+        "firstname": "Donna",
+        "surname": "Strickland",
+        "share": "4",
+        "year": "2018",
+        "category": "physics"
+    },
+    {
+        "id": "958",
+        "firstname": "James P.",
+        "surname": "Allison",
+        "share": "2",
+        "year": "2018",
+        "category": "medicine"
+    },
+    {
+        "id": "959",
+        "firstname": "Tasuku",
+        "surname": "Honjo",
+        "share": "2",
+        "year": "2018",
+        "category": "medicine"
+    },
+    {
+        "id": "944",
+        "firstname": "Jacques",
+        "surname": "Dubochet",
+        "share": "3",
+        "year": "2017",
+        "category": "chemistry"
+    },
+    {
+        "id": "945",
+        "firstname": "Joachim",
+        "surname": "Frank",
+        "share": "3",
+        "year": "2017",
+        "category": "chemistry"
+    },
+    {
+        "id": "946",
+        "firstname": "Richard",
+        "surname": "Henderson",
+        "share": "3",
+        "year": "2017",
+        "category": "chemistry"
+    },
+    {
+        "id": "949",
+        "firstname": "Richard H.",
+        "surname": "Thaler",
+        "share": "1",
+        "year": "2017",
+        "category": "economics"
+    },
+    {
+        "id": "947",
+        "firstname": "Kazuo",
+        "surname": "Ishiguro",
+        "share": "1",
+        "year": "2017",
+        "category": "literature"
+    },
+    {
+        "id": "948",
+        "share": "1",
+        "firstname": "International Campaign to Abolish Nuclear Weapons",
+        "year": "2017",
+        "category": "peace"
+    },
+    {
+        "id": "941",
+        "firstname": "Rainer",
+        "surname": "Weiss",
+        "share": "2",
+        "year": "2017",
+        "category": "physics"
+    },
+    {
+        "id": "942",
+        "firstname": "Barry C.",
+        "surname": "Barish",
+        "share": "4",
+        "year": "2017",
+        "category": "physics"
+    },
+    {
+        "id": "943",
+        "firstname": "Kip S.",
+        "surname": "Thorne",
+        "share": "4",
+        "year": "2017",
+        "category": "physics"
+    },
+    {
+        "id": "938",
+        "firstname": "Jeffrey C.",
+        "surname": "Hall",
+        "share": "3",
+        "year": "2017",
+        "category": "medicine"
+    },
+    {
+        "id": "939",
+        "firstname": "Michael",
+        "surname": "Rosbash",
+        "share": "3",
+        "year": "2017",
+        "category": "medicine"
+    },
+    {
+        "id": "940",
+        "firstname": "Michael W.",
+        "surname": "Young",
+        "share": "3",
+        "year": "2017",
+        "category": "medicine"
+    },
+    {
+        "id": "931",
+        "firstname": "Jean-Pierre",
+        "surname": "Sauvage",
+        "share": "3",
+        "year": "2016",
+        "category": "chemistry"
+    },
+    {
+        "id": "932",
+        "firstname": "Sir J. Fraser",
+        "surname": "Stoddart",
+        "share": "3",
+        "year": "2016",
+        "category": "chemistry"
+    },
+    {
+        "id": "933",
+        "firstname": "Bernard L.",
+        "surname": "Feringa",
+        "share": "3",
+        "year": "2016",
+        "category": "chemistry"
+    },
+    {
+        "id": "935",
+        "firstname": "Oliver",
+        "surname": "Hart",
+        "share": "2",
+        "year": "2016",
+        "category": "economics"
+    },
+    {
+        "id": "936",
+        "firstname": "Bengt",
+        "surname": "Holmstr\u00f6m",
+        "share": "2",
+        "year": "2016",
+        "category": "economics"
+    },
+    {
+        "id": "937",
+        "firstname": "Bob",
+        "surname": "Dylan",
+        "share": "1",
+        "year": "2016",
+        "category": "literature"
+    },
+    {
+        "id": "934",
+        "firstname": "Juan Manuel",
+        "surname": "Santos",
+        "share": "1",
+        "year": "2016",
+        "category": "peace"
+    },
+    {
+        "id": "928",
+        "firstname": "David J.",
+        "surname": "Thouless",
+        "share": "2",
+        "year": "2016",
+        "category": "physics"
+    },
+    {
+        "id": "929",
+        "firstname": "F. Duncan M.",
+        "surname": "Haldane",
+        "share": "4",
+        "year": "2016",
+        "category": "physics"
+    },
+    {
+        "id": "930",
+        "firstname": "J. Michael",
+        "surname": "Kosterlitz",
+        "share": "4",
+        "year": "2016",
+        "category": "physics"
+    },
+    {
+        "id": "927",
+        "firstname": "Yoshinori",
+        "surname": "Ohsumi",
+        "share": "1",
+        "year": "2016",
+        "category": "medicine"
+    },
+    {
+        "id": "921",
+        "firstname": "Tomas",
+        "surname": "Lindahl",
+        "share": "3",
+        "year": "2015",
+        "category": "chemistry"
+    },
+    {
+        "id": "922",
+        "firstname": "Paul",
+        "surname": "Modrich",
+        "share": "3",
+        "year": "2015",
+        "category": "chemistry"
+    },
+    {
+        "id": "923",
+        "firstname": "Aziz",
+        "surname": "Sancar",
+        "share": "3",
+        "year": "2015",
+        "category": "chemistry"
+    },
+    {
+        "id": "926",
+        "firstname": "Angus",
+        "surname": "Deaton",
+        "share": "1",
+        "year": "2015",
+        "category": "economics"
+    },
+    {
+        "id": "924",
+        "firstname": "Svetlana",
+        "surname": "Alexievich",
+        "share": "1",
+        "year": "2015",
+        "category": "literature"
+    },
+    {
+        "id": "925",
+        "share": "1",
+        "firstname": "National Dialogue Quartet",
+        "year": "2015",
+        "category": "peace"
+    },
+    {
+        "id": "919",
+        "firstname": "Takaaki",
+        "surname": "Kajita",
+        "share": "2",
+        "year": "2015",
+        "category": "physics"
+    },
+    {
+        "id": "920",
+        "firstname": "Arthur B.",
+        "surname": "McDonald",
+        "share": "2",
+        "year": "2015",
+        "category": "physics"
+    },
+    {
+        "id": "916",
+        "firstname": "William C.",
+        "surname": "Campbell",
+        "share": "4",
+        "year": "2015",
+        "category": "medicine"
+    },
+    {
+        "id": "917",
+        "firstname": "Satoshi",
+        "surname": "\u014cmura",
+        "share": "4",
+        "year": "2015",
+        "category": "medicine"
+    },
+    {
+        "id": "918",
+        "firstname": "Youyou",
+        "surname": "Tu",
+        "share": "2",
+        "year": "2015",
+        "category": "medicine"
+    },
+    {
+        "id": "909",
+        "firstname": "Eric",
+        "surname": "Betzig",
+        "share": "3",
+        "year": "2014",
+        "category": "chemistry"
+    },
+    {
+        "id": "910",
+        "firstname": "Stefan W.",
+        "surname": "Hell",
+        "share": "3",
+        "year": "2014",
+        "category": "chemistry"
+    },
+    {
+        "id": "911",
+        "firstname": "William E.",
+        "surname": "Moerner",
+        "share": "3",
+        "year": "2014",
+        "category": "chemistry"
+    },
+    {
+        "id": "915",
+        "firstname": "Jean",
+        "surname": "Tirole",
+        "share": "1",
+        "year": "2014",
+        "category": "economics"
+    },
+    {
+        "id": "912",
+        "firstname": "Patrick",
+        "surname": "Modiano",
+        "share": "1",
+        "year": "2014",
+        "category": "literature"
+    },
+    {
+        "id": "913",
+        "firstname": "Kailash",
+        "surname": "Satyarthi",
+        "share": "2",
+        "year": "2014",
+        "category": "peace"
+    },
+    {
+        "id": "914",
+        "firstname": "Malala",
+        "surname": "Yousafzai",
+        "share": "2",
+        "year": "2014",
+        "category": "peace"
+    },
+    {
+        "id": "906",
+        "firstname": "Isamu",
+        "surname": "Akasaki",
+        "share": "3",
+        "year": "2014",
+        "category": "physics"
+    },
+    {
+        "id": "907",
+        "firstname": "Hiroshi",
+        "surname": "Amano",
+        "share": "3",
+        "year": "2014",
+        "category": "physics"
+    },
+    {
+        "id": "908",
+        "firstname": "Shuji",
+        "surname": "Nakamura",
+        "share": "3",
+        "year": "2014",
+        "category": "physics"
+    },
+    {
+        "id": "903",
+        "firstname": "John",
+        "surname": "O'Keefe",
+        "share": "2",
+        "year": "2014",
+        "category": "medicine"
+    },
+    {
+        "id": "904",
+        "firstname": "May-Britt",
+        "surname": "Moser",
+        "share": "4",
+        "year": "2014",
+        "category": "medicine"
+    },
+    {
+        "id": "905",
+        "firstname": "Edvard I.",
+        "surname": "Moser",
+        "share": "4",
+        "year": "2014",
+        "category": "medicine"
+    },
+    {
+        "id": "889",
+        "firstname": "Martin",
+        "surname": "Karplus",
+        "share": "3",
+        "year": "2013",
+        "category": "chemistry"
+    },
+    {
+        "id": "890",
+        "firstname": "Michael",
+        "surname": "Levitt",
+        "share": "3",
+        "year": "2013",
+        "category": "chemistry"
+    },
+    {
+        "id": "891",
+        "firstname": "Arieh",
+        "surname": "Warshel",
+        "share": "3",
+        "year": "2013",
+        "category": "chemistry"
+    },
+    {
+        "id": "894",
+        "firstname": "Eugene F.",
+        "surname": "Fama",
+        "share": "3",
+        "year": "2013",
+        "category": "economics"
+    },
+    {
+        "id": "895",
+        "firstname": "Lars Peter",
+        "surname": "Hansen",
+        "share": "3",
+        "year": "2013",
+        "category": "economics"
+    },
+    {
+        "id": "896",
+        "firstname": "Robert J.",
+        "surname": "Shiller",
+        "share": "3",
+        "year": "2013",
+        "category": "economics"
+    },
+    {
+        "id": "892",
+        "firstname": "Alice",
+        "surname": "Munro",
+        "share": "1",
+        "year": "2013",
+        "category": "literature"
+    },
+    {
+        "id": "893",
+        "share": "1",
+        "firstname": "Organisation for the Prohibition of Chemical Weapons",
+        "year": "2013",
+        "category": "peace"
+    },
+    {
+        "id": "887",
+        "firstname": "Fran\u00e7ois",
+        "surname": "Englert",
+        "share": "2",
+        "year": "2013",
+        "category": "physics"
+    },
+    {
+        "id": "888",
+        "firstname": "Peter",
+        "surname": "Higgs",
+        "share": "2",
+        "year": "2013",
+        "category": "physics"
+    },
+    {
+        "id": "884",
+        "firstname": "James E.",
+        "surname": "Rothman",
+        "share": "3",
+        "year": "2013",
+        "category": "medicine"
+    },
+    {
+        "id": "885",
+        "firstname": "Randy W.",
+        "surname": "Schekman",
+        "share": "3",
+        "year": "2013",
+        "category": "medicine"
+    },
+    {
+        "id": "886",
+        "firstname": "Thomas C.",
+        "surname": "S\u00fcdhof",
+        "share": "3",
+        "year": "2013",
+        "category": "medicine"
+    },
+    {
+        "id": "878",
+        "firstname": "Robert J.",
+        "surname": "Lefkowitz",
+        "share": "2",
+        "year": "2012",
+        "category": "chemistry"
+    },
+    {
+        "id": "879",
+        "firstname": "Brian",
+        "surname": "Kobilka",
+        "share": "2",
+        "year": "2012",
+        "category": "chemistry"
+    },
+    {
+        "id": "882",
+        "firstname": "Alvin E.",
+        "surname": "Roth",
+        "share": "2",
+        "year": "2012",
+        "category": "economics"
+    },
+    {
+        "id": "883",
+        "firstname": "Lloyd S.",
+        "surname": "Shapley",
+        "share": "2",
+        "year": "2012",
+        "category": "economics"
+    },
+    {
+        "id": "880",
+        "firstname": "Mo",
+        "surname": "Yan",
+        "share": "1",
+        "year": "2012",
+        "category": "literature"
+    },
+    {
+        "id": "881",
+        "share": "1",
+        "firstname": "European Union",
+        "year": "2012",
+        "category": "peace"
+    },
+    {
+        "id": "876",
+        "firstname": "Serge",
+        "surname": "Haroche",
+        "share": "2",
+        "year": "2012",
+        "category": "physics"
+    },
+    {
+        "id": "877",
+        "firstname": "David J.",
+        "surname": "Wineland",
+        "share": "2",
+        "year": "2012",
+        "category": "physics"
+    },
+    {
+        "id": "874",
+        "firstname": "Sir John B.",
+        "surname": "Gurdon",
+        "share": "2",
+        "year": "2012",
+        "category": "medicine"
+    },
+    {
+        "id": "875",
+        "firstname": "Shinya",
+        "surname": "Yamanaka",
+        "share": "2",
+        "year": "2012",
+        "category": "medicine"
+    },
+    {
+        "id": "867",
+        "firstname": "Dan",
+        "surname": "Shechtman",
+        "share": "1",
+        "year": "2011",
+        "category": "chemistry"
+    },
+    {
+        "id": "872",
+        "firstname": "Thomas J.",
+        "surname": "Sargent",
+        "share": "2",
+        "year": "2011",
+        "category": "economics"
+    },
+    {
+        "id": "873",
+        "firstname": "Christopher A.",
+        "surname": "Sims",
+        "share": "2",
+        "year": "2011",
+        "category": "economics"
+    },
+    {
+        "id": "868",
+        "firstname": "Tomas",
+        "surname": "Transtr\u00f6mer",
+        "share": "1",
+        "year": "2011",
+        "category": "literature"
+    },
+    {
+        "id": "869",
+        "firstname": "Ellen",
+        "surname": "Johnson Sirleaf",
+        "share": "3",
+        "year": "2011",
+        "category": "peace"
+    },
+    {
+        "id": "870",
+        "firstname": "Leymah",
+        "surname": "Gbowee",
+        "share": "3",
+        "year": "2011",
+        "category": "peace"
+    },
+    {
+        "id": "871",
+        "firstname": "Tawakkol",
+        "surname": "Karman",
+        "share": "3",
+        "year": "2011",
+        "category": "peace"
+    },
+    {
+        "id": "864",
+        "firstname": "Saul",
+        "surname": "Perlmutter",
+        "share": "2",
+        "year": "2011",
+        "category": "physics"
+    },
+    {
+        "id": "865",
+        "firstname": "Brian P.",
+        "surname": "Schmidt",
+        "share": "4",
+        "year": "2011",
+        "category": "physics"
+    },
+    {
+        "id": "866",
+        "firstname": "Adam G.",
+        "surname": "Riess",
+        "share": "4",
+        "year": "2011",
+        "category": "physics"
+    },
+    {
+        "id": "861",
+        "firstname": "Bruce A.",
+        "surname": "Beutler",
+        "share": "4",
+        "year": "2011",
+        "category": "medicine"
+    },
+    {
+        "id": "862",
+        "firstname": "Jules A.",
+        "surname": "Hoffmann",
+        "share": "4",
+        "year": "2011",
+        "category": "medicine"
+    },
+    {
+        "id": "863",
+        "firstname": "Ralph M.",
+        "surname": "Steinman",
+        "share": "2",
+        "year": "2011",
+        "category": "medicine"
+    },
+    {
+        "id": "851",
+        "firstname": "Richard F.",
+        "surname": "Heck",
+        "share": "3",
+        "year": "2010",
+        "category": "chemistry"
+    },
+    {
+        "id": "852",
+        "firstname": "Ei-ichi",
+        "surname": "Negishi",
+        "share": "3",
+        "year": "2010",
+        "category": "chemistry"
+    },
+    {
+        "id": "853",
+        "firstname": "Akira",
+        "surname": "Suzuki",
+        "share": "3",
+        "year": "2010",
+        "category": "chemistry"
+    },
+    {
+        "id": "856",
+        "firstname": "Peter A.",
+        "surname": "Diamond",
+        "share": "3",
+        "year": "2010",
+        "category": "economics"
+    },
+    {
+        "id": "857",
+        "firstname": "Dale T.",
+        "surname": "Mortensen",
+        "share": "3",
+        "year": "2010",
+        "category": "economics"
+    },
+    {
+        "id": "858",
+        "firstname": "Christopher A.",
+        "surname": "Pissarides",
+        "share": "3",
+        "year": "2010",
+        "category": "economics"
+    },
+    {
+        "id": "854",
+        "firstname": "Mario",
+        "surname": "Vargas Llosa",
+        "share": "1",
+        "year": "2010",
+        "category": "literature"
+    },
+    {
+        "id": "855",
+        "firstname": "Xiaobo",
+        "surname": "Liu",
+        "share": "1",
+        "year": "2010",
+        "category": "peace"
+    },
+    {
+        "id": "849",
+        "firstname": "Andre",
+        "surname": "Geim",
+        "share": "2",
+        "year": "2010",
+        "category": "physics"
+    },
+    {
+        "id": "850",
+        "firstname": "Konstantin",
+        "surname": "Novoselov",
+        "share": "2",
+        "year": "2010",
+        "category": "physics"
+    },
+    {
+        "id": "848",
+        "firstname": "Robert G.",
+        "surname": "Edwards",
+        "share": "1",
+        "year": "2010",
+        "category": "medicine"
+    },
+    {
+        "id": "841",
+        "firstname": "Venkatraman",
+        "surname": "Ramakrishnan",
+        "share": "3",
+        "year": "2009",
+        "category": "chemistry"
+    },
+    {
+        "id": "842",
+        "firstname": "Thomas A.",
+        "surname": "Steitz",
+        "share": "3",
+        "year": "2009",
+        "category": "chemistry"
+    },
+    {
+        "id": "843",
+        "firstname": "Ada E.",
+        "surname": "Yonath",
+        "share": "3",
+        "year": "2009",
+        "category": "chemistry"
+    },
+    {
+        "id": "846",
+        "firstname": "Elinor",
+        "surname": "Ostrom",
+        "share": "2",
+        "year": "2009",
+        "category": "economics"
+    },
+    {
+        "id": "847",
+        "firstname": "Oliver E.",
+        "surname": "Williamson",
+        "share": "2",
+        "year": "2009",
+        "category": "economics"
+    },
+    {
+        "id": "844",
+        "firstname": "Herta",
+        "surname": "M\u00fcller",
+        "share": "1",
+        "year": "2009",
+        "category": "literature"
+    },
+    {
+        "id": "845",
+        "firstname": "Barack",
+        "surname": "Obama",
+        "share": "1",
+        "year": "2009",
+        "category": "peace"
+    },
+    {
+        "id": "838",
+        "firstname": "Charles K.",
+        "surname": "Kao",
+        "share": "2",
+        "year": "2009",
+        "category": "physics"
+    },
+    {
+        "id": "839",
+        "firstname": "Willard S.",
+        "surname": "Boyle",
+        "share": "4",
+        "year": "2009",
+        "category": "physics"
+    },
+    {
+        "id": "840",
+        "firstname": "George E.",
+        "surname": "Smith",
+        "share": "4",
+        "year": "2009",
+        "category": "physics"
+    },
+    {
+        "id": "835",
+        "firstname": "Elizabeth H.",
+        "surname": "Blackburn",
+        "share": "3",
+        "year": "2009",
+        "category": "medicine"
+    },
+    {
+        "id": "836",
+        "firstname": "Carol W.",
+        "surname": "Greider",
+        "share": "3",
+        "year": "2009",
+        "category": "medicine"
+    },
+    {
+        "id": "837",
+        "firstname": "Jack W.",
+        "surname": "Szostak",
+        "share": "3",
+        "year": "2009",
+        "category": "medicine"
+    },
+    {
+        "id": "829",
+        "firstname": "Osamu",
+        "surname": "Shimomura",
+        "share": "3",
+        "year": "2008",
+        "category": "chemistry"
+    },
+    {
+        "id": "830",
+        "firstname": "Martin",
+        "surname": "Chalfie",
+        "share": "3",
+        "year": "2008",
+        "category": "chemistry"
+    },
+    {
+        "id": "831",
+        "firstname": "Roger Y.",
+        "surname": "Tsien",
+        "share": "3",
+        "year": "2008",
+        "category": "chemistry"
+    },
+    {
+        "id": "834",
+        "firstname": "Paul",
+        "surname": "Krugman",
+        "share": "1",
+        "year": "2008",
+        "category": "economics"
+    },
+    {
+        "id": "832",
+        "firstname": "Jean-Marie Gustave",
+        "surname": "Le Cl\u00e9zio",
+        "share": "1",
+        "year": "2008",
+        "category": "literature"
+    },
+    {
+        "id": "833",
+        "firstname": "Martti",
+        "surname": "Ahtisaari",
+        "share": "1",
+        "year": "2008",
+        "category": "peace"
+    },
+    {
+        "id": "826",
+        "firstname": "Yoichiro",
+        "surname": "Nambu",
+        "share": "2",
+        "year": "2008",
+        "category": "physics"
+    },
+    {
+        "id": "827",
+        "firstname": "Makoto",
+        "surname": "Kobayashi",
+        "share": "4",
+        "year": "2008",
+        "category": "physics"
+    },
+    {
+        "id": "828",
+        "firstname": "Toshihide",
+        "surname": "Maskawa",
+        "share": "4",
+        "year": "2008",
+        "category": "physics"
+    },
+    {
+        "id": "823",
+        "firstname": "Harald",
+        "surname": "zur Hausen",
+        "share": "2",
+        "year": "2008",
+        "category": "medicine"
+    },
+    {
+        "id": "824",
+        "firstname": "Fran\u00e7oise",
+        "surname": "Barr\u00e9-Sinoussi",
+        "share": "4",
+        "year": "2008",
+        "category": "medicine"
+    },
+    {
+        "id": "825",
+        "firstname": "Luc",
+        "surname": "Montagnier",
+        "share": "4",
+        "year": "2008",
+        "category": "medicine"
+    },
+    {
+        "id": "816",
+        "firstname": "Gerhard",
+        "surname": "Ertl",
+        "share": "1",
+        "year": "2007",
+        "category": "chemistry"
+    },
+    {
+        "id": "820",
+        "firstname": "Leonid",
+        "surname": "Hurwicz",
+        "share": "3",
+        "year": "2007",
+        "category": "economics"
+    },
+    {
+        "id": "821",
+        "firstname": "Eric S.",
+        "surname": "Maskin",
+        "share": "3",
+        "year": "2007",
+        "category": "economics"
+    },
+    {
+        "id": "822",
+        "firstname": "Roger B.",
+        "surname": "Myerson",
+        "share": "3",
+        "year": "2007",
+        "category": "economics"
+    },
+    {
+        "id": "817",
+        "firstname": "Doris",
+        "surname": "Lessing",
+        "share": "1",
+        "year": "2007",
+        "category": "literature"
+    },
+    {
+        "id": "818",
+        "share": "2",
+        "firstname": "Intergovernmental Panel on Climate Change",
+        "year": "2007",
+        "category": "peace"
+    },
+    {
+        "id": "819",
+        "firstname": "Al",
+        "surname": "Gore",
+        "share": "2",
+        "year": "2007",
+        "category": "peace"
+    },
+    {
+        "id": "814",
+        "firstname": "Albert",
+        "surname": "Fert",
+        "share": "2",
+        "year": "2007",
+        "category": "physics"
+    },
+    {
+        "id": "815",
+        "firstname": "Peter",
+        "surname": "Gr\u00fcnberg",
+        "share": "2",
+        "year": "2007",
+        "category": "physics"
+    },
+    {
+        "id": "811",
+        "firstname": "Mario R.",
+        "surname": "Capecchi",
+        "share": "3",
+        "year": "2007",
+        "category": "medicine"
+    },
+    {
+        "id": "812",
+        "firstname": "Sir Martin J.",
+        "surname": "Evans",
+        "share": "3",
+        "year": "2007",
+        "category": "medicine"
+    },
+    {
+        "id": "813",
+        "firstname": "Oliver",
+        "surname": "Smithies",
+        "share": "3",
+        "year": "2007",
+        "category": "medicine"
+    },
+    {
+        "id": "806",
+        "firstname": "Roger D.",
+        "surname": "Kornberg",
+        "share": "1",
+        "year": "2006",
+        "category": "chemistry"
+    },
+    {
+        "id": "807",
+        "firstname": "Edmund S.",
+        "surname": "Phelps",
+        "share": "1",
+        "year": "2006",
+        "category": "economics"
+    },
+    {
+        "id": "808",
+        "firstname": "Orhan",
+        "surname": "Pamuk",
+        "share": "1",
+        "year": "2006",
+        "category": "literature"
+    },
+    {
+        "id": "809",
+        "firstname": "Muhammad",
+        "surname": "Yunus",
+        "share": "2",
+        "year": "2006",
+        "category": "peace"
+    },
+    {
+        "id": "810",
+        "share": "2",
+        "firstname": "Grameen Bank",
+        "year": "2006",
+        "category": "peace"
+    },
+    {
+        "id": "804",
+        "firstname": "John C.",
+        "surname": "Mather",
+        "share": "2",
+        "year": "2006",
+        "category": "physics"
+    },
+    {
+        "id": "805",
+        "firstname": "George F.",
+        "surname": "Smoot",
+        "share": "2",
+        "year": "2006",
+        "category": "physics"
+    },
+    {
+        "id": "802",
+        "firstname": "Andrew Z.",
+        "surname": "Fire",
+        "share": "2",
+        "year": "2006",
+        "category": "medicine"
+    },
+    {
+        "id": "803",
+        "firstname": "Craig C.",
+        "surname": "Mello",
+        "share": "2",
+        "year": "2006",
+        "category": "medicine"
+    },
+    {
+        "id": "794",
+        "firstname": "Yves",
+        "surname": "Chauvin",
+        "share": "3",
+        "year": "2005",
+        "category": "chemistry"
+    },
+    {
+        "id": "795",
+        "firstname": "Robert H.",
+        "surname": "Grubbs",
+        "share": "3",
+        "year": "2005",
+        "category": "chemistry"
+    },
+    {
+        "id": "796",
+        "firstname": "Richard R.",
+        "surname": "Schrock",
+        "share": "3",
+        "year": "2005",
+        "category": "chemistry"
+    },
+    {
+        "id": "799",
+        "firstname": "Robert J.",
+        "surname": "Aumann",
+        "share": "2",
+        "year": "2005",
+        "category": "economics"
+    },
+    {
+        "id": "800",
+        "firstname": "Thomas C.",
+        "surname": "Schelling",
+        "share": "2",
+        "year": "2005",
+        "category": "economics"
+    },
+    {
+        "id": "801",
+        "firstname": "Harold",
+        "surname": "Pinter",
+        "share": "1",
+        "year": "2005",
+        "category": "literature"
+    },
+    {
+        "id": "797",
+        "share": "2",
+        "firstname": "International Atomic Energy Agency",
+        "year": "2005",
+        "category": "peace"
+    },
+    {
+        "id": "798",
+        "firstname": "Mohamed",
+        "surname": "ElBaradei",
+        "share": "2",
+        "year": "2005",
+        "category": "peace"
+    },
+    {
+        "id": "791",
+        "firstname": "Roy J.",
+        "surname": "Glauber",
+        "share": "2",
+        "year": "2005",
+        "category": "physics"
+    },
+    {
+        "id": "792",
+        "firstname": "John L.",
+        "surname": "Hall",
+        "share": "4",
+        "year": "2005",
+        "category": "physics"
+    },
+    {
+        "id": "793",
+        "firstname": "Theodor W.",
+        "surname": "H\u00e4nsch",
+        "share": "4",
+        "year": "2005",
+        "category": "physics"
+    },
+    {
+        "id": "789",
+        "firstname": "Barry J.",
+        "surname": "Marshall",
+        "share": "2",
+        "year": "2005",
+        "category": "medicine"
+    },
+    {
+        "id": "790",
+        "firstname": "J. Robin",
+        "surname": "Warren",
+        "share": "2",
+        "year": "2005",
+        "category": "medicine"
+    },
+    {
+        "id": "779",
+        "firstname": "Aaron",
+        "surname": "Ciechanover",
+        "share": "3",
+        "year": "2004",
+        "category": "chemistry"
+    },
+    {
+        "id": "780",
+        "firstname": "Avram",
+        "surname": "Hershko",
+        "share": "3",
+        "year": "2004",
+        "category": "chemistry"
+    },
+    {
+        "id": "781",
+        "firstname": "Irwin",
+        "surname": "Rose",
+        "share": "3",
+        "year": "2004",
+        "category": "chemistry"
+    },
+    {
+        "id": "786",
+        "firstname": "Finn E.",
+        "surname": "Kydland",
+        "share": "2",
+        "year": "2004",
+        "category": "economics"
+    },
+    {
+        "id": "787",
+        "firstname": "Edward C.",
+        "surname": "Prescott",
+        "share": "2",
+        "year": "2004",
+        "category": "economics"
+    },
+    {
+        "id": "782",
+        "firstname": "Elfriede",
+        "surname": "Jelinek",
+        "share": "1",
+        "year": "2004",
+        "category": "literature"
+    },
+    {
+        "id": "783",
+        "firstname": "Wangari",
+        "surname": "Maathai",
+        "share": "1",
+        "year": "2004",
+        "category": "peace"
+    },
+    {
+        "id": "776",
+        "firstname": "David J.",
+        "surname": "Gross",
+        "share": "3",
+        "year": "2004",
+        "category": "physics"
+    },
+    {
+        "id": "777",
+        "firstname": "H. David",
+        "surname": "Politzer",
+        "share": "3",
+        "year": "2004",
+        "category": "physics"
+    },
+    {
+        "id": "778",
+        "firstname": "Frank",
+        "surname": "Wilczek",
+        "share": "3",
+        "year": "2004",
+        "category": "physics"
+    },
+    {
+        "id": "774",
+        "firstname": "Richard",
+        "surname": "Axel",
+        "share": "2",
+        "year": "2004",
+        "category": "medicine"
+    },
+    {
+        "id": "775",
+        "firstname": "Linda B.",
+        "surname": "Buck",
+        "share": "2",
+        "year": "2004",
+        "category": "medicine"
+    },
+    {
+        "id": "769",
+        "firstname": "Peter",
+        "surname": "Agre",
+        "share": "2",
+        "year": "2003",
+        "category": "chemistry"
+    },
+    {
+        "id": "770",
+        "firstname": "Roderick",
+        "surname": "MacKinnon",
+        "share": "2",
+        "year": "2003",
+        "category": "chemistry"
+    },
+    {
+        "id": "771",
+        "firstname": "Robert F.",
+        "surname": "Engle III",
+        "share": "2",
+        "year": "2003",
+        "category": "economics"
+    },
+    {
+        "id": "772",
+        "firstname": "Clive W.J.",
+        "surname": "Granger",
+        "share": "2",
+        "year": "2003",
+        "category": "economics"
+    },
+    {
+        "id": "763",
+        "firstname": "J. M.",
+        "surname": "Coetzee",
+        "share": "1",
+        "year": "2003",
+        "category": "literature"
+    },
+    {
+        "id": "773",
+        "firstname": "Shirin",
+        "surname": "Ebadi",
+        "share": "1",
+        "year": "2003",
+        "category": "peace"
+    },
+    {
+        "id": "766",
+        "firstname": "Alexei",
+        "surname": "Abrikosov",
+        "share": "3",
+        "year": "2003",
+        "category": "physics"
+    },
+    {
+        "id": "767",
+        "firstname": "Vitaly L.",
+        "surname": "Ginzburg",
+        "share": "3",
+        "year": "2003",
+        "category": "physics"
+    },
+    {
+        "id": "768",
+        "firstname": "Anthony J.",
+        "surname": "Leggett",
+        "share": "3",
+        "year": "2003",
+        "category": "physics"
+    },
+    {
+        "id": "764",
+        "firstname": "Paul C.",
+        "surname": "Lauterbur",
+        "share": "2",
+        "year": "2003",
+        "category": "medicine"
+    },
+    {
+        "id": "765",
+        "firstname": "Sir Peter",
+        "surname": "Mansfield",
+        "share": "2",
+        "year": "2003",
+        "category": "medicine"
+    },
+    {
+        "id": "756",
+        "firstname": "John B.",
+        "surname": "Fenn",
+        "share": "4",
+        "year": "2002",
+        "category": "chemistry"
+    },
+    {
+        "id": "757",
+        "firstname": "Koichi",
+        "surname": "Tanaka",
+        "share": "4",
+        "year": "2002",
+        "category": "chemistry"
+    },
+    {
+        "id": "758",
+        "firstname": "Kurt",
+        "surname": "W\u00fcthrich",
+        "share": "2",
+        "year": "2002",
+        "category": "chemistry"
+    },
+    {
+        "id": "759",
+        "firstname": "Daniel",
+        "surname": "Kahneman",
+        "share": "2",
+        "year": "2002",
+        "category": "economics"
+    },
+    {
+        "id": "760",
+        "firstname": "Vernon L.",
+        "surname": "Smith",
+        "share": "2",
+        "year": "2002",
+        "category": "economics"
+    },
+    {
+        "id": "761",
+        "firstname": "Imre",
+        "surname": "Kert\u00e9sz",
+        "share": "1",
+        "year": "2002",
+        "category": "literature"
+    },
+    {
+        "id": "762",
+        "firstname": "Jimmy",
+        "surname": "Carter",
+        "share": "1",
+        "year": "2002",
+        "category": "peace"
+    },
+    {
+        "id": "753",
+        "firstname": "Raymond",
+        "surname": "Davis Jr.",
+        "share": "4",
+        "year": "2002",
+        "category": "physics"
+    },
+    {
+        "id": "754",
+        "firstname": "Masatoshi",
+        "surname": "Koshiba",
+        "share": "4",
+        "year": "2002",
+        "category": "physics"
+    },
+    {
+        "id": "755",
+        "firstname": "Riccardo",
+        "surname": "Giacconi",
+        "share": "2",
+        "year": "2002",
+        "category": "physics"
+    },
+    {
+        "id": "750",
+        "firstname": "Sydney",
+        "surname": "Brenner",
+        "share": "3",
+        "year": "2002",
+        "category": "medicine"
+    },
+    {
+        "id": "751",
+        "firstname": "H. Robert",
+        "surname": "Horvitz",
+        "share": "3",
+        "year": "2002",
+        "category": "medicine"
+    },
+    {
+        "id": "752",
+        "firstname": "John E.",
+        "surname": "Sulston",
+        "share": "3",
+        "year": "2002",
+        "category": "medicine"
+    },
+    {
+        "id": "741",
+        "firstname": "William",
+        "surname": "Knowles",
+        "share": "4",
+        "year": "2001",
+        "category": "chemistry"
+    },
+    {
+        "id": "742",
+        "firstname": "Ryoji",
+        "surname": "Noyori",
+        "share": "4",
+        "year": "2001",
+        "category": "chemistry"
+    },
+    {
+        "id": "743",
+        "firstname": "Barry",
+        "surname": "Sharpless",
+        "share": "2",
+        "year": "2001",
+        "category": "chemistry"
+    },
+    {
+        "id": "744",
+        "firstname": "George A.",
+        "surname": "Akerlof",
+        "share": "3",
+        "year": "2001",
+        "category": "economics"
+    },
+    {
+        "id": "745",
+        "firstname": "A. Michael",
+        "surname": "Spence",
+        "share": "3",
+        "year": "2001",
+        "category": "economics"
+    },
+    {
+        "id": "746",
+        "firstname": "Joseph E.",
+        "surname": "Stiglitz",
+        "share": "3",
+        "year": "2001",
+        "category": "economics"
+    },
+    {
+        "id": "747",
+        "firstname": "V. S.",
+        "surname": "Naipaul",
+        "share": "1",
+        "year": "2001",
+        "category": "literature"
+    },
+    {
+        "id": "748",
+        "share": "2",
+        "firstname": "United Nations",
+        "year": "2001",
+        "category": "peace"
+    },
+    {
+        "id": "749",
+        "firstname": "Kofi",
+        "surname": "Annan",
+        "share": "2",
+        "year": "2001",
+        "category": "peace"
+    },
+    {
+        "id": "738",
+        "firstname": "Eric",
+        "surname": "Cornell",
+        "share": "3",
+        "year": "2001",
+        "category": "physics"
+    },
+    {
+        "id": "739",
+        "firstname": "Wolfgang",
+        "surname": "Ketterle",
+        "share": "3",
+        "year": "2001",
+        "category": "physics"
+    },
+    {
+        "id": "740",
+        "firstname": "Carl",
+        "surname": "Wieman",
+        "share": "3",
+        "year": "2001",
+        "category": "physics"
+    },
+    {
+        "id": "737",
+        "firstname": "Sir Paul",
+        "surname": "Nurse",
+        "share": "3",
+        "year": "2001",
+        "category": "medicine"
+    },
+    {
+        "id": "735",
+        "firstname": "Leland",
+        "surname": "Hartwell",
+        "share": "3",
+        "year": "2001",
+        "category": "medicine"
+    },
+    {
+        "id": "736",
+        "firstname": "Tim",
+        "surname": "Hunt",
+        "share": "3",
+        "year": "2001",
+        "category": "medicine"
+    },
+    {
+        "id": "729",
+        "firstname": "Alan",
+        "surname": "Heeger",
+        "share": "3",
+        "year": "2000",
+        "category": "chemistry"
+    },
+    {
+        "id": "730",
+        "firstname": "Alan",
+        "surname": "MacDiarmid",
+        "share": "3",
+        "year": "2000",
+        "category": "chemistry"
+    },
+    {
+        "id": "731",
+        "firstname": "Hideki",
+        "surname": "Shirakawa",
+        "share": "3",
+        "year": "2000",
+        "category": "chemistry"
+    },
+    {
+        "id": "732",
+        "firstname": "James J.",
+        "surname": "Heckman",
+        "share": "2",
+        "year": "2000",
+        "category": "economics"
+    },
+    {
+        "id": "733",
+        "firstname": "Daniel L.",
+        "surname": "McFadden",
+        "share": "2",
+        "year": "2000",
+        "category": "economics"
+    },
+    {
+        "id": "734",
+        "firstname": "Xingjian",
+        "surname": "Gao",
+        "share": "1",
+        "year": "2000",
+        "category": "literature"
+    },
+    {
+        "id": "725",
+        "firstname": "Kim",
+        "surname": "Dae-jung",
+        "share": "1",
+        "year": "2000",
+        "category": "peace"
+    },
+    {
+        "id": "726",
+        "firstname": "Zhores",
+        "surname": "Alferov",
+        "share": "4",
+        "year": "2000",
+        "category": "physics"
+    },
+    {
+        "id": "727",
+        "firstname": "Herbert",
+        "surname": "Kroemer",
+        "share": "4",
+        "year": "2000",
+        "category": "physics"
+    },
+    {
+        "id": "728",
+        "firstname": "Jack",
+        "surname": "Kilby",
+        "share": "2",
+        "year": "2000",
+        "category": "physics"
+    },
+    {
+        "id": "722",
+        "firstname": "Arvid",
+        "surname": "Carlsson",
+        "share": "3",
+        "year": "2000",
+        "category": "medicine"
+    },
+    {
+        "id": "723",
+        "firstname": "Paul",
+        "surname": "Greengard",
+        "share": "3",
+        "year": "2000",
+        "category": "medicine"
+    },
+    {
+        "id": "724",
+        "firstname": "Eric",
+        "surname": "Kandel",
+        "share": "3",
+        "year": "2000",
+        "category": "medicine"
+    },
+    {
+        "id": "292",
+        "firstname": "Ahmed",
+        "surname": "Zewail",
+        "share": "1",
+        "year": "1999",
+        "category": "chemistry"
+    },
+    {
+        "id": "720",
+        "firstname": "Robert",
+        "surname": "Mundell",
+        "share": "1",
+        "year": "1999",
+        "category": "economics"
+    },
+    {
+        "id": "676",
+        "firstname": "G\u00fcnter",
+        "surname": "Grass",
+        "share": "1",
+        "year": "1999",
+        "category": "literature"
+    },
+    {
+        "id": "568",
+        "share": "1",
+        "firstname": "Doctors Without Borders",
+        "year": "1999",
+        "category": "peace"
+    },
+    {
+        "id": "158",
+        "firstname": "Gerardus",
+        "surname": "'t Hooft",
+        "share": "2",
+        "year": "1999",
+        "category": "physics"
+    },
+    {
+        "id": "159",
+        "firstname": "Martinus J.G.",
+        "surname": "Veltman",
+        "share": "2",
+        "year": "1999",
+        "category": "physics"
+    },
+    {
+        "id": "461",
+        "firstname": "G\u00fcnter",
+        "surname": "Blobel",
+        "share": "1",
+        "year": "1999",
+        "category": "medicine"
+    },
+    {
+        "id": "290",
+        "firstname": "Walter",
+        "surname": "Kohn",
+        "share": "2",
+        "year": "1998",
+        "category": "chemistry"
+    },
+    {
+        "id": "291",
+        "firstname": "John",
+        "surname": "Pople",
+        "share": "2",
+        "year": "1998",
+        "category": "chemistry"
+    },
+    {
+        "id": "719",
+        "firstname": "Amartya",
+        "surname": "Sen",
+        "share": "1",
+        "year": "1998",
+        "category": "economics"
+    },
+    {
+        "id": "675",
+        "firstname": "Jos\u00e9",
+        "surname": "Saramago",
+        "share": "1",
+        "year": "1998",
+        "category": "literature"
+    },
+    {
+        "id": "566",
+        "firstname": "John",
+        "surname": "Hume",
+        "share": "2",
+        "year": "1998",
+        "category": "peace"
+    },
+    {
+        "id": "567",
+        "firstname": "David",
+        "surname": "Trimble",
+        "share": "2",
+        "year": "1998",
+        "category": "peace"
+    },
+    {
+        "id": "155",
+        "firstname": "Robert B.",
+        "surname": "Laughlin",
+        "share": "3",
+        "year": "1998",
+        "category": "physics"
+    },
+    {
+        "id": "156",
+        "firstname": "Horst L.",
+        "surname": "St\u00f6rmer",
+        "share": "3",
+        "year": "1998",
+        "category": "physics"
+    },
+    {
+        "id": "157",
+        "firstname": "Daniel C.",
+        "surname": "Tsui",
+        "share": "3",
+        "year": "1998",
+        "category": "physics"
+    },
+    {
+        "id": "458",
+        "firstname": "Robert F.",
+        "surname": "Furchgott",
+        "share": "3",
+        "year": "1998",
+        "category": "medicine"
+    },
+    {
+        "id": "459",
+        "firstname": "Louis J.",
+        "surname": "Ignarro",
+        "share": "3",
+        "year": "1998",
+        "category": "medicine"
+    },
+    {
+        "id": "460",
+        "firstname": "Ferid",
+        "surname": "Murad",
+        "share": "3",
+        "year": "1998",
+        "category": "medicine"
+    },
+    {
+        "id": "287",
+        "firstname": "Paul D.",
+        "surname": "Boyer",
+        "share": "4",
+        "year": "1997",
+        "category": "chemistry"
+    },
+    {
+        "id": "288",
+        "firstname": "John E.",
+        "surname": "Walker",
+        "share": "4",
+        "year": "1997",
+        "category": "chemistry"
+    },
+    {
+        "id": "289",
+        "firstname": "Jens C.",
+        "surname": "Skou",
+        "share": "2",
+        "year": "1997",
+        "category": "chemistry"
+    },
+    {
+        "id": "717",
+        "firstname": "Robert C.",
+        "surname": "Merton",
+        "share": "2",
+        "year": "1997",
+        "category": "economics"
+    },
+    {
+        "id": "718",
+        "firstname": "Myron",
+        "surname": "Scholes",
+        "share": "2",
+        "year": "1997",
+        "category": "economics"
+    },
+    {
+        "id": "674",
+        "firstname": "Dario",
+        "surname": "Fo",
+        "share": "1",
+        "year": "1997",
+        "category": "literature"
+    },
+    {
+        "id": "564",
+        "share": "2",
+        "firstname": "International Campaign to Ban Landmines",
+        "year": "1997",
+        "category": "peace"
+    },
+    {
+        "id": "565",
+        "firstname": "Jody",
+        "surname": "Williams",
+        "share": "2",
+        "year": "1997",
+        "category": "peace"
+    },
+    {
+        "id": "152",
+        "firstname": "Steven",
+        "surname": "Chu",
+        "share": "3",
+        "year": "1997",
+        "category": "physics"
+    },
+    {
+        "id": "153",
+        "firstname": "Claude",
+        "surname": "Cohen-Tannoudji",
+        "share": "3",
+        "year": "1997",
+        "category": "physics"
+    },
+    {
+        "id": "154",
+        "firstname": "William D.",
+        "surname": "Phillips",
+        "share": "3",
+        "year": "1997",
+        "category": "physics"
+    },
+    {
+        "id": "457",
+        "firstname": "Stanley B.",
+        "surname": "Prusiner",
+        "share": "1",
+        "year": "1997",
+        "category": "medicine"
+    },
+    {
+        "id": "284",
+        "firstname": "Robert F.",
+        "surname": "Curl Jr.",
+        "share": "3",
+        "year": "1996",
+        "category": "chemistry"
+    },
+    {
+        "id": "285",
+        "firstname": "Sir Harold",
+        "surname": "Kroto",
+        "share": "3",
+        "year": "1996",
+        "category": "chemistry"
+    },
+    {
+        "id": "286",
+        "firstname": "Richard E.",
+        "surname": "Smalley",
+        "share": "3",
+        "year": "1996",
+        "category": "chemistry"
+    },
+    {
+        "id": "715",
+        "firstname": "James A.",
+        "surname": "Mirrlees",
+        "share": "2",
+        "year": "1996",
+        "category": "economics"
+    },
+    {
+        "id": "716",
+        "firstname": "William",
+        "surname": "Vickrey",
+        "share": "2",
+        "year": "1996",
+        "category": "economics"
+    },
+    {
+        "id": "673",
+        "firstname": "Wis\u0142awa",
+        "surname": "Szymborska",
+        "share": "1",
+        "year": "1996",
+        "category": "literature"
+    },
+    {
+        "id": "562",
+        "firstname": "Carlos Filipe Ximenes",
+        "surname": "Belo",
+        "share": "2",
+        "year": "1996",
+        "category": "peace"
+    },
+    {
+        "id": "563",
+        "firstname": "Jos\u00e9",
+        "surname": "Ramos-Horta",
+        "share": "2",
+        "year": "1996",
+        "category": "peace"
+    },
+    {
+        "id": "149",
+        "firstname": "David M.",
+        "surname": "Lee",
+        "share": "3",
+        "year": "1996",
+        "category": "physics"
+    },
+    {
+        "id": "150",
+        "firstname": "Douglas D.",
+        "surname": "Osheroff",
+        "share": "3",
+        "year": "1996",
+        "category": "physics"
+    },
+    {
+        "id": "151",
+        "firstname": "Robert C.",
+        "surname": "Richardson",
+        "share": "3",
+        "year": "1996",
+        "category": "physics"
+    },
+    {
+        "id": "455",
+        "firstname": "Peter C.",
+        "surname": "Doherty",
+        "share": "2",
+        "year": "1996",
+        "category": "medicine"
+    },
+    {
+        "id": "456",
+        "firstname": "Rolf M.",
+        "surname": "Zinkernagel",
+        "share": "2",
+        "year": "1996",
+        "category": "medicine"
+    },
+    {
+        "id": "281",
+        "firstname": "Paul J.",
+        "surname": "Crutzen",
+        "share": "3",
+        "year": "1995",
+        "category": "chemistry"
+    },
+    {
+        "id": "282",
+        "firstname": "Mario J.",
+        "surname": "Molina",
+        "share": "3",
+        "year": "1995",
+        "category": "chemistry"
+    },
+    {
+        "id": "283",
+        "firstname": "F. Sherwood",
+        "surname": "Rowland",
+        "share": "3",
+        "year": "1995",
+        "category": "chemistry"
+    },
+    {
+        "id": "714",
+        "firstname": "Robert E.",
+        "surname": "Lucas Jr.",
+        "share": "1",
+        "year": "1995",
+        "category": "economics"
+    },
+    {
+        "id": "672",
+        "firstname": "Seamus",
+        "surname": "Heaney",
+        "share": "1",
+        "year": "1995",
+        "category": "literature"
+    },
+    {
+        "id": "560",
+        "firstname": "Joseph",
+        "surname": "Rotblat",
+        "share": "2",
+        "year": "1995",
+        "category": "peace"
+    },
+    {
+        "id": "561",
+        "share": "2",
+        "firstname": "Pugwash Conferences on Science and World Affairs",
+        "year": "1995",
+        "category": "peace"
+    },
+    {
+        "id": "147",
+        "firstname": "Martin L.",
+        "surname": "Perl",
+        "share": "2",
+        "year": "1995",
+        "category": "physics"
+    },
+    {
+        "id": "148",
+        "firstname": "Frederick",
+        "surname": "Reines",
+        "share": "2",
+        "year": "1995",
+        "category": "physics"
+    },
+    {
+        "id": "452",
+        "firstname": "Edward B.",
+        "surname": "Lewis",
+        "share": "3",
+        "year": "1995",
+        "category": "medicine"
+    },
+    {
+        "id": "453",
+        "firstname": "Christiane",
+        "surname": "N\u00fcsslein-Volhard",
+        "share": "3",
+        "year": "1995",
+        "category": "medicine"
+    },
+    {
+        "id": "454",
+        "firstname": "Eric F.",
+        "surname": "Wieschaus",
+        "share": "3",
+        "year": "1995",
+        "category": "medicine"
+    },
+    {
+        "id": "280",
+        "firstname": "George A.",
+        "surname": "Olah",
+        "share": "1",
+        "year": "1994",
+        "category": "chemistry"
+    },
+    {
+        "id": "711",
+        "firstname": "John C.",
+        "surname": "Harsanyi",
+        "share": "3",
+        "year": "1994",
+        "category": "economics"
+    },
+    {
+        "id": "712",
+        "firstname": "John F.",
+        "surname": "Nash Jr.",
+        "share": "3",
+        "year": "1994",
+        "category": "economics"
+    },
+    {
+        "id": "713",
+        "firstname": "Reinhard",
+        "surname": "Selten",
+        "share": "3",
+        "year": "1994",
+        "category": "economics"
+    },
+    {
+        "id": "671",
+        "firstname": "Kenzaburo",
+        "surname": "Oe",
+        "share": "1",
+        "year": "1994",
+        "category": "literature"
+    },
+    {
+        "id": "557",
+        "firstname": "Yasser",
+        "surname": "Arafat",
+        "share": "3",
+        "year": "1994",
+        "category": "peace"
+    },
+    {
+        "id": "558",
+        "firstname": "Shimon",
+        "surname": "Peres",
+        "share": "3",
+        "year": "1994",
+        "category": "peace"
+    },
+    {
+        "id": "559",
+        "firstname": "Yitzhak",
+        "surname": "Rabin",
+        "share": "3",
+        "year": "1994",
+        "category": "peace"
+    },
+    {
+        "id": "145",
+        "firstname": "Bertram N.",
+        "surname": "Brockhouse",
+        "share": "2",
+        "year": "1994",
+        "category": "physics"
+    },
+    {
+        "id": "146",
+        "firstname": "Clifford G.",
+        "surname": "Shull",
+        "share": "2",
+        "year": "1994",
+        "category": "physics"
+    },
+    {
+        "id": "450",
+        "firstname": "Alfred G.",
+        "surname": "Gilman",
+        "share": "2",
+        "year": "1994",
+        "category": "medicine"
+    },
+    {
+        "id": "451",
+        "firstname": "Martin",
+        "surname": "Rodbell",
+        "share": "2",
+        "year": "1994",
+        "category": "medicine"
+    },
+    {
+        "id": "278",
+        "firstname": "Kary B.",
+        "surname": "Mullis",
+        "share": "2",
+        "year": "1993",
+        "category": "chemistry"
+    },
+    {
+        "id": "279",
+        "firstname": "Michael",
+        "surname": "Smith",
+        "share": "2",
+        "year": "1993",
+        "category": "chemistry"
+    },
+    {
+        "id": "709",
+        "firstname": "Robert W.",
+        "surname": "Fogel",
+        "share": "2",
+        "year": "1993",
+        "category": "economics"
+    },
+    {
+        "id": "710",
+        "firstname": "Douglass C.",
+        "surname": "North",
+        "share": "2",
+        "year": "1993",
+        "category": "economics"
+    },
+    {
+        "id": "670",
+        "firstname": "Toni",
+        "surname": "Morrison",
+        "share": "1",
+        "year": "1993",
+        "category": "literature"
+    },
+    {
+        "id": "555",
+        "firstname": "Nelson",
+        "surname": "Mandela",
+        "share": "2",
+        "year": "1993",
+        "category": "peace"
+    },
+    {
+        "id": "556",
+        "firstname": "F.W.",
+        "surname": "de Klerk",
+        "share": "2",
+        "year": "1993",
+        "category": "peace"
+    },
+    {
+        "id": "143",
+        "firstname": "Russell A.",
+        "surname": "Hulse",
+        "share": "2",
+        "year": "1993",
+        "category": "physics"
+    },
+    {
+        "id": "144",
+        "firstname": "Joseph H.",
+        "surname": "Taylor Jr.",
+        "share": "2",
+        "year": "1993",
+        "category": "physics"
+    },
+    {
+        "id": "448",
+        "firstname": "Richard J.",
+        "surname": "Roberts",
+        "share": "2",
+        "year": "1993",
+        "category": "medicine"
+    },
+    {
+        "id": "449",
+        "firstname": "Phillip A.",
+        "surname": "Sharp",
+        "share": "2",
+        "year": "1993",
+        "category": "medicine"
+    },
+    {
+        "id": "277",
+        "firstname": "Rudolph A.",
+        "surname": "Marcus",
+        "share": "1",
+        "year": "1992",
+        "category": "chemistry"
+    },
+    {
+        "id": "708",
+        "firstname": "Gary",
+        "surname": "Becker",
+        "share": "1",
+        "year": "1992",
+        "category": "economics"
+    },
+    {
+        "id": "669",
+        "firstname": "Derek",
+        "surname": "Walcott",
+        "share": "1",
+        "year": "1992",
+        "category": "literature"
+    },
+    {
+        "id": "554",
+        "firstname": "Rigoberta",
+        "surname": "Mench\u00fa Tum",
+        "share": "1",
+        "year": "1992",
+        "category": "peace"
+    },
+    {
+        "id": "142",
+        "firstname": "Georges",
+        "surname": "Charpak",
+        "share": "1",
+        "year": "1992",
+        "category": "physics"
+    },
+    {
+        "id": "446",
+        "firstname": "Edmond H.",
+        "surname": "Fischer",
+        "share": "2",
+        "year": "1992",
+        "category": "medicine"
+    },
+    {
+        "id": "447",
+        "firstname": "Edwin G.",
+        "surname": "Krebs",
+        "share": "2",
+        "year": "1992",
+        "category": "medicine"
+    },
+    {
+        "id": "276",
+        "firstname": "Richard R.",
+        "surname": "Ernst",
+        "share": "1",
+        "year": "1991",
+        "category": "chemistry"
+    },
+    {
+        "id": "707",
+        "firstname": "Ronald H.",
+        "surname": "Coase",
+        "share": "1",
+        "year": "1991",
+        "category": "economics"
+    },
+    {
+        "id": "668",
+        "firstname": "Nadine",
+        "surname": "Gordimer",
+        "share": "1",
+        "year": "1991",
+        "category": "literature"
+    },
+    {
+        "id": "553",
+        "firstname": "Aung San Suu Kyi",
+        "share": "1",
+        "year": "1991",
+        "category": "peace"
+    },
+    {
+        "id": "141",
+        "firstname": "Pierre-Gilles",
+        "surname": "de Gennes",
+        "share": "1",
+        "year": "1991",
+        "category": "physics"
+    },
+    {
+        "id": "444",
+        "firstname": "Erwin",
+        "surname": "Neher",
+        "share": "2",
+        "year": "1991",
+        "category": "medicine"
+    },
+    {
+        "id": "445",
+        "firstname": "Bert",
+        "surname": "Sakmann",
+        "share": "2",
+        "year": "1991",
+        "category": "medicine"
+    },
+    {
+        "id": "275",
+        "firstname": "Elias James",
+        "surname": "Corey",
+        "share": "1",
+        "year": "1990",
+        "category": "chemistry"
+    },
+    {
+        "id": "704",
+        "firstname": "Harry M.",
+        "surname": "Markowitz",
+        "share": "3",
+        "year": "1990",
+        "category": "economics"
+    },
+    {
+        "id": "705",
+        "firstname": "Merton H.",
+        "surname": "Miller",
+        "share": "3",
+        "year": "1990",
+        "category": "economics"
+    },
+    {
+        "id": "706",
+        "firstname": "William F.",
+        "surname": "Sharpe",
+        "share": "3",
+        "year": "1990",
+        "category": "economics"
+    },
+    {
+        "id": "667",
+        "firstname": "Octavio",
+        "surname": "Paz",
+        "share": "1",
+        "year": "1990",
+        "category": "literature"
+    },
+    {
+        "id": "552",
+        "firstname": "Mikhail",
+        "surname": "Gorbachev",
+        "share": "1",
+        "year": "1990",
+        "category": "peace"
+    },
+    {
+        "id": "138",
+        "firstname": "Jerome I.",
+        "surname": "Friedman",
+        "share": "3",
+        "year": "1990",
+        "category": "physics"
+    },
+    {
+        "id": "139",
+        "firstname": "Henry W.",
+        "surname": "Kendall",
+        "share": "3",
+        "year": "1990",
+        "category": "physics"
+    },
+    {
+        "id": "140",
+        "firstname": "Richard E.",
+        "surname": "Taylor",
+        "share": "3",
+        "year": "1990",
+        "category": "physics"
+    },
+    {
+        "id": "442",
+        "firstname": "Joseph E.",
+        "surname": "Murray",
+        "share": "2",
+        "year": "1990",
+        "category": "medicine"
+    },
+    {
+        "id": "443",
+        "firstname": "E. Donnall",
+        "surname": "Thomas",
+        "share": "2",
+        "year": "1990",
+        "category": "medicine"
+    },
+    {
+        "id": "273",
+        "firstname": "Sidney",
+        "surname": "Altman",
+        "share": "2",
+        "year": "1989",
+        "category": "chemistry"
+    },
+    {
+        "id": "274",
+        "firstname": "Thomas R.",
+        "surname": "Cech",
+        "share": "2",
+        "year": "1989",
+        "category": "chemistry"
+    },
+    {
+        "id": "703",
+        "firstname": "Trygve",
+        "surname": "Haavelmo",
+        "share": "1",
+        "year": "1989",
+        "category": "economics"
+    },
+    {
+        "id": "666",
+        "firstname": "Camilo Jos\u00e9",
+        "surname": "Cela",
+        "share": "1",
+        "year": "1989",
+        "category": "literature"
+    },
+    {
+        "id": "551",
+        "firstname": "Lhamo",
+        "surname": "Thondup",
+        "share": "1",
+        "year": "1989",
+        "category": "peace"
+    },
+    {
+        "id": "135",
+        "firstname": "Norman F.",
+        "surname": "Ramsey",
+        "share": "2",
+        "year": "1989",
+        "category": "physics"
+    },
+    {
+        "id": "136",
+        "firstname": "Hans G.",
+        "surname": "Dehmelt",
+        "share": "4",
+        "year": "1989",
+        "category": "physics"
+    },
+    {
+        "id": "137",
+        "firstname": "Wolfgang",
+        "surname": "Paul",
+        "share": "4",
+        "year": "1989",
+        "category": "physics"
+    },
+    {
+        "id": "440",
+        "firstname": "J. Michael",
+        "surname": "Bishop",
+        "share": "2",
+        "year": "1989",
+        "category": "medicine"
+    },
+    {
+        "id": "441",
+        "firstname": "Harold E.",
+        "surname": "Varmus",
+        "share": "2",
+        "year": "1989",
+        "category": "medicine"
+    },
+    {
+        "id": "270",
+        "firstname": "Johann",
+        "surname": "Deisenhofer",
+        "share": "3",
+        "year": "1988",
+        "category": "chemistry"
+    },
+    {
+        "id": "271",
+        "firstname": "Robert",
+        "surname": "Huber",
+        "share": "3",
+        "year": "1988",
+        "category": "chemistry"
+    },
+    {
+        "id": "272",
+        "firstname": "Hartmut",
+        "surname": "Michel",
+        "share": "3",
+        "year": "1988",
+        "category": "chemistry"
+    },
+    {
+        "id": "702",
+        "firstname": "Maurice",
+        "surname": "Allais",
+        "share": "1",
+        "year": "1988",
+        "category": "economics"
+    },
+    {
+        "id": "665",
+        "firstname": "Naguib",
+        "surname": "Mahfouz",
+        "share": "1",
+        "year": "1988",
+        "category": "literature"
+    },
+    {
+        "id": "550",
+        "share": "1",
+        "firstname": "United Nations Peacekeeping Forces",
+        "year": "1988",
+        "category": "peace"
+    },
+    {
+        "id": "132",
+        "firstname": "Leon M.",
+        "surname": "Lederman",
+        "share": "3",
+        "year": "1988",
+        "category": "physics"
+    },
+    {
+        "id": "133",
+        "firstname": "Melvin",
+        "surname": "Schwartz",
+        "share": "3",
+        "year": "1988",
+        "category": "physics"
+    },
+    {
+        "id": "134",
+        "firstname": "Jack",
+        "surname": "Steinberger",
+        "share": "3",
+        "year": "1988",
+        "category": "physics"
+    },
+    {
+        "id": "437",
+        "firstname": "Sir James W.",
+        "surname": "Black",
+        "share": "3",
+        "year": "1988",
+        "category": "medicine"
+    },
+    {
+        "id": "438",
+        "firstname": "Gertrude B.",
+        "surname": "Elion",
+        "share": "3",
+        "year": "1988",
+        "category": "medicine"
+    },
+    {
+        "id": "439",
+        "firstname": "George H.",
+        "surname": "Hitchings",
+        "share": "3",
+        "year": "1988",
+        "category": "medicine"
+    },
+    {
+        "id": "267",
+        "firstname": "Donald J.",
+        "surname": "Cram",
+        "share": "3",
+        "year": "1987",
+        "category": "chemistry"
+    },
+    {
+        "id": "268",
+        "firstname": "Jean-Marie",
+        "surname": "Lehn",
+        "share": "3",
+        "year": "1987",
+        "category": "chemistry"
+    },
+    {
+        "id": "269",
+        "firstname": "Charles J.",
+        "surname": "Pedersen",
+        "share": "3",
+        "year": "1987",
+        "category": "chemistry"
+    },
+    {
+        "id": "701",
+        "firstname": "Robert M.",
+        "surname": "Solow",
+        "share": "1",
+        "year": "1987",
+        "category": "economics"
+    },
+    {
+        "id": "664",
+        "firstname": "Joseph",
+        "surname": "Brodsky",
+        "share": "1",
+        "year": "1987",
+        "category": "literature"
+    },
+    {
+        "id": "549",
+        "firstname": "Oscar",
+        "surname": "Arias S\u00e1nchez",
+        "share": "1",
+        "year": "1987",
+        "category": "peace"
+    },
+    {
+        "id": "130",
+        "firstname": "J. Georg",
+        "surname": "Bednorz",
+        "share": "2",
+        "year": "1987",
+        "category": "physics"
+    },
+    {
+        "id": "131",
+        "firstname": "K. Alex",
+        "surname": "M\u00fcller",
+        "share": "2",
+        "year": "1987",
+        "category": "physics"
+    },
+    {
+        "id": "436",
+        "firstname": "Susumu",
+        "surname": "Tonegawa",
+        "share": "1",
+        "year": "1987",
+        "category": "medicine"
+    },
+    {
+        "id": "264",
+        "firstname": "Dudley R.",
+        "surname": "Herschbach",
+        "share": "3",
+        "year": "1986",
+        "category": "chemistry"
+    },
+    {
+        "id": "265",
+        "firstname": "Yuan T.",
+        "surname": "Lee",
+        "share": "3",
+        "year": "1986",
+        "category": "chemistry"
+    },
+    {
+        "id": "266",
+        "firstname": "John C.",
+        "surname": "Polanyi",
+        "share": "3",
+        "year": "1986",
+        "category": "chemistry"
+    },
+    {
+        "id": "700",
+        "firstname": "James M.",
+        "surname": "Buchanan Jr.",
+        "share": "1",
+        "year": "1986",
+        "category": "economics"
+    },
+    {
+        "id": "663",
+        "firstname": "Wole",
+        "surname": "Soyinka",
+        "share": "1",
+        "year": "1986",
+        "category": "literature"
+    },
+    {
+        "id": "548",
+        "firstname": "Elie",
+        "surname": "Wiesel",
+        "share": "1",
+        "year": "1986",
+        "category": "peace"
+    },
+    {
+        "id": "127",
+        "firstname": "Ernst",
+        "surname": "Ruska",
+        "share": "2",
+        "year": "1986",
+        "category": "physics"
+    },
+    {
+        "id": "128",
+        "firstname": "Gerd",
+        "surname": "Binnig",
+        "share": "4",
+        "year": "1986",
+        "category": "physics"
+    },
+    {
+        "id": "129",
+        "firstname": "Heinrich",
+        "surname": "Rohrer",
+        "share": "4",
+        "year": "1986",
+        "category": "physics"
+    },
+    {
+        "id": "434",
+        "firstname": "Stanley",
+        "surname": "Cohen",
+        "share": "2",
+        "year": "1986",
+        "category": "medicine"
+    },
+    {
+        "id": "435",
+        "firstname": "Rita",
+        "surname": "Levi-Montalcini",
+        "share": "2",
+        "year": "1986",
+        "category": "medicine"
+    },
+    {
+        "id": "262",
+        "firstname": "Herbert A.",
+        "surname": "Hauptman",
+        "share": "2",
+        "year": "1985",
+        "category": "chemistry"
+    },
+    {
+        "id": "263",
+        "firstname": "Jerome",
+        "surname": "Karle",
+        "share": "2",
+        "year": "1985",
+        "category": "chemistry"
+    },
+    {
+        "id": "699",
+        "firstname": "Franco",
+        "surname": "Modigliani",
+        "share": "1",
+        "year": "1985",
+        "category": "economics"
+    },
+    {
+        "id": "662",
+        "firstname": "Claude",
+        "surname": "Simon",
+        "share": "1",
+        "year": "1985",
+        "category": "literature"
+    },
+    {
+        "id": "547",
+        "share": "1",
+        "firstname": "International Physicians for the Prevention of Nuclear War",
+        "year": "1985",
+        "category": "peace"
+    },
+    {
+        "id": "126",
+        "firstname": "Klaus",
+        "surname": "von Klitzing",
+        "share": "1",
+        "year": "1985",
+        "category": "physics"
+    },
+    {
+        "id": "432",
+        "firstname": "Michael S.",
+        "surname": "Brown",
+        "share": "2",
+        "year": "1985",
+        "category": "medicine"
+    },
+    {
+        "id": "433",
+        "firstname": "Joseph L.",
+        "surname": "Goldstein",
+        "share": "2",
+        "year": "1985",
+        "category": "medicine"
+    },
+    {
+        "id": "261",
+        "firstname": "Bruce",
+        "surname": "Merrifield",
+        "share": "1",
+        "year": "1984",
+        "category": "chemistry"
+    },
+    {
+        "id": "698",
+        "firstname": "Richard",
+        "surname": "Stone",
+        "share": "1",
+        "year": "1984",
+        "category": "economics"
+    },
+    {
+        "id": "661",
+        "firstname": "Jaroslav",
+        "surname": "Seifert",
+        "share": "1",
+        "year": "1984",
+        "category": "literature"
+    },
+    {
+        "id": "546",
+        "firstname": "Desmond",
+        "surname": "Tutu",
+        "share": "1",
+        "year": "1984",
+        "category": "peace"
+    },
+    {
+        "id": "124",
+        "firstname": "Carlo",
+        "surname": "Rubbia",
+        "share": "2",
+        "year": "1984",
+        "category": "physics"
+    },
+    {
+        "id": "125",
+        "firstname": "Simon",
+        "surname": "van der Meer",
+        "share": "2",
+        "year": "1984",
+        "category": "physics"
+    },
+    {
+        "id": "429",
+        "firstname": "Niels K.",
+        "surname": "Jerne",
+        "share": "3",
+        "year": "1984",
+        "category": "medicine"
+    },
+    {
+        "id": "430",
+        "firstname": "Georges J.F.",
+        "surname": "K\u00f6hler",
+        "share": "3",
+        "year": "1984",
+        "category": "medicine"
+    },
+    {
+        "id": "431",
+        "firstname": "C\u00e9sar",
+        "surname": "Milstein",
+        "share": "3",
+        "year": "1984",
+        "category": "medicine"
+    },
+    {
+        "id": "260",
+        "firstname": "Henry",
+        "surname": "Taube",
+        "share": "1",
+        "year": "1983",
+        "category": "chemistry"
+    },
+    {
+        "id": "697",
+        "firstname": "Gerard",
+        "surname": "Debreu",
+        "share": "1",
+        "year": "1983",
+        "category": "economics"
+    },
+    {
+        "id": "660",
+        "firstname": "William",
+        "surname": "Golding",
+        "share": "1",
+        "year": "1983",
+        "category": "literature"
+    },
+    {
+        "id": "545",
+        "firstname": "Lech",
+        "surname": "Wa\u0142\u0119sa",
+        "share": "1",
+        "year": "1983",
+        "category": "peace"
+    },
+    {
+        "id": "122",
+        "firstname": "Subrahmanyan",
+        "surname": "Chandrasekhar",
+        "share": "2",
+        "year": "1983",
+        "category": "physics"
+    },
+    {
+        "id": "123",
+        "firstname": "William A.",
+        "surname": "Fowler",
+        "share": "2",
+        "year": "1983",
+        "category": "physics"
+    },
+    {
+        "id": "428",
+        "firstname": "Barbara",
+        "surname": "McClintock",
+        "share": "1",
+        "year": "1983",
+        "category": "medicine"
+    },
+    {
+        "id": "259",
+        "firstname": "Aaron",
+        "surname": "Klug",
+        "share": "1",
+        "year": "1982",
+        "category": "chemistry"
+    },
+    {
+        "id": "696",
+        "firstname": "George J.",
+        "surname": "Stigler",
+        "share": "1",
+        "year": "1982",
+        "category": "economics"
+    },
+    {
+        "id": "659",
+        "firstname": "Gabriel",
+        "surname": "Garc\u00eda M\u00e1rquez",
+        "share": "1",
+        "year": "1982",
+        "category": "literature"
+    },
+    {
+        "id": "543",
+        "firstname": "Alva",
+        "surname": "Myrdal",
+        "share": "2",
+        "year": "1982",
+        "category": "peace"
+    },
+    {
+        "id": "544",
+        "firstname": "Alfonso",
+        "surname": "Garc\u00eda Robles",
+        "share": "2",
+        "year": "1982",
+        "category": "peace"
+    },
+    {
+        "id": "121",
+        "firstname": "Kenneth G.",
+        "surname": "Wilson",
+        "share": "1",
+        "year": "1982",
+        "category": "physics"
+    },
+    {
+        "id": "425",
+        "firstname": "Sune K.",
+        "surname": "Bergstr\u00f6m",
+        "share": "3",
+        "year": "1982",
+        "category": "medicine"
+    },
+    {
+        "id": "426",
+        "firstname": "Bengt I.",
+        "surname": "Samuelsson",
+        "share": "3",
+        "year": "1982",
+        "category": "medicine"
+    },
+    {
+        "id": "427",
+        "firstname": "John R.",
+        "surname": "Vane",
+        "share": "3",
+        "year": "1982",
+        "category": "medicine"
+    },
+    {
+        "id": "257",
+        "firstname": "Kenichi",
+        "surname": "Fukui",
+        "share": "2",
+        "year": "1981",
+        "category": "chemistry"
+    },
+    {
+        "id": "258",
+        "firstname": "Roald",
+        "surname": "Hoffmann",
+        "share": "2",
+        "year": "1981",
+        "category": "chemistry"
+    },
+    {
+        "id": "695",
+        "firstname": "James",
+        "surname": "Tobin",
+        "share": "1",
+        "year": "1981",
+        "category": "economics"
+    },
+    {
+        "id": "658",
+        "firstname": "Elias",
+        "surname": "Canetti",
+        "share": "1",
+        "year": "1981",
+        "category": "literature"
+    },
+    {
+        "id": "515",
+        "share": "1",
+        "firstname": "Office of the United Nations High Commissioner for Refugees",
+        "year": "1981",
+        "category": "peace"
+    },
+    {
+        "id": "118",
+        "firstname": "Nicolaas",
+        "surname": "Bloembergen",
+        "share": "4",
+        "year": "1981",
+        "category": "physics"
+    },
+    {
+        "id": "119",
+        "firstname": "Arthur L.",
+        "surname": "Schawlow",
+        "share": "4",
+        "year": "1981",
+        "category": "physics"
+    },
+    {
+        "id": "120",
+        "firstname": "Kai M.",
+        "surname": "Siegbahn",
+        "share": "2",
+        "year": "1981",
+        "category": "physics"
+    },
+    {
+        "id": "422",
+        "firstname": "Roger W.",
+        "surname": "Sperry",
+        "share": "2",
+        "year": "1981",
+        "category": "medicine"
+    },
+    {
+        "id": "423",
+        "firstname": "David H.",
+        "surname": "Hubel",
+        "share": "4",
+        "year": "1981",
+        "category": "medicine"
+    },
+    {
+        "id": "424",
+        "firstname": "Torsten N.",
+        "surname": "Wiesel",
+        "share": "4",
+        "year": "1981",
+        "category": "medicine"
+    },
+    {
+        "id": "254",
+        "firstname": "Paul",
+        "surname": "Berg",
+        "share": "2",
+        "year": "1980",
+        "category": "chemistry"
+    },
+    {
+        "id": "255",
+        "firstname": "Walter",
+        "surname": "Gilbert",
+        "share": "4",
+        "year": "1980",
+        "category": "chemistry"
+    },
+    {
+        "id": "222",
+        "firstname": "Frederick",
+        "surname": "Sanger",
+        "share": "4",
+        "year": "1980",
+        "category": "chemistry"
+    },
+    {
+        "id": "694",
+        "firstname": "Lawrence R.",
+        "surname": "Klein",
+        "share": "1",
+        "year": "1980",
+        "category": "economics"
+    },
+    {
+        "id": "657",
+        "firstname": "Czes\u0142aw",
+        "surname": "Mi\u0142osz",
+        "share": "1",
+        "year": "1980",
+        "category": "literature"
+    },
+    {
+        "id": "541",
+        "firstname": "Adolfo",
+        "surname": "P\u00e9rez Esquivel",
+        "share": "1",
+        "year": "1980",
+        "category": "peace"
+    },
+    {
+        "id": "116",
+        "firstname": "James",
+        "surname": "Cronin",
+        "share": "2",
+        "year": "1980",
+        "category": "physics"
+    },
+    {
+        "id": "117",
+        "firstname": "Val",
+        "surname": "Fitch",
+        "share": "2",
+        "year": "1980",
+        "category": "physics"
+    },
+    {
+        "id": "419",
+        "firstname": "Baruj",
+        "surname": "Benacerraf",
+        "share": "3",
+        "year": "1980",
+        "category": "medicine"
+    },
+    {
+        "id": "420",
+        "firstname": "Jean",
+        "surname": "Dausset",
+        "share": "3",
+        "year": "1980",
+        "category": "medicine"
+    },
+    {
+        "id": "421",
+        "firstname": "George D.",
+        "surname": "Snell",
+        "share": "3",
+        "year": "1980",
+        "category": "medicine"
+    },
+    {
+        "id": "252",
+        "firstname": "Herbert C.",
+        "surname": "Brown",
+        "share": "2",
+        "year": "1979",
+        "category": "chemistry"
+    },
+    {
+        "id": "253",
+        "firstname": "Georg",
+        "surname": "Wittig",
+        "share": "2",
+        "year": "1979",
+        "category": "chemistry"
+    },
+    {
+        "id": "692",
+        "firstname": "Theodore W.",
+        "surname": "Schultz",
+        "share": "2",
+        "year": "1979",
+        "category": "economics"
+    },
+    {
+        "id": "693",
+        "firstname": "Sir Arthur",
+        "surname": "Lewis",
+        "share": "2",
+        "year": "1979",
+        "category": "economics"
+    },
+    {
+        "id": "655",
+        "firstname": "Odysseus",
+        "surname": "Elytis",
+        "share": "1",
+        "year": "1979",
+        "category": "literature"
+    },
+    {
+        "id": "540",
+        "firstname": "Anjez\u00eb Gonxhe",
+        "surname": "Bojaxhiu",
+        "share": "1",
+        "year": "1979",
+        "category": "peace"
+    },
+    {
+        "id": "113",
+        "firstname": "Sheldon",
+        "surname": "Glashow",
+        "share": "3",
+        "year": "1979",
+        "category": "physics"
+    },
+    {
+        "id": "114",
+        "firstname": "Abdus",
+        "surname": "Salam",
+        "share": "3",
+        "year": "1979",
+        "category": "physics"
+    },
+    {
+        "id": "115",
+        "firstname": "Steven",
+        "surname": "Weinberg",
+        "share": "3",
+        "year": "1979",
+        "category": "physics"
+    },
+    {
+        "id": "417",
+        "firstname": "Allan M.",
+        "surname": "Cormack",
+        "share": "2",
+        "year": "1979",
+        "category": "medicine"
+    },
+    {
+        "id": "418",
+        "firstname": "Godfrey N.",
+        "surname": "Hounsfield",
+        "share": "2",
+        "year": "1979",
+        "category": "medicine"
+    },
+    {
+        "id": "251",
+        "firstname": "Peter",
+        "surname": "Mitchell",
+        "share": "1",
+        "year": "1978",
+        "category": "chemistry"
+    },
+    {
+        "id": "691",
+        "firstname": "Herbert",
+        "surname": "Simon",
+        "share": "1",
+        "year": "1978",
+        "category": "economics"
+    },
+    {
+        "id": "654",
+        "firstname": "Isaac Bashevis",
+        "surname": "Singer",
+        "share": "1",
+        "year": "1978",
+        "category": "literature"
+    },
+    {
+        "id": "538",
+        "firstname": "Anwar",
+        "surname": "al-Sadat",
+        "share": "2",
+        "year": "1978",
+        "category": "peace"
+    },
+    {
+        "id": "539",
+        "firstname": "Menachem",
+        "surname": "Begin",
+        "share": "2",
+        "year": "1978",
+        "category": "peace"
+    },
+    {
+        "id": "110",
+        "firstname": "Pyotr",
+        "surname": "Kapitsa",
+        "share": "2",
+        "year": "1978",
+        "category": "physics"
+    },
+    {
+        "id": "111",
+        "firstname": "Arno",
+        "surname": "Penzias",
+        "share": "4",
+        "year": "1978",
+        "category": "physics"
+    },
+    {
+        "id": "112",
+        "firstname": "Robert Woodrow",
+        "surname": "Wilson",
+        "share": "4",
+        "year": "1978",
+        "category": "physics"
+    },
+    {
+        "id": "414",
+        "firstname": "Werner",
+        "surname": "Arber",
+        "share": "3",
+        "year": "1978",
+        "category": "medicine"
+    },
+    {
+        "id": "415",
+        "firstname": "Daniel",
+        "surname": "Nathans",
+        "share": "3",
+        "year": "1978",
+        "category": "medicine"
+    },
+    {
+        "id": "416",
+        "firstname": "Hamilton O.",
+        "surname": "Smith",
+        "share": "3",
+        "year": "1978",
+        "category": "medicine"
+    },
+    {
+        "id": "250",
+        "firstname": "Ilya",
+        "surname": "Prigogine",
+        "share": "1",
+        "year": "1977",
+        "category": "chemistry"
+    },
+    {
+        "id": "689",
+        "firstname": "Bertil",
+        "surname": "Ohlin",
+        "share": "2",
+        "year": "1977",
+        "category": "economics"
+    },
+    {
+        "id": "690",
+        "firstname": "James E.",
+        "surname": "Meade",
+        "share": "2",
+        "year": "1977",
+        "category": "economics"
+    },
+    {
+        "id": "653",
+        "firstname": "Vicente",
+        "surname": "Aleixandre",
+        "share": "1",
+        "year": "1977",
+        "category": "literature"
+    },
+    {
+        "id": "537",
+        "share": "1",
+        "firstname": "Amnesty International",
+        "year": "1977",
+        "category": "peace"
+    },
+    {
+        "id": "107",
+        "firstname": "Philip W.",
+        "surname": "Anderson",
+        "share": "3",
+        "year": "1977",
+        "category": "physics"
+    },
+    {
+        "id": "108",
+        "firstname": "Sir Nevill F.",
+        "surname": "Mott",
+        "share": "3",
+        "year": "1977",
+        "category": "physics"
+    },
+    {
+        "id": "109",
+        "firstname": "John H.",
+        "surname": "Van Vleck",
+        "share": "3",
+        "year": "1977",
+        "category": "physics"
+    },
+    {
+        "id": "411",
+        "firstname": "Roger",
+        "surname": "Guillemin",
+        "share": "4",
+        "year": "1977",
+        "category": "medicine"
+    },
+    {
+        "id": "412",
+        "firstname": "Andrew V.",
+        "surname": "Schally",
+        "share": "4",
+        "year": "1977",
+        "category": "medicine"
+    },
+    {
+        "id": "413",
+        "firstname": "Rosalyn",
+        "surname": "Yalow",
+        "share": "2",
+        "year": "1977",
+        "category": "medicine"
+    },
+    {
+        "id": "249",
+        "firstname": "William",
+        "surname": "Lipscomb",
+        "share": "1",
+        "year": "1976",
+        "category": "chemistry"
+    },
+    {
+        "id": "688",
+        "firstname": "Milton",
+        "surname": "Friedman",
+        "share": "1",
+        "year": "1976",
+        "category": "economics"
+    },
+    {
+        "id": "652",
+        "firstname": "Saul",
+        "surname": "Bellow",
+        "share": "1",
+        "year": "1976",
+        "category": "literature"
+    },
+    {
+        "id": "535",
+        "firstname": "Betty",
+        "surname": "Williams",
+        "share": "2",
+        "year": "1976",
+        "category": "peace"
+    },
+    {
+        "id": "536",
+        "firstname": "Mairead",
+        "surname": "Corrigan",
+        "share": "2",
+        "year": "1976",
+        "category": "peace"
+    },
+    {
+        "id": "105",
+        "firstname": "Burton",
+        "surname": "Richter",
+        "share": "2",
+        "year": "1976",
+        "category": "physics"
+    },
+    {
+        "id": "106",
+        "firstname": "Samuel C.C.",
+        "surname": "Ting",
+        "share": "2",
+        "year": "1976",
+        "category": "physics"
+    },
+    {
+        "id": "409",
+        "firstname": "Baruch S.",
+        "surname": "Blumberg",
+        "share": "2",
+        "year": "1976",
+        "category": "medicine"
+    },
+    {
+        "id": "410",
+        "firstname": "D. Carleton",
+        "surname": "Gajdusek",
+        "share": "2",
+        "year": "1976",
+        "category": "medicine"
+    },
+    {
+        "id": "247",
+        "firstname": "John",
+        "surname": "Cornforth",
+        "share": "2",
+        "year": "1975",
+        "category": "chemistry"
+    },
+    {
+        "id": "248",
+        "firstname": "Vladimir",
+        "surname": "Prelog",
+        "share": "2",
+        "year": "1975",
+        "category": "chemistry"
+    },
+    {
+        "id": "686",
+        "firstname": "Leonid Vitaliyevich",
+        "surname": "Kantorovich",
+        "share": "2",
+        "year": "1975",
+        "category": "economics"
+    },
+    {
+        "id": "687",
+        "firstname": "Tjalling C.",
+        "surname": "Koopmans",
+        "share": "2",
+        "year": "1975",
+        "category": "economics"
+    },
+    {
+        "id": "651",
+        "firstname": "Eugenio",
+        "surname": "Montale",
+        "share": "1",
+        "year": "1975",
+        "category": "literature"
+    },
+    {
+        "id": "534",
+        "firstname": "Andrei",
+        "surname": "Sakharov",
+        "share": "1",
+        "year": "1975",
+        "category": "peace"
+    },
+    {
+        "id": "102",
+        "firstname": "Aage N.",
+        "surname": "Bohr",
+        "share": "3",
+        "year": "1975",
+        "category": "physics"
+    },
+    {
+        "id": "103",
+        "firstname": "Ben R.",
+        "surname": "Mottelson",
+        "share": "3",
+        "year": "1975",
+        "category": "physics"
+    },
+    {
+        "id": "104",
+        "firstname": "James",
+        "surname": "Rainwater",
+        "share": "3",
+        "year": "1975",
+        "category": "physics"
+    },
+    {
+        "id": "406",
+        "firstname": "David",
+        "surname": "Baltimore",
+        "share": "3",
+        "year": "1975",
+        "category": "medicine"
+    },
+    {
+        "id": "407",
+        "firstname": "Renato",
+        "surname": "Dulbecco",
+        "share": "3",
+        "year": "1975",
+        "category": "medicine"
+    },
+    {
+        "id": "408",
+        "firstname": "Howard M.",
+        "surname": "Temin",
+        "share": "3",
+        "year": "1975",
+        "category": "medicine"
+    },
+    {
+        "id": "246",
+        "firstname": "Paul J.",
+        "surname": "Flory",
+        "share": "1",
+        "year": "1974",
+        "category": "chemistry"
+    },
+    {
+        "id": "684",
+        "firstname": "Gunnar",
+        "surname": "Myrdal",
+        "share": "2",
+        "year": "1974",
+        "category": "economics"
+    },
+    {
+        "id": "685",
+        "firstname": "Friedrich",
+        "surname": "von Hayek",
+        "share": "2",
+        "year": "1974",
+        "category": "economics"
+    },
+    {
+        "id": "649",
+        "firstname": "Eyvind",
+        "surname": "Johnson",
+        "share": "2",
+        "year": "1974",
+        "category": "literature"
+    },
+    {
+        "id": "650",
+        "firstname": "Harry",
+        "surname": "Martinson",
+        "share": "2",
+        "year": "1974",
+        "category": "literature"
+    },
+    {
+        "id": "532",
+        "firstname": "Se\u00e1n",
+        "surname": "MacBride",
+        "share": "2",
+        "year": "1974",
+        "category": "peace"
+    },
+    {
+        "id": "533",
+        "firstname": "Eisaku",
+        "surname": "Sat\u014d",
+        "share": "2",
+        "year": "1974",
+        "category": "peace"
+    },
+    {
+        "id": "100",
+        "firstname": "Martin",
+        "surname": "Ryle",
+        "share": "2",
+        "year": "1974",
+        "category": "physics"
+    },
+    {
+        "id": "101",
+        "firstname": "Antony",
+        "surname": "Hewish",
+        "share": "2",
+        "year": "1974",
+        "category": "physics"
+    },
+    {
+        "id": "403",
+        "firstname": "Albert",
+        "surname": "Claude",
+        "share": "3",
+        "year": "1974",
+        "category": "medicine"
+    },
+    {
+        "id": "404",
+        "firstname": "Christian",
+        "surname": "de Duve",
+        "share": "3",
+        "year": "1974",
+        "category": "medicine"
+    },
+    {
+        "id": "405",
+        "firstname": "George E.",
+        "surname": "Palade",
+        "share": "3",
+        "year": "1974",
+        "category": "medicine"
+    },
+    {
+        "id": "244",
+        "firstname": "Ernst Otto",
+        "surname": "Fischer",
+        "share": "2",
+        "year": "1973",
+        "category": "chemistry"
+    },
+    {
+        "id": "245",
+        "firstname": "Geoffrey",
+        "surname": "Wilkinson",
+        "share": "2",
+        "year": "1973",
+        "category": "chemistry"
+    },
+    {
+        "id": "683",
+        "firstname": "Wassily",
+        "surname": "Leontief",
+        "share": "1",
+        "year": "1973",
+        "category": "economics"
+    },
+    {
+        "id": "648",
+        "firstname": "Patrick",
+        "surname": "White",
+        "share": "1",
+        "year": "1973",
+        "category": "literature"
+    },
+    {
+        "id": "530",
+        "firstname": "Henry",
+        "surname": "Kissinger",
+        "share": "2",
+        "year": "1973",
+        "category": "peace"
+    },
+    {
+        "id": "531",
+        "firstname": "Le Duc Tho",
+        "share": "2",
+        "year": "1973",
+        "category": "peace"
+    },
+    {
+        "id": "97",
+        "firstname": "Leo",
+        "surname": "Esaki",
+        "share": "4",
+        "year": "1973",
+        "category": "physics"
+    },
+    {
+        "id": "98",
+        "firstname": "Ivar",
+        "surname": "Giaever",
+        "share": "4",
+        "year": "1973",
+        "category": "physics"
+    },
+    {
+        "id": "99",
+        "firstname": "Brian D.",
+        "surname": "Josephson",
+        "share": "2",
+        "year": "1973",
+        "category": "physics"
+    },
+    {
+        "id": "400",
+        "firstname": "Karl",
+        "surname": "von Frisch",
+        "share": "3",
+        "year": "1973",
+        "category": "medicine"
+    },
+    {
+        "id": "401",
+        "firstname": "Konrad",
+        "surname": "Lorenz",
+        "share": "3",
+        "year": "1973",
+        "category": "medicine"
+    },
+    {
+        "id": "402",
+        "firstname": "Nikolaas",
+        "surname": "Tinbergen",
+        "share": "3",
+        "year": "1973",
+        "category": "medicine"
+    },
+    {
+        "id": "241",
+        "firstname": "Christian",
+        "surname": "Anfinsen",
+        "share": "2",
+        "year": "1972",
+        "category": "chemistry"
+    },
+    {
+        "id": "242",
+        "firstname": "Stanford",
+        "surname": "Moore",
+        "share": "4",
+        "year": "1972",
+        "category": "chemistry"
+    },
+    {
+        "id": "243",
+        "firstname": "William H.",
+        "surname": "Stein",
+        "share": "4",
+        "year": "1972",
+        "category": "chemistry"
+    },
+    {
+        "id": "681",
+        "firstname": "John R.",
+        "surname": "Hicks",
+        "share": "2",
+        "year": "1972",
+        "category": "economics"
+    },
+    {
+        "id": "682",
+        "firstname": "Kenneth J.",
+        "surname": "Arrow",
+        "share": "2",
+        "year": "1972",
+        "category": "economics"
+    },
+    {
+        "id": "647",
+        "firstname": "Heinrich",
+        "surname": "B\u00f6ll",
+        "share": "1",
+        "year": "1972",
+        "category": "literature"
+    },
+    {
+        "id": "66",
+        "firstname": "John",
+        "surname": "Bardeen",
+        "share": "3",
+        "year": "1972",
+        "category": "physics"
+    },
+    {
+        "id": "95",
+        "firstname": "Leon N.",
+        "surname": "Cooper",
+        "share": "3",
+        "year": "1972",
+        "category": "physics"
+    },
+    {
+        "id": "96",
+        "firstname": "Robert",
+        "surname": "Schrieffer",
+        "share": "3",
+        "year": "1972",
+        "category": "physics"
+    },
+    {
+        "id": "398",
+        "firstname": "Gerald M.",
+        "surname": "Edelman",
+        "share": "2",
+        "year": "1972",
+        "category": "medicine"
+    },
+    {
+        "id": "399",
+        "firstname": "Rodney R.",
+        "surname": "Porter",
+        "share": "2",
+        "year": "1972",
+        "category": "medicine"
+    },
+    {
+        "id": "240",
+        "firstname": "Gerhard",
+        "surname": "Herzberg",
+        "share": "1",
+        "year": "1971",
+        "category": "chemistry"
+    },
+    {
+        "id": "680",
+        "firstname": "Simon",
+        "surname": "Kuznets",
+        "share": "1",
+        "year": "1971",
+        "category": "economics"
+    },
+    {
+        "id": "645",
+        "firstname": "Pablo",
+        "surname": "Neruda",
+        "share": "1",
+        "year": "1971",
+        "category": "literature"
+    },
+    {
+        "id": "529",
+        "firstname": "Willy",
+        "surname": "Brandt",
+        "share": "1",
+        "year": "1971",
+        "category": "peace"
+    },
+    {
+        "id": "93",
+        "firstname": "Dennis",
+        "surname": "Gabor",
+        "share": "1",
+        "year": "1971",
+        "category": "physics"
+    },
+    {
+        "id": "397",
+        "firstname": "Earl W.",
+        "surname": "Sutherland, Jr.",
+        "share": "1",
+        "year": "1971",
+        "category": "medicine"
+    },
+    {
+        "id": "239",
+        "firstname": "Luis",
+        "surname": "Leloir",
+        "share": "1",
+        "year": "1970",
+        "category": "chemistry"
+    },
+    {
+        "id": "679",
+        "firstname": "Paul A.",
+        "surname": "Samuelson",
+        "share": "1",
+        "year": "1970",
+        "category": "economics"
+    },
+    {
+        "id": "644",
+        "firstname": "Aleksandr",
+        "surname": "Solzhenitsyn",
+        "share": "1",
+        "year": "1970",
+        "category": "literature"
+    },
+    {
+        "id": "528",
+        "firstname": "Norman",
+        "surname": "Borlaug",
+        "share": "1",
+        "year": "1970",
+        "category": "peace"
+    },
+    {
+        "id": "91",
+        "firstname": "Hannes",
+        "surname": "Alfv\u00e9n",
+        "share": "2",
+        "year": "1970",
+        "category": "physics"
+    },
+    {
+        "id": "92",
+        "firstname": "Louis",
+        "surname": "N\u00e9el",
+        "share": "2",
+        "year": "1970",
+        "category": "physics"
+    },
+    {
+        "id": "394",
+        "firstname": "Sir Bernard",
+        "surname": "Katz",
+        "share": "3",
+        "year": "1970",
+        "category": "medicine"
+    },
+    {
+        "id": "395",
+        "firstname": "Ulf",
+        "surname": "von Euler",
+        "share": "3",
+        "year": "1970",
+        "category": "medicine"
+    },
+    {
+        "id": "396",
+        "firstname": "Julius",
+        "surname": "Axelrod",
+        "share": "3",
+        "year": "1970",
+        "category": "medicine"
+    },
+    {
+        "id": "237",
+        "firstname": "Derek",
+        "surname": "Barton",
+        "share": "2",
+        "year": "1969",
+        "category": "chemistry"
+    },
+    {
+        "id": "238",
+        "firstname": "Odd",
+        "surname": "Hassel",
+        "share": "2",
+        "year": "1969",
+        "category": "chemistry"
+    },
+    {
+        "id": "677",
+        "firstname": "Ragnar",
+        "surname": "Frisch",
+        "share": "2",
+        "year": "1969",
+        "category": "economics"
+    },
+    {
+        "id": "678",
+        "firstname": "Jan",
+        "surname": "Tinbergen",
+        "share": "2",
+        "year": "1969",
+        "category": "economics"
+    },
+    {
+        "id": "643",
+        "firstname": "Samuel",
+        "surname": "Beckett",
+        "share": "1",
+        "year": "1969",
+        "category": "literature"
+    },
+    {
+        "id": "527",
+        "share": "1",
+        "firstname": "International Labour Organization",
+        "year": "1969",
+        "category": "peace"
+    },
+    {
+        "id": "90",
+        "firstname": "Murray",
+        "surname": "Gell-Mann",
+        "share": "1",
+        "year": "1969",
+        "category": "physics"
+    },
+    {
+        "id": "391",
+        "firstname": "Max",
+        "surname": "Delbr\u00fcck",
+        "share": "3",
+        "year": "1969",
+        "category": "medicine"
+    },
+    {
+        "id": "392",
+        "firstname": "Alfred D.",
+        "surname": "Hershey",
+        "share": "3",
+        "year": "1969",
+        "category": "medicine"
+    },
+    {
+        "id": "393",
+        "firstname": "Salvador E.",
+        "surname": "Luria",
+        "share": "3",
+        "year": "1969",
+        "category": "medicine"
+    },
+    {
+        "id": "236",
+        "firstname": "Lars",
+        "surname": "Onsager",
+        "share": "1",
+        "year": "1968",
+        "category": "chemistry"
+    },
+    {
+        "id": "642",
+        "firstname": "Yasunari",
+        "surname": "Kawabata",
+        "share": "1",
+        "year": "1968",
+        "category": "literature"
+    },
+    {
+        "id": "526",
+        "firstname": "Ren\u00e9",
+        "surname": "Cassin",
+        "share": "1",
+        "year": "1968",
+        "category": "peace"
+    },
+    {
+        "id": "89",
+        "firstname": "Luis",
+        "surname": "Alvarez",
+        "share": "1",
+        "year": "1968",
+        "category": "physics"
+    },
+    {
+        "id": "388",
+        "firstname": "Robert W.",
+        "surname": "Holley",
+        "share": "3",
+        "year": "1968",
+        "category": "medicine"
+    },
+    {
+        "id": "389",
+        "firstname": "H. Gobind",
+        "surname": "Khorana",
+        "share": "3",
+        "year": "1968",
+        "category": "medicine"
+    },
+    {
+        "id": "390",
+        "firstname": "Marshall W.",
+        "surname": "Nirenberg",
+        "share": "3",
+        "year": "1968",
+        "category": "medicine"
+    },
+    {
+        "id": "233",
+        "firstname": "Manfred",
+        "surname": "Eigen",
+        "share": "2",
+        "year": "1967",
+        "category": "chemistry"
+    },
+    {
+        "id": "234",
+        "firstname": "Ronald G.W.",
+        "surname": "Norrish",
+        "share": "4",
+        "year": "1967",
+        "category": "chemistry"
+    },
+    {
+        "id": "235",
+        "firstname": "George",
+        "surname": "Porter",
+        "share": "4",
+        "year": "1967",
+        "category": "chemistry"
+    },
+    {
+        "id": "641",
+        "firstname": "Miguel Angel",
+        "surname": "Asturias",
+        "share": "1",
+        "year": "1967",
+        "category": "literature"
+    },
+    {
+        "id": "88",
+        "firstname": "Hans",
+        "surname": "Bethe",
+        "share": "1",
+        "year": "1967",
+        "category": "physics"
+    },
+    {
+        "id": "385",
+        "firstname": "Ragnar",
+        "surname": "Granit",
+        "share": "3",
+        "year": "1967",
+        "category": "medicine"
+    },
+    {
+        "id": "386",
+        "firstname": "Keffer",
+        "surname": "Hartline",
+        "share": "3",
+        "year": "1967",
+        "category": "medicine"
+    },
+    {
+        "id": "387",
+        "firstname": "George",
+        "surname": "Wald",
+        "share": "3",
+        "year": "1967",
+        "category": "medicine"
+    },
+    {
+        "id": "232",
+        "firstname": "Robert S.",
+        "surname": "Mulliken",
+        "share": "1",
+        "year": "1966",
+        "category": "chemistry"
+    },
+    {
+        "id": "639",
+        "firstname": "Shmuel",
+        "surname": "Agnon",
+        "share": "2",
+        "year": "1966",
+        "category": "literature"
+    },
+    {
+        "id": "640",
+        "firstname": "Nelly",
+        "surname": "Sachs",
+        "share": "2",
+        "year": "1966",
+        "category": "literature"
+    },
+    {
+        "id": "87",
+        "firstname": "Alfred",
+        "surname": "Kastler",
+        "share": "1",
+        "year": "1966",
+        "category": "physics"
+    },
+    {
+        "id": "383",
+        "firstname": "Peyton",
+        "surname": "Rous",
+        "share": "2",
+        "year": "1966",
+        "category": "medicine"
+    },
+    {
+        "id": "384",
+        "firstname": "Charles B.",
+        "surname": "Huggins",
+        "share": "2",
+        "year": "1966",
+        "category": "medicine"
+    },
+    {
+        "id": "231",
+        "firstname": "Robert B.",
+        "surname": "Woodward",
+        "share": "1",
+        "year": "1965",
+        "category": "chemistry"
+    },
+    {
+        "id": "638",
+        "firstname": "Mikhail",
+        "surname": "Sholokhov",
+        "share": "1",
+        "year": "1965",
+        "category": "literature"
+    },
+    {
+        "id": "525",
+        "share": "1",
+        "firstname": "United Nations Children's Fund",
+        "year": "1965",
+        "category": "peace"
+    },
+    {
+        "id": "84",
+        "firstname": "Sin-Itiro",
+        "surname": "Tomonaga",
+        "share": "3",
+        "year": "1965",
+        "category": "physics"
+    },
+    {
+        "id": "85",
+        "firstname": "Julian",
+        "surname": "Schwinger",
+        "share": "3",
+        "year": "1965",
+        "category": "physics"
+    },
+    {
+        "id": "86",
+        "firstname": "Richard P.",
+        "surname": "Feynman",
+        "share": "3",
+        "year": "1965",
+        "category": "physics"
+    },
+    {
+        "id": "380",
+        "firstname": "Fran\u00e7ois",
+        "surname": "Jacob",
+        "share": "3",
+        "year": "1965",
+        "category": "medicine"
+    },
+    {
+        "id": "381",
+        "firstname": "Andr\u00e9",
+        "surname": "Lwoff",
+        "share": "3",
+        "year": "1965",
+        "category": "medicine"
+    },
+    {
+        "id": "382",
+        "firstname": "Jacques",
+        "surname": "Monod",
+        "share": "3",
+        "year": "1965",
+        "category": "medicine"
+    },
+    {
+        "id": "230",
+        "firstname": "Dorothy Crowfoot",
+        "surname": "Hodgkin",
+        "share": "1",
+        "year": "1964",
+        "category": "chemistry"
+    },
+    {
+        "id": "637",
+        "firstname": "Jean-Paul",
+        "surname": "Sartre",
+        "share": "1",
+        "year": "1964",
+        "category": "literature"
+    },
+    {
+        "id": "524",
+        "firstname": "Martin Luther",
+        "surname": "King Jr.",
+        "share": "1",
+        "year": "1964",
+        "category": "peace"
+    },
+    {
+        "id": "81",
+        "firstname": "Charles H.",
+        "surname": "Townes",
+        "share": "2",
+        "year": "1964",
+        "category": "physics"
+    },
+    {
+        "id": "82",
+        "firstname": "Nicolay G.",
+        "surname": "Basov",
+        "share": "4",
+        "year": "1964",
+        "category": "physics"
+    },
+    {
+        "id": "83",
+        "firstname": "Aleksandr M.",
+        "surname": "Prokhorov",
+        "share": "4",
+        "year": "1964",
+        "category": "physics"
+    },
+    {
+        "id": "378",
+        "firstname": "Konrad",
+        "surname": "Bloch",
+        "share": "2",
+        "year": "1964",
+        "category": "medicine"
+    },
+    {
+        "id": "379",
+        "firstname": "Feodor",
+        "surname": "Lynen",
+        "share": "2",
+        "year": "1964",
+        "category": "medicine"
+    },
+    {
+        "id": "228",
+        "firstname": "Karl",
+        "surname": "Ziegler",
+        "share": "2",
+        "year": "1963",
+        "category": "chemistry"
+    },
+    {
+        "id": "229",
+        "firstname": "Giulio",
+        "surname": "Natta",
+        "share": "2",
+        "year": "1963",
+        "category": "chemistry"
+    },
+    {
+        "id": "635",
+        "firstname": "Giorgos",
+        "surname": "Seferis",
+        "share": "1",
+        "year": "1963",
+        "category": "literature"
+    },
+    {
+        "id": "482",
+        "share": "2",
+        "firstname": "International Committee of the Red Cross",
+        "year": "1963",
+        "category": "peace"
+    },
+    {
+        "id": "523",
+        "share": "2",
+        "firstname": "League of Red Cross Societies",
+        "year": "1963",
+        "category": "peace"
+    },
+    {
+        "id": "78",
+        "firstname": "Eugene",
+        "surname": "Wigner",
+        "share": "2",
+        "year": "1963",
+        "category": "physics"
+    },
+    {
+        "id": "79",
+        "firstname": "Maria",
+        "surname": "Goeppert Mayer",
+        "share": "4",
+        "year": "1963",
+        "category": "physics"
+    },
+    {
+        "id": "80",
+        "firstname": "J. Hans D.",
+        "surname": "Jensen",
+        "share": "4",
+        "year": "1963",
+        "category": "physics"
+    },
+    {
+        "id": "375",
+        "firstname": "Sir John",
+        "surname": "Eccles",
+        "share": "3",
+        "year": "1963",
+        "category": "medicine"
+    },
+    {
+        "id": "376",
+        "firstname": "Alan",
+        "surname": "Hodgkin",
+        "share": "3",
+        "year": "1963",
+        "category": "medicine"
+    },
+    {
+        "id": "377",
+        "firstname": "Andrew",
+        "surname": "Huxley",
+        "share": "3",
+        "year": "1963",
+        "category": "medicine"
+    },
+    {
+        "id": "226",
+        "firstname": "Max F.",
+        "surname": "Perutz",
+        "share": "2",
+        "year": "1962",
+        "category": "chemistry"
+    },
+    {
+        "id": "227",
+        "firstname": "John C.",
+        "surname": "Kendrew",
+        "share": "2",
+        "year": "1962",
+        "category": "chemistry"
+    },
+    {
+        "id": "634",
+        "firstname": "John",
+        "surname": "Steinbeck",
+        "share": "1",
+        "year": "1962",
+        "category": "literature"
+    },
+    {
+        "id": "217",
+        "firstname": "Linus",
+        "surname": "Pauling",
+        "share": "1",
+        "year": "1962",
+        "category": "peace"
+    },
+    {
+        "id": "77",
+        "firstname": "Lev",
+        "surname": "Landau",
+        "share": "1",
+        "year": "1962",
+        "category": "physics"
+    },
+    {
+        "id": "372",
+        "firstname": "Francis",
+        "surname": "Crick",
+        "share": "3",
+        "year": "1962",
+        "category": "medicine"
+    },
+    {
+        "id": "373",
+        "firstname": "James",
+        "surname": "Watson",
+        "share": "3",
+        "year": "1962",
+        "category": "medicine"
+    },
+    {
+        "id": "374",
+        "firstname": "Maurice",
+        "surname": "Wilkins",
+        "share": "3",
+        "year": "1962",
+        "category": "medicine"
+    },
+    {
+        "id": "225",
+        "firstname": "Melvin",
+        "surname": "Calvin",
+        "share": "1",
+        "year": "1961",
+        "category": "chemistry"
+    },
+    {
+        "id": "633",
+        "firstname": "Ivo",
+        "surname": "Andri\u0107",
+        "share": "1",
+        "year": "1961",
+        "category": "literature"
+    },
+    {
+        "id": "520",
+        "firstname": "Dag",
+        "surname": "Hammarskj\u00f6ld",
+        "share": "1",
+        "year": "1961",
+        "category": "peace"
+    },
+    {
+        "id": "75",
+        "firstname": "Robert",
+        "surname": "Hofstadter",
+        "share": "2",
+        "year": "1961",
+        "category": "physics"
+    },
+    {
+        "id": "76",
+        "firstname": "Rudolf",
+        "surname": "M\u00f6ssbauer",
+        "share": "2",
+        "year": "1961",
+        "category": "physics"
+    },
+    {
+        "id": "371",
+        "firstname": "Georg",
+        "surname": "von B\u00e9k\u00e9sy",
+        "share": "1",
+        "year": "1961",
+        "category": "medicine"
+    },
+    {
+        "id": "224",
+        "firstname": "Willard F.",
+        "surname": "Libby",
+        "share": "1",
+        "year": "1960",
+        "category": "chemistry"
+    },
+    {
+        "id": "631",
+        "firstname": "Saint-John",
+        "surname": "Perse",
+        "share": "1",
+        "year": "1960",
+        "category": "literature"
+    },
+    {
+        "id": "519",
+        "firstname": "Albert",
+        "surname": "Lutuli",
+        "share": "1",
+        "year": "1960",
+        "category": "peace"
+    },
+    {
+        "id": "74",
+        "firstname": "Donald A.",
+        "surname": "Glaser",
+        "share": "1",
+        "year": "1960",
+        "category": "physics"
+    },
+    {
+        "id": "369",
+        "firstname": "Sir Frank Macfarlane",
+        "surname": "Burnet",
+        "share": "2",
+        "year": "1960",
+        "category": "medicine"
+    },
+    {
+        "id": "370",
+        "firstname": "Peter",
+        "surname": "Medawar",
+        "share": "2",
+        "year": "1960",
+        "category": "medicine"
+    },
+    {
+        "id": "223",
+        "firstname": "Jaroslav",
+        "surname": "Heyrovsky",
+        "share": "1",
+        "year": "1959",
+        "category": "chemistry"
+    },
+    {
+        "id": "630",
+        "firstname": "Salvatore",
+        "surname": "Quasimodo",
+        "share": "1",
+        "year": "1959",
+        "category": "literature"
+    },
+    {
+        "id": "518",
+        "firstname": "Philip",
+        "surname": "Noel-Baker",
+        "share": "1",
+        "year": "1959",
+        "category": "peace"
+    },
+    {
+        "id": "72",
+        "firstname": "Emilio",
+        "surname": "Segr\u00e8",
+        "share": "2",
+        "year": "1959",
+        "category": "physics"
+    },
+    {
+        "id": "73",
+        "firstname": "Owen",
+        "surname": "Chamberlain",
+        "share": "2",
+        "year": "1959",
+        "category": "physics"
+    },
+    {
+        "id": "367",
+        "firstname": "Severo",
+        "surname": "Ochoa",
+        "share": "2",
+        "year": "1959",
+        "category": "medicine"
+    },
+    {
+        "id": "368",
+        "firstname": "Arthur",
+        "surname": "Kornberg",
+        "share": "2",
+        "year": "1959",
+        "category": "medicine"
+    },
+    {
+        "id": "222",
+        "firstname": "Frederick",
+        "surname": "Sanger",
+        "share": "1",
+        "year": "1958",
+        "category": "chemistry"
+    },
+    {
+        "id": "629",
+        "firstname": "Boris",
+        "surname": "Pasternak",
+        "share": "1",
+        "year": "1958",
+        "category": "literature"
+    },
+    {
+        "id": "517",
+        "firstname": "Georges",
+        "surname": "Pire",
+        "share": "1",
+        "year": "1958",
+        "category": "peace"
+    },
+    {
+        "id": "70",
+        "firstname": "Pavel A.",
+        "surname": "Cherenkov",
+        "share": "3",
+        "year": "1958",
+        "category": "physics"
+    },
+    {
+        "id": "71",
+        "firstname": "Igor Y.",
+        "surname": "Tamm",
+        "share": "3",
+        "year": "1958",
+        "category": "physics"
+    },
+    {
+        "id": "721",
+        "firstname": "Il\u00b4ja M.",
+        "surname": "Frank",
+        "share": "3",
+        "year": "1958",
+        "category": "physics"
+    },
+    {
+        "id": "364",
+        "firstname": "George",
+        "surname": "Beadle",
+        "share": "4",
+        "year": "1958",
+        "category": "medicine"
+    },
+    {
+        "id": "365",
+        "firstname": "Edward",
+        "surname": "Tatum",
+        "share": "4",
+        "year": "1958",
+        "category": "medicine"
+    },
+    {
+        "id": "366",
+        "firstname": "Joshua",
+        "surname": "Lederberg",
+        "share": "2",
+        "year": "1958",
+        "category": "medicine"
+    },
+    {
+        "id": "221",
+        "firstname": "Lord",
+        "surname": "Todd",
+        "share": "1",
+        "year": "1957",
+        "category": "chemistry"
+    },
+    {
+        "id": "628",
+        "firstname": "Albert",
+        "surname": "Camus",
+        "share": "1",
+        "year": "1957",
+        "category": "literature"
+    },
+    {
+        "id": "516",
+        "firstname": "Lester Bowles",
+        "surname": "Pearson",
+        "share": "1",
+        "year": "1957",
+        "category": "peace"
+    },
+    {
+        "id": "68",
+        "firstname": "Chen Ning",
+        "surname": "Yang",
+        "share": "2",
+        "year": "1957",
+        "category": "physics"
+    },
+    {
+        "id": "69",
+        "firstname": "Tsung-Dao",
+        "surname": "Lee",
+        "share": "2",
+        "year": "1957",
+        "category": "physics"
+    },
+    {
+        "id": "363",
+        "firstname": "Daniel",
+        "surname": "Bovet",
+        "share": "1",
+        "year": "1957",
+        "category": "medicine"
+    },
+    {
+        "id": "219",
+        "firstname": "Sir Cyril",
+        "surname": "Hinshelwood",
+        "share": "2",
+        "year": "1956",
+        "category": "chemistry"
+    },
+    {
+        "id": "220",
+        "firstname": "Nikolay",
+        "surname": "Semenov",
+        "share": "2",
+        "year": "1956",
+        "category": "chemistry"
+    },
+    {
+        "id": "627",
+        "firstname": "Juan Ram\u00f3n",
+        "surname": "Jim\u00e9nez",
+        "share": "1",
+        "year": "1956",
+        "category": "literature"
+    },
+    {
+        "id": "65",
+        "firstname": "William B.",
+        "surname": "Shockley",
+        "share": "3",
+        "year": "1956",
+        "category": "physics"
+    },
+    {
+        "id": "66",
+        "firstname": "John",
+        "surname": "Bardeen",
+        "share": "3",
+        "year": "1956",
+        "category": "physics"
+    },
+    {
+        "id": "67",
+        "firstname": "Walter H.",
+        "surname": "Brattain",
+        "share": "3",
+        "year": "1956",
+        "category": "physics"
+    },
+    {
+        "id": "360",
+        "firstname": "Andr\u00e9 F.",
+        "surname": "Cournand",
+        "share": "3",
+        "year": "1956",
+        "category": "medicine"
+    },
+    {
+        "id": "361",
+        "firstname": "Werner",
+        "surname": "Forssmann",
+        "share": "3",
+        "year": "1956",
+        "category": "medicine"
+    },
+    {
+        "id": "362",
+        "firstname": "Dickinson W.",
+        "surname": "Richards",
+        "share": "3",
+        "year": "1956",
+        "category": "medicine"
+    },
+    {
+        "id": "218",
+        "firstname": "Vincent",
+        "surname": "du Vigneaud",
+        "share": "1",
+        "year": "1955",
+        "category": "chemistry"
+    },
+    {
+        "id": "626",
+        "firstname": "Halld\u00f3r",
+        "surname": "Laxness",
+        "share": "1",
+        "year": "1955",
+        "category": "literature"
+    },
+    {
+        "id": "63",
+        "firstname": "Willis E.",
+        "surname": "Lamb",
+        "share": "2",
+        "year": "1955",
+        "category": "physics"
+    },
+    {
+        "id": "64",
+        "firstname": "Polykarp",
+        "surname": "Kusch",
+        "share": "2",
+        "year": "1955",
+        "category": "physics"
+    },
+    {
+        "id": "359",
+        "firstname": "Hugo",
+        "surname": "Theorell",
+        "share": "1",
+        "year": "1955",
+        "category": "medicine"
+    },
+    {
+        "id": "217",
+        "firstname": "Linus",
+        "surname": "Pauling",
+        "share": "1",
+        "year": "1954",
+        "category": "chemistry"
+    },
+    {
+        "id": "625",
+        "firstname": "Ernest",
+        "surname": "Hemingway",
+        "share": "1",
+        "year": "1954",
+        "category": "literature"
+    },
+    {
+        "id": "515",
+        "share": "1",
+        "firstname": "Office of the United Nations High Commissioner for Refugees",
+        "year": "1954",
+        "category": "peace"
+    },
+    {
+        "id": "61",
+        "firstname": "Max",
+        "surname": "Born",
+        "share": "2",
+        "year": "1954",
+        "category": "physics"
+    },
+    {
+        "id": "62",
+        "firstname": "Walther",
+        "surname": "Bothe",
+        "share": "2",
+        "year": "1954",
+        "category": "physics"
+    },
+    {
+        "id": "356",
+        "firstname": "John F.",
+        "surname": "Enders",
+        "share": "3",
+        "year": "1954",
+        "category": "medicine"
+    },
+    {
+        "id": "357",
+        "firstname": "Thomas H.",
+        "surname": "Weller",
+        "share": "3",
+        "year": "1954",
+        "category": "medicine"
+    },
+    {
+        "id": "358",
+        "firstname": "Frederick C.",
+        "surname": "Robbins",
+        "share": "3",
+        "year": "1954",
+        "category": "medicine"
+    },
+    {
+        "id": "216",
+        "firstname": "Hermann",
+        "surname": "Staudinger",
+        "share": "1",
+        "year": "1953",
+        "category": "chemistry"
+    },
+    {
+        "id": "624",
+        "firstname": "Winston",
+        "surname": "Churchill",
+        "share": "1",
+        "year": "1953",
+        "category": "literature"
+    },
+    {
+        "id": "514",
+        "firstname": "George C.",
+        "surname": "Marshall",
+        "share": "1",
+        "year": "1953",
+        "category": "peace"
+    },
+    {
+        "id": "60",
+        "firstname": "Frits",
+        "surname": "Zernike",
+        "share": "1",
+        "year": "1953",
+        "category": "physics"
+    },
+    {
+        "id": "354",
+        "firstname": "Hans",
+        "surname": "Krebs",
+        "share": "2",
+        "year": "1953",
+        "category": "medicine"
+    },
+    {
+        "id": "355",
+        "firstname": "Fritz",
+        "surname": "Lipmann",
+        "share": "2",
+        "year": "1953",
+        "category": "medicine"
+    },
+    {
+        "id": "214",
+        "firstname": "Archer J.P.",
+        "surname": "Martin",
+        "share": "2",
+        "year": "1952",
+        "category": "chemistry"
+    },
+    {
+        "id": "215",
+        "firstname": "Richard L.M.",
+        "surname": "Synge",
+        "share": "2",
+        "year": "1952",
+        "category": "chemistry"
+    },
+    {
+        "id": "623",
+        "firstname": "Fran\u00e7ois",
+        "surname": "Mauriac",
+        "share": "1",
+        "year": "1952",
+        "category": "literature"
+    },
+    {
+        "id": "513",
+        "firstname": "Albert",
+        "surname": "Schweitzer",
+        "share": "1",
+        "year": "1952",
+        "category": "peace"
+    },
+    {
+        "id": "58",
+        "firstname": "Felix",
+        "surname": "Bloch",
+        "share": "2",
+        "year": "1952",
+        "category": "physics"
+    },
+    {
+        "id": "59",
+        "firstname": "E. M.",
+        "surname": "Purcell",
+        "share": "2",
+        "year": "1952",
+        "category": "physics"
+    },
+    {
+        "id": "353",
+        "firstname": "Selman A.",
+        "surname": "Waksman",
+        "share": "1",
+        "year": "1952",
+        "category": "medicine"
+    },
+    {
+        "id": "212",
+        "firstname": "Edwin M.",
+        "surname": "McMillan",
+        "share": "2",
+        "year": "1951",
+        "category": "chemistry"
+    },
+    {
+        "id": "213",
+        "firstname": "Glenn T.",
+        "surname": "Seaborg",
+        "share": "2",
+        "year": "1951",
+        "category": "chemistry"
+    },
+    {
+        "id": "622",
+        "firstname": "P\u00e4r",
+        "surname": "Lagerkvist",
+        "share": "1",
+        "year": "1951",
+        "category": "literature"
+    },
+    {
+        "id": "512",
+        "firstname": "L\u00e9on",
+        "surname": "Jouhaux",
+        "share": "1",
+        "year": "1951",
+        "category": "peace"
+    },
+    {
+        "id": "56",
+        "firstname": "John",
+        "surname": "Cockcroft",
+        "share": "2",
+        "year": "1951",
+        "category": "physics"
+    },
+    {
+        "id": "57",
+        "firstname": "Ernest T.S.",
+        "surname": "Walton",
+        "share": "2",
+        "year": "1951",
+        "category": "physics"
+    },
+    {
+        "id": "352",
+        "firstname": "Max",
+        "surname": "Theiler",
+        "share": "1",
+        "year": "1951",
+        "category": "medicine"
+    },
+    {
+        "id": "210",
+        "firstname": "Otto",
+        "surname": "Diels",
+        "share": "2",
+        "year": "1950",
+        "category": "chemistry"
+    },
+    {
+        "id": "211",
+        "firstname": "Kurt",
+        "surname": "Alder",
+        "share": "2",
+        "year": "1950",
+        "category": "chemistry"
+    },
+    {
+        "id": "621",
+        "firstname": "Bertrand",
+        "surname": "Russell",
+        "share": "1",
+        "year": "1950",
+        "category": "literature"
+    },
+    {
+        "id": "511",
+        "firstname": "Ralph",
+        "surname": "Bunche",
+        "share": "1",
+        "year": "1950",
+        "category": "peace"
+    },
+    {
+        "id": "55",
+        "firstname": "Cecil",
+        "surname": "Powell",
+        "share": "1",
+        "year": "1950",
+        "category": "physics"
+    },
+    {
+        "id": "349",
+        "firstname": "Edward C.",
+        "surname": "Kendall",
+        "share": "3",
+        "year": "1950",
+        "category": "medicine"
+    },
+    {
+        "id": "350",
+        "firstname": "Tadeus",
+        "surname": "Reichstein",
+        "share": "3",
+        "year": "1950",
+        "category": "medicine"
+    },
+    {
+        "id": "351",
+        "firstname": "Philip S.",
+        "surname": "Hench",
+        "share": "3",
+        "year": "1950",
+        "category": "medicine"
+    },
+    {
+        "id": "209",
+        "firstname": "William F.",
+        "surname": "Giauque",
+        "share": "1",
+        "year": "1949",
+        "category": "chemistry"
+    },
+    {
+        "id": "620",
+        "firstname": "William",
+        "surname": "Faulkner",
+        "share": "1",
+        "year": "1949",
+        "category": "literature"
+    },
+    {
+        "id": "510",
+        "firstname": "John",
+        "surname": "Boyd Orr",
+        "share": "1",
+        "year": "1949",
+        "category": "peace"
+    },
+    {
+        "id": "54",
+        "firstname": "Hideki",
+        "surname": "Yukawa",
+        "share": "1",
+        "year": "1949",
+        "category": "physics"
+    },
+    {
+        "id": "347",
+        "firstname": "Walter",
+        "surname": "Hess",
+        "share": "2",
+        "year": "1949",
+        "category": "medicine"
+    },
+    {
+        "id": "348",
+        "firstname": "Egas",
+        "surname": "Moniz",
+        "share": "2",
+        "year": "1949",
+        "category": "medicine"
+    },
+    {
+        "id": "208",
+        "firstname": "Arne",
+        "surname": "Tiselius",
+        "share": "1",
+        "year": "1948",
+        "category": "chemistry"
+    },
+    {
+        "id": "619",
+        "firstname": "T.S.",
+        "surname": "Eliot",
+        "share": "1",
+        "year": "1948",
+        "category": "literature"
+    },
+    {
+        "id": "53",
+        "firstname": "Patrick M.S.",
+        "surname": "Blackett",
+        "share": "1",
+        "year": "1948",
+        "category": "physics"
+    },
+    {
+        "id": "346",
+        "firstname": "Paul",
+        "surname": "M\u00fcller",
+        "share": "1",
+        "year": "1948",
+        "category": "medicine"
+    },
+    {
+        "id": "207",
+        "firstname": "Sir Robert",
+        "surname": "Robinson",
+        "share": "1",
+        "year": "1947",
+        "category": "chemistry"
+    },
+    {
+        "id": "618",
+        "firstname": "Andr\u00e9",
+        "surname": "Gide",
+        "share": "1",
+        "year": "1947",
+        "category": "literature"
+    },
+    {
+        "id": "508",
+        "share": "2",
+        "firstname": "Friends Service Council",
+        "year": "1947",
+        "category": "peace"
+    },
+    {
+        "id": "509",
+        "share": "2",
+        "firstname": "American Friends Service Committee",
+        "year": "1947",
+        "category": "peace"
+    },
+    {
+        "id": "52",
+        "firstname": "Edward V.",
+        "surname": "Appleton",
+        "share": "1",
+        "year": "1947",
+        "category": "physics"
+    },
+    {
+        "id": "343",
+        "firstname": "Carl",
+        "surname": "Cori",
+        "share": "4",
+        "year": "1947",
+        "category": "medicine"
+    },
+    {
+        "id": "344",
+        "firstname": "Gerty",
+        "surname": "Cori",
+        "share": "4",
+        "year": "1947",
+        "category": "medicine"
+    },
+    {
+        "id": "345",
+        "firstname": "Bernardo",
+        "surname": "Houssay",
+        "share": "2",
+        "year": "1947",
+        "category": "medicine"
+    },
+    {
+        "id": "204",
+        "firstname": "James B.",
+        "surname": "Sumner",
+        "share": "2",
+        "year": "1946",
+        "category": "chemistry"
+    },
+    {
+        "id": "205",
+        "firstname": "John H.",
+        "surname": "Northrop",
+        "share": "4",
+        "year": "1946",
+        "category": "chemistry"
+    },
+    {
+        "id": "206",
+        "firstname": "Wendell M.",
+        "surname": "Stanley",
+        "share": "4",
+        "year": "1946",
+        "category": "chemistry"
+    },
+    {
+        "id": "617",
+        "firstname": "Hermann",
+        "surname": "Hesse",
+        "share": "1",
+        "year": "1946",
+        "category": "literature"
+    },
+    {
+        "id": "506",
+        "firstname": "Emily Greene",
+        "surname": "Balch",
+        "share": "2",
+        "year": "1946",
+        "category": "peace"
+    },
+    {
+        "id": "507",
+        "firstname": "John R.",
+        "surname": "Mott",
+        "share": "2",
+        "year": "1946",
+        "category": "peace"
+    },
+    {
+        "id": "51",
+        "firstname": "Percy W.",
+        "surname": "Bridgman",
+        "share": "1",
+        "year": "1946",
+        "category": "physics"
+    },
+    {
+        "id": "342",
+        "firstname": "Hermann J.",
+        "surname": "Muller",
+        "share": "1",
+        "year": "1946",
+        "category": "medicine"
+    },
+    {
+        "id": "203",
+        "firstname": "Artturi",
+        "surname": "Virtanen",
+        "share": "1",
+        "year": "1945",
+        "category": "chemistry"
+    },
+    {
+        "id": "615",
+        "firstname": "Gabriela",
+        "surname": "Mistral",
+        "share": "1",
+        "year": "1945",
+        "category": "literature"
+    },
+    {
+        "id": "505",
+        "firstname": "Cordell",
+        "surname": "Hull",
+        "share": "1",
+        "year": "1945",
+        "category": "peace"
+    },
+    {
+        "id": "50",
+        "firstname": "Wolfgang",
+        "surname": "Pauli",
+        "share": "1",
+        "year": "1945",
+        "category": "physics"
+    },
+    {
+        "id": "339",
+        "firstname": "Sir Alexander",
+        "surname": "Fleming",
+        "share": "3",
+        "year": "1945",
+        "category": "medicine"
+    },
+    {
+        "id": "340",
+        "firstname": "Ernst B.",
+        "surname": "Chain",
+        "share": "3",
+        "year": "1945",
+        "category": "medicine"
+    },
+    {
+        "id": "341",
+        "firstname": "Sir Howard",
+        "surname": "Florey",
+        "share": "3",
+        "year": "1945",
+        "category": "medicine"
+    },
+    {
+        "id": "202",
+        "firstname": "Otto",
+        "surname": "Hahn",
+        "share": "1",
+        "year": "1944",
+        "category": "chemistry"
+    },
+    {
+        "id": "614",
+        "firstname": "Johannes V.",
+        "surname": "Jensen",
+        "share": "1",
+        "year": "1944",
+        "category": "literature"
+    },
+    {
+        "id": "482",
+        "share": "1",
+        "firstname": "International Committee of the Red Cross",
+        "year": "1944",
+        "category": "peace"
+    },
+    {
+        "id": "49",
+        "firstname": "Isidor Isaac",
+        "surname": "Rabi",
+        "share": "1",
+        "year": "1944",
+        "category": "physics"
+    },
+    {
+        "id": "337",
+        "firstname": "Joseph",
+        "surname": "Erlanger",
+        "share": "2",
+        "year": "1944",
+        "category": "medicine"
+    },
+    {
+        "id": "338",
+        "firstname": "Herbert S.",
+        "surname": "Gasser",
+        "share": "2",
+        "year": "1944",
+        "category": "medicine"
+    },
+    {
+        "id": "201",
+        "firstname": "George",
+        "surname": "de Hevesy",
+        "share": "1",
+        "year": "1943",
+        "category": "chemistry"
+    },
+    {
+        "id": "48",
+        "firstname": "Otto",
+        "surname": "Stern",
+        "share": "1",
+        "year": "1943",
+        "category": "physics"
+    },
+    {
+        "id": "335",
+        "firstname": "Henrik",
+        "surname": "Dam",
+        "share": "2",
+        "year": "1943",
+        "category": "medicine"
+    },
+    {
+        "id": "336",
+        "firstname": "Edward A.",
+        "surname": "Doisy",
+        "share": "2",
+        "year": "1943",
+        "category": "medicine"
+    },
+    {
+        "id": "199",
+        "firstname": "Adolf",
+        "surname": "Butenandt",
+        "share": "2",
+        "year": "1939",
+        "category": "chemistry"
+    },
+    {
+        "id": "200",
+        "firstname": "Leopold",
+        "surname": "Ruzicka",
+        "share": "2",
+        "year": "1939",
+        "category": "chemistry"
+    },
+    {
+        "id": "613",
+        "firstname": "Frans Eemil",
+        "surname": "Sillanp\u00e4\u00e4",
+        "share": "1",
+        "year": "1939",
+        "category": "literature"
+    },
+    {
+        "id": "47",
+        "firstname": "Ernest",
+        "surname": "Lawrence",
+        "share": "1",
+        "year": "1939",
+        "category": "physics"
+    },
+    {
+        "id": "334",
+        "firstname": "Gerhard",
+        "surname": "Domagk",
+        "share": "1",
+        "year": "1939",
+        "category": "medicine"
+    },
+    {
+        "id": "198",
+        "firstname": "Richard",
+        "surname": "Kuhn",
+        "share": "1",
+        "year": "1938",
+        "category": "chemistry"
+    },
+    {
+        "id": "610",
+        "firstname": "Pearl",
+        "surname": "Buck",
+        "share": "1",
+        "year": "1938",
+        "category": "literature"
+    },
+    {
+        "id": "503",
+        "share": "1",
+        "firstname": "Nansen International Office for Refugees",
+        "year": "1938",
+        "category": "peace"
+    },
+    {
+        "id": "46",
+        "firstname": "Enrico",
+        "surname": "Fermi",
+        "share": "1",
+        "year": "1938",
+        "category": "physics"
+    },
+    {
+        "id": "333",
+        "firstname": "Corneille",
+        "surname": "Heymans",
+        "share": "1",
+        "year": "1938",
+        "category": "medicine"
+    },
+    {
+        "id": "196",
+        "firstname": "Norman",
+        "surname": "Haworth",
+        "share": "2",
+        "year": "1937",
+        "category": "chemistry"
+    },
+    {
+        "id": "197",
+        "firstname": "Paul",
+        "surname": "Karrer",
+        "share": "2",
+        "year": "1937",
+        "category": "chemistry"
+    },
+    {
+        "id": "609",
+        "firstname": "Roger",
+        "surname": "Martin du Gard",
+        "share": "1",
+        "year": "1937",
+        "category": "literature"
+    },
+    {
+        "id": "502",
+        "firstname": "Robert",
+        "surname": "Cecil",
+        "share": "1",
+        "year": "1937",
+        "category": "peace"
+    },
+    {
+        "id": "44",
+        "firstname": "Clinton",
+        "surname": "Davisson",
+        "share": "2",
+        "year": "1937",
+        "category": "physics"
+    },
+    {
+        "id": "45",
+        "firstname": "George Paget",
+        "surname": "Thomson",
+        "share": "2",
+        "year": "1937",
+        "category": "physics"
+    },
+    {
+        "id": "332",
+        "firstname": "Albert",
+        "surname": "Szent-Gy\u00f6rgyi",
+        "share": "1",
+        "year": "1937",
+        "category": "medicine"
+    },
+    {
+        "id": "195",
+        "firstname": "Peter",
+        "surname": "Debye",
+        "share": "1",
+        "year": "1936",
+        "category": "chemistry"
+    },
+    {
+        "id": "608",
+        "firstname": "Eugene",
+        "surname": "O'Neill",
+        "share": "1",
+        "year": "1936",
+        "category": "literature"
+    },
+    {
+        "id": "501",
+        "firstname": "Carlos",
+        "surname": "Saavedra Lamas",
+        "share": "1",
+        "year": "1936",
+        "category": "peace"
+    },
+    {
+        "id": "42",
+        "firstname": "Victor F.",
+        "surname": "Hess",
+        "share": "2",
+        "year": "1936",
+        "category": "physics"
+    },
+    {
+        "id": "43",
+        "firstname": "Carl D.",
+        "surname": "Anderson",
+        "share": "2",
+        "year": "1936",
+        "category": "physics"
+    },
+    {
+        "id": "330",
+        "firstname": "Sir Henry",
+        "surname": "Dale",
+        "share": "2",
+        "year": "1936",
+        "category": "medicine"
+    },
+    {
+        "id": "331",
+        "firstname": "Otto",
+        "surname": "Loewi",
+        "share": "2",
+        "year": "1936",
+        "category": "medicine"
+    },
+    {
+        "id": "193",
+        "firstname": "Fr\u00e9d\u00e9ric",
+        "surname": "Joliot",
+        "share": "2",
+        "year": "1935",
+        "category": "chemistry"
+    },
+    {
+        "id": "194",
+        "firstname": "Ir\u00e8ne",
+        "surname": "Joliot-Curie",
+        "share": "2",
+        "year": "1935",
+        "category": "chemistry"
+    },
+    {
+        "id": "500",
+        "firstname": "Carl",
+        "surname": "von Ossietzky",
+        "share": "1",
+        "year": "1935",
+        "category": "peace"
+    },
+    {
+        "id": "41",
+        "firstname": "James",
+        "surname": "Chadwick",
+        "share": "1",
+        "year": "1935",
+        "category": "physics"
+    },
+    {
+        "id": "329",
+        "firstname": "Hans",
+        "surname": "Spemann",
+        "share": "1",
+        "year": "1935",
+        "category": "medicine"
+    },
+    {
+        "id": "192",
+        "firstname": "Harold C.",
+        "surname": "Urey",
+        "share": "1",
+        "year": "1934",
+        "category": "chemistry"
+    },
+    {
+        "id": "607",
+        "firstname": "Luigi",
+        "surname": "Pirandello",
+        "share": "1",
+        "year": "1934",
+        "category": "literature"
+    },
+    {
+        "id": "499",
+        "firstname": "Arthur",
+        "surname": "Henderson",
+        "share": "1",
+        "year": "1934",
+        "category": "peace"
+    },
+    {
+        "id": "326",
+        "firstname": "George H.",
+        "surname": "Whipple",
+        "share": "3",
+        "year": "1934",
+        "category": "medicine"
+    },
+    {
+        "id": "327",
+        "firstname": "George R.",
+        "surname": "Minot",
+        "share": "3",
+        "year": "1934",
+        "category": "medicine"
+    },
+    {
+        "id": "328",
+        "firstname": "William P.",
+        "surname": "Murphy",
+        "share": "3",
+        "year": "1934",
+        "category": "medicine"
+    },
+    {
+        "id": "606",
+        "firstname": "Ivan",
+        "surname": "Bunin",
+        "share": "1",
+        "year": "1933",
+        "category": "literature"
+    },
+    {
+        "id": "498",
+        "firstname": "Sir Norman",
+        "surname": "Angell",
+        "share": "1",
+        "year": "1933",
+        "category": "peace"
+    },
+    {
+        "id": "39",
+        "firstname": "Erwin",
+        "surname": "Schr\u00f6dinger",
+        "share": "2",
+        "year": "1933",
+        "category": "physics"
+    },
+    {
+        "id": "40",
+        "firstname": "Paul A.M.",
+        "surname": "Dirac",
+        "share": "2",
+        "year": "1933",
+        "category": "physics"
+    },
+    {
+        "id": "325",
+        "firstname": "Thomas H.",
+        "surname": "Morgan",
+        "share": "1",
+        "year": "1933",
+        "category": "medicine"
+    },
+    {
+        "id": "191",
+        "firstname": "Irving",
+        "surname": "Langmuir",
+        "share": "1",
+        "year": "1932",
+        "category": "chemistry"
+    },
+    {
+        "id": "605",
+        "firstname": "John",
+        "surname": "Galsworthy",
+        "share": "1",
+        "year": "1932",
+        "category": "literature"
+    },
+    {
+        "id": "38",
+        "firstname": "Werner",
+        "surname": "Heisenberg",
+        "share": "1",
+        "year": "1932",
+        "category": "physics"
+    },
+    {
+        "id": "323",
+        "firstname": "Sir Charles",
+        "surname": "Sherrington",
+        "share": "2",
+        "year": "1932",
+        "category": "medicine"
+    },
+    {
+        "id": "324",
+        "firstname": "Edgar",
+        "surname": "Adrian",
+        "share": "2",
+        "year": "1932",
+        "category": "medicine"
+    },
+    {
+        "id": "189",
+        "firstname": "Carl",
+        "surname": "Bosch",
+        "share": "2",
+        "year": "1931",
+        "category": "chemistry"
+    },
+    {
+        "id": "190",
+        "firstname": "Friedrich",
+        "surname": "Bergius",
+        "share": "2",
+        "year": "1931",
+        "category": "chemistry"
+    },
+    {
+        "id": "604",
+        "firstname": "Erik Axel",
+        "surname": "Karlfeldt",
+        "share": "1",
+        "year": "1931",
+        "category": "literature"
+    },
+    {
+        "id": "496",
+        "firstname": "Jane",
+        "surname": "Addams",
+        "share": "2",
+        "year": "1931",
+        "category": "peace"
+    },
+    {
+        "id": "497",
+        "firstname": "Nicholas Murray",
+        "surname": "Butler",
+        "share": "2",
+        "year": "1931",
+        "category": "peace"
+    },
+    {
+        "id": "322",
+        "firstname": "Otto",
+        "surname": "Warburg",
+        "share": "1",
+        "year": "1931",
+        "category": "medicine"
+    },
+    {
+        "id": "188",
+        "firstname": "Hans",
+        "surname": "Fischer",
+        "share": "1",
+        "year": "1930",
+        "category": "chemistry"
+    },
+    {
+        "id": "603",
+        "firstname": "Sinclair",
+        "surname": "Lewis",
+        "share": "1",
+        "year": "1930",
+        "category": "literature"
+    },
+    {
+        "id": "495",
+        "firstname": "Nathan",
+        "surname": "S\u00f6derblom",
+        "share": "1",
+        "year": "1930",
+        "category": "peace"
+    },
+    {
+        "id": "37",
+        "firstname": "Sir Chandrasekhara Venkata",
+        "surname": "Raman",
+        "share": "1",
+        "year": "1930",
+        "category": "physics"
+    },
+    {
+        "id": "321",
+        "firstname": "Karl",
+        "surname": "Landsteiner",
+        "share": "1",
+        "year": "1930",
+        "category": "medicine"
+    },
+    {
+        "id": "186",
+        "firstname": "Arthur",
+        "surname": "Harden",
+        "share": "2",
+        "year": "1929",
+        "category": "chemistry"
+    },
+    {
+        "id": "187",
+        "firstname": "Hans",
+        "surname": "von Euler-Chelpin",
+        "share": "2",
+        "year": "1929",
+        "category": "chemistry"
+    },
+    {
+        "id": "602",
+        "firstname": "Thomas",
+        "surname": "Mann",
+        "share": "1",
+        "year": "1929",
+        "category": "literature"
+    },
+    {
+        "id": "494",
+        "firstname": "Frank B.",
+        "surname": "Kellogg",
+        "share": "1",
+        "year": "1929",
+        "category": "peace"
+    },
+    {
+        "id": "36",
+        "firstname": "Louis",
+        "surname": "de Broglie",
+        "share": "1",
+        "year": "1929",
+        "category": "physics"
+    },
+    {
+        "id": "319",
+        "firstname": "Christiaan",
+        "surname": "Eijkman",
+        "share": "2",
+        "year": "1929",
+        "category": "medicine"
+    },
+    {
+        "id": "320",
+        "firstname": "Sir Frederick",
+        "surname": "Hopkins",
+        "share": "2",
+        "year": "1929",
+        "category": "medicine"
+    },
+    {
+        "id": "185",
+        "firstname": "Adolf",
+        "surname": "Windaus",
+        "share": "1",
+        "year": "1928",
+        "category": "chemistry"
+    },
+    {
+        "id": "601",
+        "firstname": "Sigrid",
+        "surname": "Undset",
+        "share": "1",
+        "year": "1928",
+        "category": "literature"
+    },
+    {
+        "id": "35",
+        "firstname": "Owen Willans",
+        "surname": "Richardson",
+        "share": "1",
+        "year": "1928",
+        "category": "physics"
+    },
+    {
+        "id": "318",
+        "firstname": "Charles",
+        "surname": "Nicolle",
+        "share": "1",
+        "year": "1928",
+        "category": "medicine"
+    },
+    {
+        "id": "184",
+        "firstname": "Heinrich",
+        "surname": "Wieland",
+        "share": "1",
+        "year": "1927",
+        "category": "chemistry"
+    },
+    {
+        "id": "600",
+        "firstname": "Henri",
+        "surname": "Bergson",
+        "share": "1",
+        "year": "1927",
+        "category": "literature"
+    },
+    {
+        "id": "492",
+        "firstname": "Ferdinand",
+        "surname": "Buisson",
+        "share": "2",
+        "year": "1927",
+        "category": "peace"
+    },
+    {
+        "id": "493",
+        "firstname": "Ludwig",
+        "surname": "Quidde",
+        "share": "2",
+        "year": "1927",
+        "category": "peace"
+    },
+    {
+        "id": "33",
+        "firstname": "Arthur H.",
+        "surname": "Compton",
+        "share": "2",
+        "year": "1927",
+        "category": "physics"
+    },
+    {
+        "id": "34",
+        "firstname": "C.T.R.",
+        "surname": "Wilson",
+        "share": "2",
+        "year": "1927",
+        "category": "physics"
+    },
+    {
+        "id": "317",
+        "firstname": "Julius",
+        "surname": "Wagner-Jauregg",
+        "share": "1",
+        "year": "1927",
+        "category": "medicine"
+    },
+    {
+        "id": "183",
+        "firstname": "The",
+        "surname": "Svedberg",
+        "share": "1",
+        "year": "1926",
+        "category": "chemistry"
+    },
+    {
+        "id": "597",
+        "firstname": "Grazia",
+        "surname": "Deledda",
+        "share": "1",
+        "year": "1926",
+        "category": "literature"
+    },
+    {
+        "id": "490",
+        "firstname": "Aristide",
+        "surname": "Briand",
+        "share": "2",
+        "year": "1926",
+        "category": "peace"
+    },
+    {
+        "id": "491",
+        "firstname": "Gustav",
+        "surname": "Stresemann",
+        "share": "2",
+        "year": "1926",
+        "category": "peace"
+    },
+    {
+        "id": "32",
+        "firstname": "Jean Baptiste",
+        "surname": "Perrin",
+        "share": "1",
+        "year": "1926",
+        "category": "physics"
+    },
+    {
+        "id": "316",
+        "firstname": "Johannes",
+        "surname": "Fibiger",
+        "share": "1",
+        "year": "1926",
+        "category": "medicine"
+    },
+    {
+        "id": "182",
+        "firstname": "Richard",
+        "surname": "Zsigmondy",
+        "share": "1",
+        "year": "1925",
+        "category": "chemistry"
+    },
+    {
+        "id": "596",
+        "firstname": "George Bernard",
+        "surname": "Shaw",
+        "share": "1",
+        "year": "1925",
+        "category": "literature"
+    },
+    {
+        "id": "488",
+        "firstname": "Sir Austen",
+        "surname": "Chamberlain",
+        "share": "2",
+        "year": "1925",
+        "category": "peace"
+    },
+    {
+        "id": "489",
+        "firstname": "Charles G.",
+        "surname": "Dawes",
+        "share": "2",
+        "year": "1925",
+        "category": "peace"
+    },
+    {
+        "id": "30",
+        "firstname": "James",
+        "surname": "Franck",
+        "share": "2",
+        "year": "1925",
+        "category": "physics"
+    },
+    {
+        "id": "31",
+        "firstname": "Gustav",
+        "surname": "Hertz",
+        "share": "2",
+        "year": "1925",
+        "category": "physics"
+    },
+    {
+        "id": "594",
+        "firstname": "W\u0142adys\u0142aw",
+        "surname": "Reymont",
+        "share": "1",
+        "year": "1924",
+        "category": "literature"
+    },
+    {
+        "id": "29",
+        "firstname": "Manne",
+        "surname": "Siegbahn",
+        "share": "1",
+        "year": "1924",
+        "category": "physics"
+    },
+    {
+        "id": "315",
+        "firstname": "Willem",
+        "surname": "Einthoven",
+        "share": "1",
+        "year": "1924",
+        "category": "medicine"
+    },
+    {
+        "id": "181",
+        "firstname": "Fritz",
+        "surname": "Pregl",
+        "share": "1",
+        "year": "1923",
+        "category": "chemistry"
+    },
+    {
+        "id": "593",
+        "firstname": "William Butler",
+        "surname": "Yeats",
+        "share": "1",
+        "year": "1923",
+        "category": "literature"
+    },
+    {
+        "id": "28",
+        "firstname": "Robert A.",
+        "surname": "Millikan",
+        "share": "1",
+        "year": "1923",
+        "category": "physics"
+    },
+    {
+        "id": "313",
+        "firstname": "Frederick G.",
+        "surname": "Banting",
+        "share": "2",
+        "year": "1923",
+        "category": "medicine"
+    },
+    {
+        "id": "314",
+        "firstname": "John",
+        "surname": "Macleod",
+        "share": "2",
+        "year": "1923",
+        "category": "medicine"
+    },
+    {
+        "id": "180",
+        "firstname": "Francis W.",
+        "surname": "Aston",
+        "share": "1",
+        "year": "1922",
+        "category": "chemistry"
+    },
+    {
+        "id": "592",
+        "firstname": "Jacinto",
+        "surname": "Benavente",
+        "share": "1",
+        "year": "1922",
+        "category": "literature"
+    },
+    {
+        "id": "487",
+        "firstname": "Fridtjof",
+        "surname": "Nansen",
+        "share": "1",
+        "year": "1922",
+        "category": "peace"
+    },
+    {
+        "id": "27",
+        "firstname": "Niels",
+        "surname": "Bohr",
+        "share": "1",
+        "year": "1922",
+        "category": "physics"
+    },
+    {
+        "id": "311",
+        "firstname": "Archibald V.",
+        "surname": "Hill",
+        "share": "2",
+        "year": "1922",
+        "category": "medicine"
+    },
+    {
+        "id": "312",
+        "firstname": "Otto",
+        "surname": "Meyerhof",
+        "share": "2",
+        "year": "1922",
+        "category": "medicine"
+    },
+    {
+        "id": "179",
+        "firstname": "Frederick",
+        "surname": "Soddy",
+        "share": "1",
+        "year": "1921",
+        "category": "chemistry"
+    },
+    {
+        "id": "590",
+        "firstname": "Anatole",
+        "surname": "France",
+        "share": "1",
+        "year": "1921",
+        "category": "literature"
+    },
+    {
+        "id": "485",
+        "firstname": "Hjalmar",
+        "surname": "Branting",
+        "share": "2",
+        "year": "1921",
+        "category": "peace"
+    },
+    {
+        "id": "486",
+        "firstname": "Christian",
+        "surname": "Lange",
+        "share": "2",
+        "year": "1921",
+        "category": "peace"
+    },
+    {
+        "id": "26",
+        "firstname": "Albert",
+        "surname": "Einstein",
+        "share": "1",
+        "year": "1921",
+        "category": "physics"
+    },
+    {
+        "id": "178",
+        "firstname": "Walther",
+        "surname": "Nernst",
+        "share": "1",
+        "year": "1920",
+        "category": "chemistry"
+    },
+    {
+        "id": "589",
+        "firstname": "Knut",
+        "surname": "Hamsun",
+        "share": "1",
+        "year": "1920",
+        "category": "literature"
+    },
+    {
+        "id": "484",
+        "firstname": "L\u00e9on",
+        "surname": "Bourgeois",
+        "share": "1",
+        "year": "1920",
+        "category": "peace"
+    },
+    {
+        "id": "25",
+        "firstname": "Charles Edouard",
+        "surname": "Guillaume",
+        "share": "1",
+        "year": "1920",
+        "category": "physics"
+    },
+    {
+        "id": "310",
+        "firstname": "August",
+        "surname": "Krogh",
+        "share": "1",
+        "year": "1920",
+        "category": "medicine"
+    },
+    {
+        "id": "588",
+        "firstname": "Carl",
+        "surname": "Spitteler",
+        "share": "1",
+        "year": "1919",
+        "category": "literature"
+    },
+    {
+        "id": "483",
+        "firstname": "Woodrow",
+        "surname": "Wilson",
+        "share": "1",
+        "year": "1919",
+        "category": "peace"
+    },
+    {
+        "id": "24",
+        "firstname": "Johannes",
+        "surname": "Stark",
+        "share": "1",
+        "year": "1919",
+        "category": "physics"
+    },
+    {
+        "id": "309",
+        "firstname": "Jules",
+        "surname": "Bordet",
+        "share": "1",
+        "year": "1919",
+        "category": "medicine"
+    },
+    {
+        "id": "177",
+        "firstname": "Fritz",
+        "surname": "Haber",
+        "share": "1",
+        "year": "1918",
+        "category": "chemistry"
+    },
+    {
+        "id": "23",
+        "firstname": "Max",
+        "surname": "Planck",
+        "share": "1",
+        "year": "1918",
+        "category": "physics"
+    },
+    {
+        "id": "586",
+        "firstname": "Karl",
+        "surname": "Gjellerup",
+        "share": "2",
+        "year": "1917",
+        "category": "literature"
+    },
+    {
+        "id": "587",
+        "firstname": "Henrik",
+        "surname": "Pontoppidan",
+        "share": "2",
+        "year": "1917",
+        "category": "literature"
+    },
+    {
+        "id": "482",
+        "share": "1",
+        "firstname": "International Committee of the Red Cross",
+        "year": "1917",
+        "category": "peace"
+    },
+    {
+        "id": "22",
+        "firstname": "Charles Glover",
+        "surname": "Barkla",
+        "share": "1",
+        "year": "1917",
+        "category": "physics"
+    },
+    {
+        "id": "585",
+        "firstname": "Verner",
+        "surname": "von Heidenstam",
+        "share": "1",
+        "year": "1916",
+        "category": "literature"
+    },
+    {
+        "id": "176",
+        "firstname": "Richard",
+        "surname": "Willst\u00e4tter",
+        "share": "1",
+        "year": "1915",
+        "category": "chemistry"
+    },
+    {
+        "id": "584",
+        "firstname": "Romain",
+        "surname": "Rolland",
+        "share": "1",
+        "year": "1915",
+        "category": "literature"
+    },
+    {
+        "id": "20",
+        "firstname": "William",
+        "surname": "Bragg",
+        "share": "2",
+        "year": "1915",
+        "category": "physics"
+    },
+    {
+        "id": "21",
+        "firstname": "Lawrence",
+        "surname": "Bragg",
+        "share": "2",
+        "year": "1915",
+        "category": "physics"
+    },
+    {
+        "id": "175",
+        "firstname": "Theodore W.",
+        "surname": "Richards",
+        "share": "1",
+        "year": "1914",
+        "category": "chemistry"
+    },
+    {
+        "id": "19",
+        "firstname": "Max",
+        "surname": "von Laue",
+        "share": "1",
+        "year": "1914",
+        "category": "physics"
+    },
+    {
+        "id": "308",
+        "firstname": "Robert",
+        "surname": "B\u00e1r\u00e1ny",
+        "share": "1",
+        "year": "1914",
+        "category": "medicine"
+    },
+    {
+        "id": "174",
+        "firstname": "Alfred",
+        "surname": "Werner",
+        "share": "1",
+        "year": "1913",
+        "category": "chemistry"
+    },
+    {
+        "id": "583",
+        "firstname": "Rabindranath",
+        "surname": "Tagore",
+        "share": "1",
+        "year": "1913",
+        "category": "literature"
+    },
+    {
+        "id": "481",
+        "firstname": "Henri",
+        "surname": "La Fontaine",
+        "share": "1",
+        "year": "1913",
+        "category": "peace"
+    },
+    {
+        "id": "18",
+        "firstname": "Heike",
+        "surname": "Kamerlingh Onnes",
+        "share": "1",
+        "year": "1913",
+        "category": "physics"
+    },
+    {
+        "id": "307",
+        "firstname": "Charles",
+        "surname": "Richet",
+        "share": "1",
+        "year": "1913",
+        "category": "medicine"
+    },
+    {
+        "id": "172",
+        "firstname": "Victor",
+        "surname": "Grignard",
+        "share": "2",
+        "year": "1912",
+        "category": "chemistry"
+    },
+    {
+        "id": "173",
+        "firstname": "Paul",
+        "surname": "Sabatier",
+        "share": "2",
+        "year": "1912",
+        "category": "chemistry"
+    },
+    {
+        "id": "582",
+        "firstname": "Gerhart",
+        "surname": "Hauptmann",
+        "share": "1",
+        "year": "1912",
+        "category": "literature"
+    },
+    {
+        "id": "480",
+        "firstname": "Elihu",
+        "surname": "Root",
+        "share": "1",
+        "year": "1912",
+        "category": "peace"
+    },
+    {
+        "id": "17",
+        "firstname": "Gustaf",
+        "surname": "Dal\u00e9n",
+        "share": "1",
+        "year": "1912",
+        "category": "physics"
+    },
+    {
+        "id": "306",
+        "firstname": "Alexis",
+        "surname": "Carrel",
+        "share": "1",
+        "year": "1912",
+        "category": "medicine"
+    },
+    {
+        "id": "6",
+        "firstname": "Marie",
+        "surname": "Curie",
+        "share": "1",
+        "year": "1911",
+        "category": "chemistry"
+    },
+    {
+        "id": "581",
+        "firstname": "Maurice",
+        "surname": "Maeterlinck",
+        "share": "1",
+        "year": "1911",
+        "category": "literature"
+    },
+    {
+        "id": "478",
+        "firstname": "Tobias",
+        "surname": "Asser",
+        "share": "2",
+        "year": "1911",
+        "category": "peace"
+    },
+    {
+        "id": "479",
+        "firstname": "Alfred",
+        "surname": "Fried",
+        "share": "2",
+        "year": "1911",
+        "category": "peace"
+    },
+    {
+        "id": "16",
+        "firstname": "Wilhelm",
+        "surname": "Wien",
+        "share": "1",
+        "year": "1911",
+        "category": "physics"
+    },
+    {
+        "id": "305",
+        "firstname": "Allvar",
+        "surname": "Gullstrand",
+        "share": "1",
+        "year": "1911",
+        "category": "medicine"
+    },
+    {
+        "id": "169",
+        "firstname": "Otto",
+        "surname": "Wallach",
+        "share": "1",
+        "year": "1910",
+        "category": "chemistry"
+    },
+    {
+        "id": "580",
+        "firstname": "Paul",
+        "surname": "Heyse",
+        "share": "1",
+        "year": "1910",
+        "category": "literature"
+    },
+    {
+        "id": "477",
+        "share": "1",
+        "firstname": "Permanent International Peace Bureau",
+        "year": "1910",
+        "category": "peace"
+    },
+    {
+        "id": "15",
+        "firstname": "Johannes Diderik",
+        "surname": "van der Waals",
+        "share": "1",
+        "year": "1910",
+        "category": "physics"
+    },
+    {
+        "id": "304",
+        "firstname": "Albrecht",
+        "surname": "Kossel",
+        "share": "1",
+        "year": "1910",
+        "category": "medicine"
+    },
+    {
+        "id": "168",
+        "firstname": "Wilhelm",
+        "surname": "Ostwald",
+        "share": "1",
+        "year": "1909",
+        "category": "chemistry"
+    },
+    {
+        "id": "579",
+        "firstname": "Selma",
+        "surname": "Lagerl\u00f6f",
+        "share": "1",
+        "year": "1909",
+        "category": "literature"
+    },
+    {
+        "id": "475",
+        "firstname": "Auguste",
+        "surname": "Beernaert",
+        "share": "2",
+        "year": "1909",
+        "category": "peace"
+    },
+    {
+        "id": "476",
+        "firstname": "Paul Henri",
+        "surname": "d'Estournelles de Constant",
+        "share": "2",
+        "year": "1909",
+        "category": "peace"
+    },
+    {
+        "id": "13",
+        "firstname": "Guglielmo",
+        "surname": "Marconi",
+        "share": "2",
+        "year": "1909",
+        "category": "physics"
+    },
+    {
+        "id": "14",
+        "firstname": "Ferdinand",
+        "surname": "Braun",
+        "share": "2",
+        "year": "1909",
+        "category": "physics"
+    },
+    {
+        "id": "303",
+        "firstname": "Theodor",
+        "surname": "Kocher",
+        "share": "1",
+        "year": "1909",
+        "category": "medicine"
+    },
+    {
+        "id": "167",
+        "firstname": "Ernest",
+        "surname": "Rutherford",
+        "share": "1",
+        "year": "1908",
+        "category": "chemistry"
+    },
+    {
+        "id": "578",
+        "firstname": "Rudolf",
+        "surname": "Eucken",
+        "share": "1",
+        "year": "1908",
+        "category": "literature"
+    },
+    {
+        "id": "473",
+        "firstname": "Klas Pontus",
+        "surname": "Arnoldson",
+        "share": "2",
+        "year": "1908",
+        "category": "peace"
+    },
+    {
+        "id": "474",
+        "firstname": "Fredrik",
+        "surname": "Bajer",
+        "share": "2",
+        "year": "1908",
+        "category": "peace"
+    },
+    {
+        "id": "12",
+        "firstname": "Gabriel",
+        "surname": "Lippmann",
+        "share": "1",
+        "year": "1908",
+        "category": "physics"
+    },
+    {
+        "id": "301",
+        "firstname": "Ilya",
+        "surname": "Mechnikov",
+        "share": "2",
+        "year": "1908",
+        "category": "medicine"
+    },
+    {
+        "id": "302",
+        "firstname": "Paul",
+        "surname": "Ehrlich",
+        "share": "2",
+        "year": "1908",
+        "category": "medicine"
+    },
+    {
+        "id": "166",
+        "firstname": "Eduard",
+        "surname": "Buchner",
+        "share": "1",
+        "year": "1907",
+        "category": "chemistry"
+    },
+    {
+        "id": "577",
+        "firstname": "Rudyard",
+        "surname": "Kipling",
+        "share": "1",
+        "year": "1907",
+        "category": "literature"
+    },
+    {
+        "id": "471",
+        "firstname": "Ernesto Teodoro",
+        "surname": "Moneta",
+        "share": "2",
+        "year": "1907",
+        "category": "peace"
+    },
+    {
+        "id": "472",
+        "firstname": "Louis",
+        "surname": "Renault",
+        "share": "2",
+        "year": "1907",
+        "category": "peace"
+    },
+    {
+        "id": "11",
+        "firstname": "Albert A.",
+        "surname": "Michelson",
+        "share": "1",
+        "year": "1907",
+        "category": "physics"
+    },
+    {
+        "id": "300",
+        "firstname": "Alphonse",
+        "surname": "Laveran",
+        "share": "1",
+        "year": "1907",
+        "category": "medicine"
+    },
+    {
+        "id": "165",
+        "firstname": "Henri",
+        "surname": "Moissan",
+        "share": "1",
+        "year": "1906",
+        "category": "chemistry"
+    },
+    {
+        "id": "576",
+        "firstname": "Giosu\u00e8",
+        "surname": "Carducci",
+        "share": "1",
+        "year": "1906",
+        "category": "literature"
+    },
+    {
+        "id": "470",
+        "firstname": "Theodore",
+        "surname": "Roosevelt",
+        "share": "1",
+        "year": "1906",
+        "category": "peace"
+    },
+    {
+        "id": "10",
+        "firstname": "J.J.",
+        "surname": "Thomson",
+        "share": "1",
+        "year": "1906",
+        "category": "physics"
+    },
+    {
+        "id": "298",
+        "firstname": "Camillo",
+        "surname": "Golgi",
+        "share": "2",
+        "year": "1906",
+        "category": "medicine"
+    },
+    {
+        "id": "299",
+        "firstname": "Santiago",
+        "surname": "Ram\u00f3n y Cajal",
+        "share": "2",
+        "year": "1906",
+        "category": "medicine"
+    },
+    {
+        "id": "164",
+        "firstname": "Adolf",
+        "surname": "von Baeyer",
+        "share": "1",
+        "year": "1905",
+        "category": "chemistry"
+    },
+    {
+        "id": "575",
+        "firstname": "Henryk",
+        "surname": "Sienkiewicz",
+        "share": "1",
+        "year": "1905",
+        "category": "literature"
+    },
+    {
+        "id": "468",
+        "firstname": "Bertha",
+        "surname": "von Suttner",
+        "share": "1",
+        "year": "1905",
+        "category": "peace"
+    },
+    {
+        "id": "9",
+        "firstname": "Philipp",
+        "surname": "Lenard",
+        "share": "1",
+        "year": "1905",
+        "category": "physics"
+    },
+    {
+        "id": "297",
+        "firstname": "Robert",
+        "surname": "Koch",
+        "share": "1",
+        "year": "1905",
+        "category": "medicine"
+    },
+    {
+        "id": "163",
+        "firstname": "Sir William",
+        "surname": "Ramsay",
+        "share": "1",
+        "year": "1904",
+        "category": "chemistry"
+    },
+    {
+        "id": "573",
+        "firstname": "Fr\u00e9d\u00e9ric",
+        "surname": "Mistral",
+        "share": "2",
+        "year": "1904",
+        "category": "literature"
+    },
+    {
+        "id": "574",
+        "firstname": "Jos\u00e9",
+        "surname": "Echegaray",
+        "share": "2",
+        "year": "1904",
+        "category": "literature"
+    },
+    {
+        "id": "467",
+        "share": "1",
+        "firstname": "Institute of International Law",
+        "year": "1904",
+        "category": "peace"
+    },
+    {
+        "id": "8",
+        "firstname": "Lord",
+        "surname": "Rayleigh",
+        "share": "1",
+        "year": "1904",
+        "category": "physics"
+    },
+    {
+        "id": "296",
+        "firstname": "Ivan",
+        "surname": "Pavlov",
+        "share": "1",
+        "year": "1904",
+        "category": "medicine"
+    },
+    {
+        "id": "162",
+        "firstname": "Svante",
+        "surname": "Arrhenius",
+        "share": "1",
+        "year": "1903",
+        "category": "chemistry"
+    },
+    {
+        "id": "572",
+        "firstname": "Bj\u00f8rnstjerne",
+        "surname": "Bj\u00f8rnson",
+        "share": "1",
+        "year": "1903",
+        "category": "literature"
+    },
+    {
+        "id": "466",
+        "firstname": "Randal",
+        "surname": "Cremer",
+        "share": "1",
+        "year": "1903",
+        "category": "peace"
+    },
+    {
+        "id": "4",
+        "firstname": "Henri",
+        "surname": "Becquerel",
+        "share": "2",
+        "year": "1903",
+        "category": "physics"
+    },
+    {
+        "id": "5",
+        "firstname": "Pierre",
+        "surname": "Curie",
+        "share": "4",
+        "year": "1903",
+        "category": "physics"
+    },
+    {
+        "id": "6",
+        "firstname": "Marie",
+        "surname": "Curie",
+        "share": "4",
+        "year": "1903",
+        "category": "physics"
+    },
+    {
+        "id": "295",
+        "firstname": "Niels Ryberg",
+        "surname": "Finsen",
+        "share": "1",
+        "year": "1903",
+        "category": "medicine"
+    },
+    {
+        "id": "161",
+        "firstname": "Emil",
+        "surname": "Fischer",
+        "share": "1",
+        "year": "1902",
+        "category": "chemistry"
+    },
+    {
+        "id": "571",
+        "firstname": "Theodor",
+        "surname": "Mommsen",
+        "share": "1",
+        "year": "1902",
+        "category": "literature"
+    },
+    {
+        "id": "464",
+        "firstname": "\u00c9lie",
+        "surname": "Ducommun",
+        "share": "2",
+        "year": "1902",
+        "category": "peace"
+    },
+    {
+        "id": "465",
+        "firstname": "Albert",
+        "surname": "Gobat",
+        "share": "2",
+        "year": "1902",
+        "category": "peace"
+    },
+    {
+        "id": "2",
+        "firstname": "Hendrik A.",
+        "surname": "Lorentz",
+        "share": "2",
+        "year": "1902",
+        "category": "physics"
+    },
+    {
+        "id": "3",
+        "firstname": "Pieter",
+        "surname": "Zeeman",
+        "share": "2",
+        "year": "1902",
+        "category": "physics"
+    },
+    {
+        "id": "294",
+        "firstname": "Ronald",
+        "surname": "Ross",
+        "share": "1",
+        "year": "1902",
+        "category": "medicine"
+    },
+    {
+        "id": "160",
+        "firstname": "Jacobus H.",
+        "surname": "van 't Hoff",
+        "share": "1",
+        "year": "1901",
+        "category": "chemistry"
+    },
+    {
+        "id": "569",
+        "firstname": "Sully",
+        "surname": "Prudhomme",
+        "share": "1",
+        "year": "1901",
+        "category": "literature"
+    },
+    {
+        "id": "462",
+        "firstname": "Henry",
+        "surname": "Dunant",
+        "share": "2",
+        "year": "1901",
+        "category": "peace"
+    },
+    {
+        "id": "463",
+        "firstname": "Fr\u00e9d\u00e9ric",
+        "surname": "Passy",
+        "share": "2",
+        "year": "1901",
+        "category": "peace"
+    },
+    {
+        "id": "1",
+        "firstname": "Wilhelm Conrad",
+        "surname": "R\u00f6ntgen",
+        "share": "1",
+        "year": "1901",
+        "category": "physics"
+    },
+    {
+        "id": "293",
+        "firstname": "Emil",
+        "surname": "von Behring",
+        "share": "1",
+        "year": "1901",
+        "category": "medicine"
+    }
+]

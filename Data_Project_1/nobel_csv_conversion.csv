@@ -1,0 +1,1013 @@
+id,firstname,surname,share,year,category
+1039,David,Baker,2,2024,chemistry
+1040,Demis,Hassabis,4,2024,chemistry
+1041,John,Jumper,4,2024,chemistry
+1044,Daron,Acemoglu,3,2024,economics
+1045,Simon,Johnson,3,2024,economics
+1046,James,Robinson,3,2024,economics
+1042,Kang,Han,1,2024,literature
+1043,Nihon Hidankyo,,1,2024,peace
+1037,John,Hopfield,2,2024,physics
+1038,Geoffrey,Hinton,2,2024,physics
+1035,Victor,Ambros,2,2024,medicine
+1036,Gary,Ruvkun,2,2024,medicine
+1029,Moungi,Bawendi,3,2023,chemistry
+1030,Louis,Brus,3,2023,chemistry
+1031,Aleksey,Yekimov,3,2023,chemistry
+1034,Claudia,Goldin,1,2023,economics
+1032,Jon,Fosse,1,2023,literature
+1033,Narges,Mohammadi,1,2023,peace
+1026,Pierre,Agostini,3,2023,physics
+1027,Ferenc,Krausz,3,2023,physics
+1028,Anne,L’Huillier,3,2023,physics
+1024,Katalin,Karikó,2,2023,medicine
+1025,Drew,Weissman,2,2023,medicine
+1015,Carolyn,Bertozzi,3,2022,chemistry
+1016,Morten,Meldal,3,2022,chemistry
+743,Barry,Sharpless,3,2022,chemistry
+1021,Ben,Bernanke,3,2022,economics
+1022,Douglas,Diamond,3,2022,economics
+1023,Philip,Dybvig,3,2022,economics
+1017,Annie,Ernaux,1,2022,literature
+1018,Ales,Bialiatski ,3,2022,peace
+1019,Memorial,,3,2022,peace
+1020,Center for Civil Liberties,,3,2022,peace
+1012,Alain,Aspect,3,2022,physics
+1013,John ,Clauser,3,2022,physics
+1014,Anton,Zeilinger,3,2022,physics
+1011,Svante,Pääbo,1,2022,medicine
+1002,Benjamin,List,2,2021,chemistry
+1003,David,MacMillan,2,2021,chemistry
+1007,David,Card,2,2021,economics
+1008,Joshua,Angrist,4,2021,economics
+1009,Guido,Imbens,4,2021,economics
+1004,Abdulrazak,Gurnah,1,2021,literature
+1005,Maria,Ressa,2,2021,peace
+1006,Dmitry,Muratov,2,2021,peace
+999,Syukuro,Manabe,4,2021,physics
+1000,Klaus,Hasselmann,4,2021,physics
+1001,Giorgio,Parisi,2,2021,physics
+997,David,Julius,2,2021,medicine
+998,Ardem,Patapoutian,2,2021,medicine
+991,Emmanuelle,Charpentier,2,2020,chemistry
+992,Jennifer A.,Doudna,2,2020,chemistry
+995,Paul,Milgrom,2,2020,economics
+996,Robert,Wilson,2,2020,economics
+993,Louise,Glück,1,2020,literature
+994,World Food Programme,,1,2020,peace
+988,Roger,Penrose,2,2020,physics
+989,Reinhard,Genzel,4,2020,physics
+990,Andrea,Ghez,4,2020,physics
+985,Harvey,Alter,3,2020,medicine
+986,Michael,Houghton,3,2020,medicine
+987,Charles,Rice,3,2020,medicine
+976,John,Goodenough,3,2019,chemistry
+977,M. Stanley,Whittingham,3,2019,chemistry
+978,Akira,Yoshino,3,2019,chemistry
+982,Abhijit,Banerjee,3,2019,economics
+983,Esther,Duflo,3,2019,economics
+984,Michael,Kremer,3,2019,economics
+980,Peter,Handke,1,2019,literature
+981,Abiy,Ahmed Ali,1,2019,peace
+973,James,Peebles,2,2019,physics
+974,Michel,Mayor,4,2019,physics
+975,Didier,Queloz,4,2019,physics
+970,William,Kaelin,3,2019,medicine
+971,Peter,Ratcliffe,3,2019,medicine
+972,Gregg,Semenza,3,2019,medicine
+963,Frances H.,Arnold,2,2018,chemistry
+964,George P.,Smith,4,2018,chemistry
+965,Sir Gregory P.,Winter,4,2018,chemistry
+968,William D.,Nordhaus,2,2018,economics
+969,Paul M.,Romer,2,2018,economics
+979,Olga,Tokarczuk,1,2018,literature
+966,Denis,Mukwege,2,2018,peace
+967,Nadia,Murad,2,2018,peace
+960,Arthur,Ashkin,2,2018,physics
+961,Gérard,Mourou,4,2018,physics
+962,Donna,Strickland,4,2018,physics
+958,James P.,Allison,2,2018,medicine
+959,Tasuku,Honjo,2,2018,medicine
+944,Jacques,Dubochet,3,2017,chemistry
+945,Joachim,Frank,3,2017,chemistry
+946,Richard,Henderson,3,2017,chemistry
+949,Richard H.,Thaler,1,2017,economics
+947,Kazuo,Ishiguro,1,2017,literature
+948,International Campaign to Abolish Nuclear Weapons,,1,2017,peace
+941,Rainer,Weiss,2,2017,physics
+942,Barry C.,Barish,4,2017,physics
+943,Kip S.,Thorne,4,2017,physics
+938,Jeffrey C.,Hall,3,2017,medicine
+939,Michael,Rosbash,3,2017,medicine
+940,Michael W.,Young,3,2017,medicine
+931,Jean-Pierre,Sauvage,3,2016,chemistry
+932,Sir J. Fraser,Stoddart,3,2016,chemistry
+933,Bernard L.,Feringa,3,2016,chemistry
+935,Oliver,Hart,2,2016,economics
+936,Bengt,Holmström,2,2016,economics
+937,Bob,Dylan,1,2016,literature
+934,Juan Manuel,Santos,1,2016,peace
+928,David J.,Thouless,2,2016,physics
+929,F. Duncan M.,Haldane,4,2016,physics
+930,J. Michael,Kosterlitz,4,2016,physics
+927,Yoshinori,Ohsumi,1,2016,medicine
+921,Tomas,Lindahl,3,2015,chemistry
+922,Paul,Modrich,3,2015,chemistry
+923,Aziz,Sancar,3,2015,chemistry
+926,Angus,Deaton,1,2015,economics
+924,Svetlana,Alexievich,1,2015,literature
+925,National Dialogue Quartet,,1,2015,peace
+919,Takaaki,Kajita,2,2015,physics
+920,Arthur B.,McDonald,2,2015,physics
+916,William C.,Campbell,4,2015,medicine
+917,Satoshi,Ōmura,4,2015,medicine
+918,Youyou,Tu,2,2015,medicine
+909,Eric,Betzig,3,2014,chemistry
+910,Stefan W.,Hell,3,2014,chemistry
+911,William E.,Moerner,3,2014,chemistry
+915,Jean,Tirole,1,2014,economics
+912,Patrick,Modiano,1,2014,literature
+913,Kailash,Satyarthi,2,2014,peace
+914,Malala,Yousafzai,2,2014,peace
+906,Isamu,Akasaki,3,2014,physics
+907,Hiroshi,Amano,3,2014,physics
+908,Shuji,Nakamura,3,2014,physics
+903,John,O'Keefe,2,2014,medicine
+904,May-Britt,Moser,4,2014,medicine
+905,Edvard I.,Moser,4,2014,medicine
+889,Martin,Karplus,3,2013,chemistry
+890,Michael,Levitt,3,2013,chemistry
+891,Arieh,Warshel,3,2013,chemistry
+894,Eugene F.,Fama,3,2013,economics
+895,Lars Peter,Hansen,3,2013,economics
+896,Robert J.,Shiller,3,2013,economics
+892,Alice,Munro,1,2013,literature
+893,Organisation for the Prohibition of Chemical Weapons,,1,2013,peace
+887,François,Englert,2,2013,physics
+888,Peter,Higgs,2,2013,physics
+884,James E.,Rothman,3,2013,medicine
+885,Randy W.,Schekman,3,2013,medicine
+886,Thomas C.,Südhof,3,2013,medicine
+878,Robert J.,Lefkowitz,2,2012,chemistry
+879,Brian,Kobilka,2,2012,chemistry
+882,Alvin E.,Roth,2,2012,economics
+883,Lloyd S.,Shapley,2,2012,economics
+880,Mo,Yan,1,2012,literature
+881,European Union,,1,2012,peace
+876,Serge,Haroche,2,2012,physics
+877,David J.,Wineland,2,2012,physics
+874,Sir John B.,Gurdon,2,2012,medicine
+875,Shinya,Yamanaka,2,2012,medicine
+867,Dan,Shechtman,1,2011,chemistry
+872,Thomas J.,Sargent,2,2011,economics
+873,Christopher A.,Sims,2,2011,economics
+868,Tomas,Tranströmer,1,2011,literature
+869,Ellen,Johnson Sirleaf,3,2011,peace
+870,Leymah,Gbowee,3,2011,peace
+871,Tawakkol,Karman,3,2011,peace
+864,Saul,Perlmutter,2,2011,physics
+865,Brian P.,Schmidt,4,2011,physics
+866,Adam G.,Riess,4,2011,physics
+861,Bruce A.,Beutler,4,2011,medicine
+862,Jules A.,Hoffmann,4,2011,medicine
+863,Ralph M.,Steinman,2,2011,medicine
+851,Richard F.,Heck,3,2010,chemistry
+852,Ei-ichi,Negishi,3,2010,chemistry
+853,Akira,Suzuki,3,2010,chemistry
+856,Peter A.,Diamond,3,2010,economics
+857,Dale T.,Mortensen,3,2010,economics
+858,Christopher A.,Pissarides,3,2010,economics
+854,Mario,Vargas Llosa,1,2010,literature
+855,Xiaobo,Liu,1,2010,peace
+849,Andre,Geim,2,2010,physics
+850,Konstantin,Novoselov,2,2010,physics
+848,Robert G.,Edwards,1,2010,medicine
+841,Venkatraman,Ramakrishnan,3,2009,chemistry
+842,Thomas A.,Steitz,3,2009,chemistry
+843,Ada E.,Yonath,3,2009,chemistry
+846,Elinor,Ostrom,2,2009,economics
+847,Oliver E.,Williamson,2,2009,economics
+844,Herta,Müller,1,2009,literature
+845,Barack,Obama,1,2009,peace
+838,Charles K.,Kao,2,2009,physics
+839,Willard S.,Boyle,4,2009,physics
+840,George E.,Smith,4,2009,physics
+835,Elizabeth H.,Blackburn,3,2009,medicine
+836,Carol W.,Greider,3,2009,medicine
+837,Jack W.,Szostak,3,2009,medicine
+829,Osamu,Shimomura,3,2008,chemistry
+830,Martin,Chalfie,3,2008,chemistry
+831,Roger Y.,Tsien,3,2008,chemistry
+834,Paul,Krugman,1,2008,economics
+832,Jean-Marie Gustave,Le Clézio,1,2008,literature
+833,Martti,Ahtisaari,1,2008,peace
+826,Yoichiro,Nambu,2,2008,physics
+827,Makoto,Kobayashi,4,2008,physics
+828,Toshihide,Maskawa,4,2008,physics
+823,Harald,zur Hausen,2,2008,medicine
+824,Françoise,Barré-Sinoussi,4,2008,medicine
+825,Luc,Montagnier,4,2008,medicine
+816,Gerhard,Ertl,1,2007,chemistry
+820,Leonid,Hurwicz,3,2007,economics
+821,Eric S.,Maskin,3,2007,economics
+822,Roger B.,Myerson,3,2007,economics
+817,Doris,Lessing,1,2007,literature
+818,Intergovernmental Panel on Climate Change,,2,2007,peace
+819,Al,Gore,2,2007,peace
+814,Albert,Fert,2,2007,physics
+815,Peter,Grünberg,2,2007,physics
+811,Mario R.,Capecchi,3,2007,medicine
+812,Sir Martin J.,Evans,3,2007,medicine
+813,Oliver,Smithies,3,2007,medicine
+806,Roger D.,Kornberg,1,2006,chemistry
+807,Edmund S.,Phelps,1,2006,economics
+808,Orhan,Pamuk,1,2006,literature
+809,Muhammad,Yunus,2,2006,peace
+810,Grameen Bank,,2,2006,peace
+804,John C.,Mather,2,2006,physics
+805,George F.,Smoot,2,2006,physics
+802,Andrew Z.,Fire,2,2006,medicine
+803,Craig C.,Mello,2,2006,medicine
+794,Yves,Chauvin,3,2005,chemistry
+795,Robert H.,Grubbs,3,2005,chemistry
+796,Richard R.,Schrock,3,2005,chemistry
+799,Robert J.,Aumann,2,2005,economics
+800,Thomas C.,Schelling,2,2005,economics
+801,Harold,Pinter,1,2005,literature
+797,International Atomic Energy Agency,,2,2005,peace
+798,Mohamed,ElBaradei,2,2005,peace
+791,Roy J.,Glauber,2,2005,physics
+792,John L.,Hall,4,2005,physics
+793,Theodor W.,Hänsch,4,2005,physics
+789,Barry J.,Marshall,2,2005,medicine
+790,J. Robin,Warren,2,2005,medicine
+779,Aaron,Ciechanover,3,2004,chemistry
+780,Avram,Hershko,3,2004,chemistry
+781,Irwin,Rose,3,2004,chemistry
+786,Finn E.,Kydland,2,2004,economics
+787,Edward C.,Prescott,2,2004,economics
+782,Elfriede,Jelinek,1,2004,literature
+783,Wangari,Maathai,1,2004,peace
+776,David J.,Gross,3,2004,physics
+777,H. David,Politzer,3,2004,physics
+778,Frank,Wilczek,3,2004,physics
+774,Richard,Axel,2,2004,medicine
+775,Linda B.,Buck,2,2004,medicine
+769,Peter,Agre,2,2003,chemistry
+770,Roderick,MacKinnon,2,2003,chemistry
+771,Robert F.,Engle III,2,2003,economics
+772,Clive W.J.,Granger,2,2003,economics
+763,J. M.,Coetzee,1,2003,literature
+773,Shirin,Ebadi,1,2003,peace
+766,Alexei,Abrikosov,3,2003,physics
+767,Vitaly L.,Ginzburg,3,2003,physics
+768,Anthony J.,Leggett,3,2003,physics
+764,Paul C.,Lauterbur,2,2003,medicine
+765,Sir Peter,Mansfield,2,2003,medicine
+756,John B.,Fenn,4,2002,chemistry
+757,Koichi,Tanaka,4,2002,chemistry
+758,Kurt,Wüthrich,2,2002,chemistry
+759,Daniel,Kahneman,2,2002,economics
+760,Vernon L.,Smith,2,2002,economics
+761,Imre,Kertész,1,2002,literature
+762,Jimmy,Carter,1,2002,peace
+753,Raymond,Davis Jr.,4,2002,physics
+754,Masatoshi,Koshiba,4,2002,physics
+755,Riccardo,Giacconi,2,2002,physics
+750,Sydney,Brenner,3,2002,medicine
+751,H. Robert,Horvitz,3,2002,medicine
+752,John E.,Sulston,3,2002,medicine
+741,William,Knowles,4,2001,chemistry
+742,Ryoji,Noyori,4,2001,chemistry
+743,Barry,Sharpless,2,2001,chemistry
+744,George A.,Akerlof,3,2001,economics
+745,A. Michael,Spence,3,2001,economics
+746,Joseph E.,Stiglitz,3,2001,economics
+747,V. S.,Naipaul,1,2001,literature
+748,United Nations,,2,2001,peace
+749,Kofi,Annan,2,2001,peace
+738,Eric,Cornell,3,2001,physics
+739,Wolfgang,Ketterle,3,2001,physics
+740,Carl,Wieman,3,2001,physics
+737,Sir Paul,Nurse,3,2001,medicine
+735,Leland,Hartwell,3,2001,medicine
+736,Tim,Hunt,3,2001,medicine
+729,Alan,Heeger,3,2000,chemistry
+730,Alan,MacDiarmid,3,2000,chemistry
+731,Hideki,Shirakawa,3,2000,chemistry
+732,James J.,Heckman,2,2000,economics
+733,Daniel L.,McFadden,2,2000,economics
+734,Xingjian,Gao,1,2000,literature
+725,Kim,Dae-jung,1,2000,peace
+726,Zhores,Alferov,4,2000,physics
+727,Herbert,Kroemer,4,2000,physics
+728,Jack,Kilby,2,2000,physics
+722,Arvid,Carlsson,3,2000,medicine
+723,Paul,Greengard,3,2000,medicine
+724,Eric,Kandel,3,2000,medicine
+292,Ahmed,Zewail,1,1999,chemistry
+720,Robert,Mundell,1,1999,economics
+676,Günter,Grass,1,1999,literature
+568,Doctors Without Borders,,1,1999,peace
+158,Gerardus,'t Hooft,2,1999,physics
+159,Martinus J.G.,Veltman,2,1999,physics
+461,Günter,Blobel,1,1999,medicine
+290,Walter,Kohn,2,1998,chemistry
+291,John,Pople,2,1998,chemistry
+719,Amartya,Sen,1,1998,economics
+675,José,Saramago,1,1998,literature
+566,John,Hume,2,1998,peace
+567,David,Trimble,2,1998,peace
+155,Robert B.,Laughlin,3,1998,physics
+156,Horst L.,Störmer,3,1998,physics
+157,Daniel C.,Tsui,3,1998,physics
+458,Robert F.,Furchgott,3,1998,medicine
+459,Louis J.,Ignarro,3,1998,medicine
+460,Ferid,Murad,3,1998,medicine
+287,Paul D.,Boyer,4,1997,chemistry
+288,John E.,Walker,4,1997,chemistry
+289,Jens C.,Skou,2,1997,chemistry
+717,Robert C.,Merton,2,1997,economics
+718,Myron,Scholes,2,1997,economics
+674,Dario,Fo,1,1997,literature
+564,International Campaign to Ban Landmines,,2,1997,peace
+565,Jody,Williams,2,1997,peace
+152,Steven,Chu,3,1997,physics
+153,Claude,Cohen-Tannoudji,3,1997,physics
+154,William D.,Phillips,3,1997,physics
+457,Stanley B.,Prusiner,1,1997,medicine
+284,Robert F.,Curl Jr.,3,1996,chemistry
+285,Sir Harold,Kroto,3,1996,chemistry
+286,Richard E.,Smalley,3,1996,chemistry
+715,James A.,Mirrlees,2,1996,economics
+716,William,Vickrey,2,1996,economics
+673,Wisława,Szymborska,1,1996,literature
+562,Carlos Filipe Ximenes,Belo,2,1996,peace
+563,José,Ramos-Horta,2,1996,peace
+149,David M.,Lee,3,1996,physics
+150,Douglas D.,Osheroff,3,1996,physics
+151,Robert C.,Richardson,3,1996,physics
+455,Peter C.,Doherty,2,1996,medicine
+456,Rolf M.,Zinkernagel,2,1996,medicine
+281,Paul J.,Crutzen,3,1995,chemistry
+282,Mario J.,Molina,3,1995,chemistry
+283,F. Sherwood,Rowland,3,1995,chemistry
+714,Robert E.,Lucas Jr.,1,1995,economics
+672,Seamus,Heaney,1,1995,literature
+560,Joseph,Rotblat,2,1995,peace
+561,Pugwash Conferences on Science and World Affairs,,2,1995,peace
+147,Martin L.,Perl,2,1995,physics
+148,Frederick,Reines,2,1995,physics
+452,Edward B.,Lewis,3,1995,medicine
+453,Christiane,Nüsslein-Volhard,3,1995,medicine
+454,Eric F.,Wieschaus,3,1995,medicine
+280,George A.,Olah,1,1994,chemistry
+711,John C.,Harsanyi,3,1994,economics
+712,John F.,Nash Jr.,3,1994,economics
+713,Reinhard,Selten,3,1994,economics
+671,Kenzaburo,Oe,1,1994,literature
+557,Yasser,Arafat,3,1994,peace
+558,Shimon,Peres,3,1994,peace
+559,Yitzhak,Rabin,3,1994,peace
+145,Bertram N.,Brockhouse,2,1994,physics
+146,Clifford G.,Shull,2,1994,physics
+450,Alfred G.,Gilman,2,1994,medicine
+451,Martin,Rodbell,2,1994,medicine
+278,Kary B.,Mullis,2,1993,chemistry
+279,Michael,Smith,2,1993,chemistry
+709,Robert W.,Fogel,2,1993,economics
+710,Douglass C.,North,2,1993,economics
+670,Toni,Morrison,1,1993,literature
+555,Nelson,Mandela,2,1993,peace
+556,F.W.,de Klerk,2,1993,peace
+143,Russell A.,Hulse,2,1993,physics
+144,Joseph H.,Taylor Jr.,2,1993,physics
+448,Richard J.,Roberts,2,1993,medicine
+449,Phillip A.,Sharp,2,1993,medicine
+277,Rudolph A.,Marcus,1,1992,chemistry
+708,Gary,Becker,1,1992,economics
+669,Derek,Walcott,1,1992,literature
+554,Rigoberta,Menchú Tum,1,1992,peace
+142,Georges,Charpak,1,1992,physics
+446,Edmond H.,Fischer,2,1992,medicine
+447,Edwin G.,Krebs,2,1992,medicine
+276,Richard R.,Ernst,1,1991,chemistry
+707,Ronald H.,Coase,1,1991,economics
+668,Nadine,Gordimer,1,1991,literature
+553,Aung San Suu Kyi,,1,1991,peace
+141,Pierre-Gilles,de Gennes,1,1991,physics
+444,Erwin,Neher,2,1991,medicine
+445,Bert,Sakmann,2,1991,medicine
+275,Elias James,Corey,1,1990,chemistry
+704,Harry M.,Markowitz,3,1990,economics
+705,Merton H.,Miller,3,1990,economics
+706,William F.,Sharpe,3,1990,economics
+667,Octavio,Paz,1,1990,literature
+552,Mikhail,Gorbachev,1,1990,peace
+138,Jerome I.,Friedman,3,1990,physics
+139,Henry W.,Kendall,3,1990,physics
+140,Richard E.,Taylor,3,1990,physics
+442,Joseph E.,Murray,2,1990,medicine
+443,E. Donnall,Thomas,2,1990,medicine
+273,Sidney,Altman,2,1989,chemistry
+274,Thomas R.,Cech,2,1989,chemistry
+703,Trygve,Haavelmo,1,1989,economics
+666,Camilo José,Cela,1,1989,literature
+551,Lhamo,Thondup,1,1989,peace
+135,Norman F.,Ramsey,2,1989,physics
+136,Hans G.,Dehmelt,4,1989,physics
+137,Wolfgang,Paul,4,1989,physics
+440,J. Michael,Bishop,2,1989,medicine
+441,Harold E.,Varmus,2,1989,medicine
+270,Johann,Deisenhofer,3,1988,chemistry
+271,Robert,Huber,3,1988,chemistry
+272,Hartmut,Michel,3,1988,chemistry
+702,Maurice,Allais,1,1988,economics
+665,Naguib,Mahfouz,1,1988,literature
+550,United Nations Peacekeeping Forces,,1,1988,peace
+132,Leon M.,Lederman,3,1988,physics
+133,Melvin,Schwartz,3,1988,physics
+134,Jack,Steinberger,3,1988,physics
+437,Sir James W.,Black,3,1988,medicine
+438,Gertrude B.,Elion,3,1988,medicine
+439,George H.,Hitchings,3,1988,medicine
+267,Donald J.,Cram,3,1987,chemistry
+268,Jean-Marie,Lehn,3,1987,chemistry
+269,Charles J.,Pedersen,3,1987,chemistry
+701,Robert M.,Solow,1,1987,economics
+664,Joseph,Brodsky,1,1987,literature
+549,Oscar,Arias Sánchez,1,1987,peace
+130,J. Georg,Bednorz,2,1987,physics
+131,K. Alex,Müller,2,1987,physics
+436,Susumu,Tonegawa,1,1987,medicine
+264,Dudley R.,Herschbach,3,1986,chemistry
+265,Yuan T.,Lee,3,1986,chemistry
+266,John C.,Polanyi,3,1986,chemistry
+700,James M.,Buchanan Jr.,1,1986,economics
+663,Wole,Soyinka,1,1986,literature
+548,Elie,Wiesel,1,1986,peace
+127,Ernst,Ruska,2,1986,physics
+128,Gerd,Binnig,4,1986,physics
+129,Heinrich,Rohrer,4,1986,physics
+434,Stanley,Cohen,2,1986,medicine
+435,Rita,Levi-Montalcini,2,1986,medicine
+262,Herbert A.,Hauptman,2,1985,chemistry
+263,Jerome,Karle,2,1985,chemistry
+699,Franco,Modigliani,1,1985,economics
+662,Claude,Simon,1,1985,literature
+547,International Physicians for the Prevention of Nuclear War,,1,1985,peace
+126,Klaus,von Klitzing,1,1985,physics
+432,Michael S.,Brown,2,1985,medicine
+433,Joseph L.,Goldstein,2,1985,medicine
+261,Bruce,Merrifield,1,1984,chemistry
+698,Richard,Stone,1,1984,economics
+661,Jaroslav,Seifert,1,1984,literature
+546,Desmond,Tutu,1,1984,peace
+124,Carlo,Rubbia,2,1984,physics
+125,Simon,van der Meer,2,1984,physics
+429,Niels K.,Jerne,3,1984,medicine
+430,Georges J.F.,Köhler,3,1984,medicine
+431,César,Milstein,3,1984,medicine
+260,Henry,Taube,1,1983,chemistry
+697,Gerard,Debreu,1,1983,economics
+660,William,Golding,1,1983,literature
+545,Lech,Wałęsa,1,1983,peace
+122,Subrahmanyan,Chandrasekhar,2,1983,physics
+123,William A.,Fowler,2,1983,physics
+428,Barbara,McClintock,1,1983,medicine
+259,Aaron,Klug,1,1982,chemistry
+696,George J.,Stigler,1,1982,economics
+659,Gabriel,García Márquez,1,1982,literature
+543,Alva,Myrdal,2,1982,peace
+544,Alfonso,García Robles,2,1982,peace
+121,Kenneth G.,Wilson,1,1982,physics
+425,Sune K.,Bergström,3,1982,medicine
+426,Bengt I.,Samuelsson,3,1982,medicine
+427,John R.,Vane,3,1982,medicine
+257,Kenichi,Fukui,2,1981,chemistry
+258,Roald,Hoffmann,2,1981,chemistry
+695,James,Tobin,1,1981,economics
+658,Elias,Canetti,1,1981,literature
+515,Office of the United Nations High Commissioner for Refugees,,1,1981,peace
+118,Nicolaas,Bloembergen,4,1981,physics
+119,Arthur L.,Schawlow,4,1981,physics
+120,Kai M.,Siegbahn,2,1981,physics
+422,Roger W.,Sperry,2,1981,medicine
+423,David H.,Hubel,4,1981,medicine
+424,Torsten N.,Wiesel,4,1981,medicine
+254,Paul,Berg,2,1980,chemistry
+255,Walter,Gilbert,4,1980,chemistry
+222,Frederick,Sanger,4,1980,chemistry
+694,Lawrence R.,Klein,1,1980,economics
+657,Czesław,Miłosz,1,1980,literature
+541,Adolfo,Pérez Esquivel,1,1980,peace
+116,James,Cronin,2,1980,physics
+117,Val,Fitch,2,1980,physics
+419,Baruj,Benacerraf,3,1980,medicine
+420,Jean,Dausset,3,1980,medicine
+421,George D.,Snell,3,1980,medicine
+252,Herbert C.,Brown,2,1979,chemistry
+253,Georg,Wittig,2,1979,chemistry
+692,Theodore W.,Schultz,2,1979,economics
+693,Sir Arthur,Lewis,2,1979,economics
+655,Odysseus,Elytis,1,1979,literature
+540,Anjezë Gonxhe,Bojaxhiu,1,1979,peace
+113,Sheldon,Glashow,3,1979,physics
+114,Abdus,Salam,3,1979,physics
+115,Steven,Weinberg,3,1979,physics
+417,Allan M.,Cormack,2,1979,medicine
+418,Godfrey N.,Hounsfield,2,1979,medicine
+251,Peter,Mitchell,1,1978,chemistry
+691,Herbert,Simon,1,1978,economics
+654,Isaac Bashevis,Singer,1,1978,literature
+538,Anwar,al-Sadat,2,1978,peace
+539,Menachem,Begin,2,1978,peace
+110,Pyotr,Kapitsa,2,1978,physics
+111,Arno,Penzias,4,1978,physics
+112,Robert Woodrow,Wilson,4,1978,physics
+414,Werner,Arber,3,1978,medicine
+415,Daniel,Nathans,3,1978,medicine
+416,Hamilton O.,Smith,3,1978,medicine
+250,Ilya,Prigogine,1,1977,chemistry
+689,Bertil,Ohlin,2,1977,economics
+690,James E.,Meade,2,1977,economics
+653,Vicente,Aleixandre,1,1977,literature
+537,Amnesty International,,1,1977,peace
+107,Philip W.,Anderson,3,1977,physics
+108,Sir Nevill F.,Mott,3,1977,physics
+109,John H.,Van Vleck,3,1977,physics
+411,Roger,Guillemin,4,1977,medicine
+412,Andrew V.,Schally,4,1977,medicine
+413,Rosalyn,Yalow,2,1977,medicine
+249,William,Lipscomb,1,1976,chemistry
+688,Milton,Friedman,1,1976,economics
+652,Saul,Bellow,1,1976,literature
+535,Betty,Williams,2,1976,peace
+536,Mairead,Corrigan,2,1976,peace
+105,Burton,Richter,2,1976,physics
+106,Samuel C.C.,Ting,2,1976,physics
+409,Baruch S.,Blumberg,2,1976,medicine
+410,D. Carleton,Gajdusek,2,1976,medicine
+247,John,Cornforth,2,1975,chemistry
+248,Vladimir,Prelog,2,1975,chemistry
+686,Leonid Vitaliyevich,Kantorovich,2,1975,economics
+687,Tjalling C.,Koopmans,2,1975,economics
+651,Eugenio,Montale,1,1975,literature
+534,Andrei,Sakharov,1,1975,peace
+102,Aage N.,Bohr,3,1975,physics
+103,Ben R.,Mottelson,3,1975,physics
+104,James,Rainwater,3,1975,physics
+406,David,Baltimore,3,1975,medicine
+407,Renato,Dulbecco,3,1975,medicine
+408,Howard M.,Temin,3,1975,medicine
+246,Paul J.,Flory,1,1974,chemistry
+684,Gunnar,Myrdal,2,1974,economics
+685,Friedrich,von Hayek,2,1974,economics
+649,Eyvind,Johnson,2,1974,literature
+650,Harry,Martinson,2,1974,literature
+532,Seán,MacBride,2,1974,peace
+533,Eisaku,Satō,2,1974,peace
+100,Martin,Ryle,2,1974,physics
+101,Antony,Hewish,2,1974,physics
+403,Albert,Claude,3,1974,medicine
+404,Christian,de Duve,3,1974,medicine
+405,George E.,Palade,3,1974,medicine
+244,Ernst Otto,Fischer,2,1973,chemistry
+245,Geoffrey,Wilkinson,2,1973,chemistry
+683,Wassily,Leontief,1,1973,economics
+648,Patrick,White,1,1973,literature
+530,Henry,Kissinger,2,1973,peace
+531,Le Duc Tho,,2,1973,peace
+97,Leo,Esaki,4,1973,physics
+98,Ivar,Giaever,4,1973,physics
+99,Brian D.,Josephson,2,1973,physics
+400,Karl,von Frisch,3,1973,medicine
+401,Konrad,Lorenz,3,1973,medicine
+402,Nikolaas,Tinbergen,3,1973,medicine
+241,Christian,Anfinsen,2,1972,chemistry
+242,Stanford,Moore,4,1972,chemistry
+243,William H.,Stein,4,1972,chemistry
+681,John R.,Hicks,2,1972,economics
+682,Kenneth J.,Arrow,2,1972,economics
+647,Heinrich,Böll,1,1972,literature
+66,John,Bardeen,3,1972,physics
+95,Leon N.,Cooper,3,1972,physics
+96,Robert,Schrieffer,3,1972,physics
+398,Gerald M.,Edelman,2,1972,medicine
+399,Rodney R.,Porter,2,1972,medicine
+240,Gerhard,Herzberg,1,1971,chemistry
+680,Simon,Kuznets,1,1971,economics
+645,Pablo,Neruda,1,1971,literature
+529,Willy,Brandt,1,1971,peace
+93,Dennis,Gabor,1,1971,physics
+397,Earl W.,"Sutherland, Jr.",1,1971,medicine
+239,Luis,Leloir,1,1970,chemistry
+679,Paul A.,Samuelson,1,1970,economics
+644,Aleksandr,Solzhenitsyn,1,1970,literature
+528,Norman,Borlaug,1,1970,peace
+91,Hannes,Alfvén,2,1970,physics
+92,Louis,Néel,2,1970,physics
+394,Sir Bernard,Katz,3,1970,medicine
+395,Ulf,von Euler,3,1970,medicine
+396,Julius,Axelrod,3,1970,medicine
+237,Derek,Barton,2,1969,chemistry
+238,Odd,Hassel,2,1969,chemistry
+677,Ragnar,Frisch,2,1969,economics
+678,Jan,Tinbergen,2,1969,economics
+643,Samuel,Beckett,1,1969,literature
+527,International Labour Organization,,1,1969,peace
+90,Murray,Gell-Mann,1,1969,physics
+391,Max,Delbrück,3,1969,medicine
+392,Alfred D.,Hershey,3,1969,medicine
+393,Salvador E.,Luria,3,1969,medicine
+236,Lars,Onsager,1,1968,chemistry
+642,Yasunari,Kawabata,1,1968,literature
+526,René,Cassin,1,1968,peace
+89,Luis,Alvarez,1,1968,physics
+388,Robert W.,Holley,3,1968,medicine
+389,H. Gobind,Khorana,3,1968,medicine
+390,Marshall W.,Nirenberg,3,1968,medicine
+233,Manfred,Eigen,2,1967,chemistry
+234,Ronald G.W.,Norrish,4,1967,chemistry
+235,George,Porter,4,1967,chemistry
+641,Miguel Angel,Asturias,1,1967,literature
+88,Hans,Bethe,1,1967,physics
+385,Ragnar,Granit,3,1967,medicine
+386,Keffer,Hartline,3,1967,medicine
+387,George,Wald,3,1967,medicine
+232,Robert S.,Mulliken,1,1966,chemistry
+639,Shmuel,Agnon,2,1966,literature
+640,Nelly,Sachs,2,1966,literature
+87,Alfred,Kastler,1,1966,physics
+383,Peyton,Rous,2,1966,medicine
+384,Charles B.,Huggins,2,1966,medicine
+231,Robert B.,Woodward,1,1965,chemistry
+638,Mikhail,Sholokhov,1,1965,literature
+525,United Nations Children's Fund,,1,1965,peace
+84,Sin-Itiro,Tomonaga,3,1965,physics
+85,Julian,Schwinger,3,1965,physics
+86,Richard P.,Feynman,3,1965,physics
+380,François,Jacob,3,1965,medicine
+381,André,Lwoff,3,1965,medicine
+382,Jacques,Monod,3,1965,medicine
+230,Dorothy Crowfoot,Hodgkin,1,1964,chemistry
+637,Jean-Paul,Sartre,1,1964,literature
+524,Martin Luther,King Jr.,1,1964,peace
+81,Charles H.,Townes,2,1964,physics
+82,Nicolay G.,Basov,4,1964,physics
+83,Aleksandr M.,Prokhorov,4,1964,physics
+378,Konrad,Bloch,2,1964,medicine
+379,Feodor,Lynen,2,1964,medicine
+228,Karl,Ziegler,2,1963,chemistry
+229,Giulio,Natta,2,1963,chemistry
+635,Giorgos,Seferis,1,1963,literature
+482,International Committee of the Red Cross,,2,1963,peace
+523,League of Red Cross Societies,,2,1963,peace
+78,Eugene,Wigner,2,1963,physics
+79,Maria,Goeppert Mayer,4,1963,physics
+80,J. Hans D.,Jensen,4,1963,physics
+375,Sir John,Eccles,3,1963,medicine
+376,Alan,Hodgkin,3,1963,medicine
+377,Andrew,Huxley,3,1963,medicine
+226,Max F.,Perutz,2,1962,chemistry
+227,John C.,Kendrew,2,1962,chemistry
+634,John,Steinbeck,1,1962,literature
+217,Linus,Pauling,1,1962,peace
+77,Lev,Landau,1,1962,physics
+372,Francis,Crick,3,1962,medicine
+373,James,Watson,3,1962,medicine
+374,Maurice,Wilkins,3,1962,medicine
+225,Melvin,Calvin,1,1961,chemistry
+633,Ivo,Andrić,1,1961,literature
+520,Dag,Hammarskjöld,1,1961,peace
+75,Robert,Hofstadter,2,1961,physics
+76,Rudolf,Mössbauer,2,1961,physics
+371,Georg,von Békésy,1,1961,medicine
+224,Willard F.,Libby,1,1960,chemistry
+631,Saint-John,Perse,1,1960,literature
+519,Albert,Lutuli,1,1960,peace
+74,Donald A.,Glaser,1,1960,physics
+369,Sir Frank Macfarlane,Burnet,2,1960,medicine
+370,Peter,Medawar,2,1960,medicine
+223,Jaroslav,Heyrovsky,1,1959,chemistry
+630,Salvatore,Quasimodo,1,1959,literature
+518,Philip,Noel-Baker,1,1959,peace
+72,Emilio,Segrè,2,1959,physics
+73,Owen,Chamberlain,2,1959,physics
+367,Severo,Ochoa,2,1959,medicine
+368,Arthur,Kornberg,2,1959,medicine
+222,Frederick,Sanger,1,1958,chemistry
+629,Boris,Pasternak,1,1958,literature
+517,Georges,Pire,1,1958,peace
+70,Pavel A.,Cherenkov,3,1958,physics
+71,Igor Y.,Tamm,3,1958,physics
+721,Il´ja M.,Frank,3,1958,physics
+364,George,Beadle,4,1958,medicine
+365,Edward,Tatum,4,1958,medicine
+366,Joshua,Lederberg,2,1958,medicine
+221,Lord,Todd,1,1957,chemistry
+628,Albert,Camus,1,1957,literature
+516,Lester Bowles,Pearson,1,1957,peace
+68,Chen Ning,Yang,2,1957,physics
+69,Tsung-Dao,Lee,2,1957,physics
+363,Daniel,Bovet,1,1957,medicine
+219,Sir Cyril,Hinshelwood,2,1956,chemistry
+220,Nikolay,Semenov,2,1956,chemistry
+627,Juan Ramón,Jiménez,1,1956,literature
+65,William B.,Shockley,3,1956,physics
+66,John,Bardeen,3,1956,physics
+67,Walter H.,Brattain,3,1956,physics
+360,André F.,Cournand,3,1956,medicine
+361,Werner,Forssmann,3,1956,medicine
+362,Dickinson W.,Richards,3,1956,medicine
+218,Vincent,du Vigneaud,1,1955,chemistry
+626,Halldór,Laxness,1,1955,literature
+63,Willis E.,Lamb,2,1955,physics
+64,Polykarp,Kusch,2,1955,physics
+359,Hugo,Theorell,1,1955,medicine
+217,Linus,Pauling,1,1954,chemistry
+625,Ernest,Hemingway,1,1954,literature
+515,Office of the United Nations High Commissioner for Refugees,,1,1954,peace
+61,Max,Born,2,1954,physics
+62,Walther,Bothe,2,1954,physics
+356,John F.,Enders,3,1954,medicine
+357,Thomas H.,Weller,3,1954,medicine
+358,Frederick C.,Robbins,3,1954,medicine
+216,Hermann,Staudinger,1,1953,chemistry
+624,Winston,Churchill,1,1953,literature
+514,George C.,Marshall,1,1953,peace
+60,Frits,Zernike,1,1953,physics
+354,Hans,Krebs,2,1953,medicine
+355,Fritz,Lipmann,2,1953,medicine
+214,Archer J.P.,Martin,2,1952,chemistry
+215,Richard L.M.,Synge,2,1952,chemistry
+623,François,Mauriac,1,1952,literature
+513,Albert,Schweitzer,1,1952,peace
+58,Felix,Bloch,2,1952,physics
+59,E. M.,Purcell,2,1952,physics
+353,Selman A.,Waksman,1,1952,medicine
+212,Edwin M.,McMillan,2,1951,chemistry
+213,Glenn T.,Seaborg,2,1951,chemistry
+622,Pär,Lagerkvist,1,1951,literature
+512,Léon,Jouhaux,1,1951,peace
+56,John,Cockcroft,2,1951,physics
+57,Ernest T.S.,Walton,2,1951,physics
+352,Max,Theiler,1,1951,medicine
+210,Otto,Diels,2,1950,chemistry
+211,Kurt,Alder,2,1950,chemistry
+621,Bertrand,Russell,1,1950,literature
+511,Ralph,Bunche,1,1950,peace
+55,Cecil,Powell,1,1950,physics
+349,Edward C.,Kendall,3,1950,medicine
+350,Tadeus,Reichstein,3,1950,medicine
+351,Philip S.,Hench,3,1950,medicine
+209,William F.,Giauque,1,1949,chemistry
+620,William,Faulkner,1,1949,literature
+510,John,Boyd Orr,1,1949,peace
+54,Hideki,Yukawa,1,1949,physics
+347,Walter,Hess,2,1949,medicine
+348,Egas,Moniz,2,1949,medicine
+208,Arne,Tiselius,1,1948,chemistry
+619,T.S.,Eliot,1,1948,literature
+53,Patrick M.S.,Blackett,1,1948,physics
+346,Paul,Müller,1,1948,medicine
+207,Sir Robert,Robinson,1,1947,chemistry
+618,André,Gide,1,1947,literature
+508,Friends Service Council,,2,1947,peace
+509,American Friends Service Committee,,2,1947,peace
+52,Edward V.,Appleton,1,1947,physics
+343,Carl,Cori,4,1947,medicine
+344,Gerty,Cori,4,1947,medicine
+345,Bernardo,Houssay,2,1947,medicine
+204,James B.,Sumner,2,1946,chemistry
+205,John H.,Northrop,4,1946,chemistry
+206,Wendell M.,Stanley,4,1946,chemistry
+617,Hermann,Hesse,1,1946,literature
+506,Emily Greene,Balch,2,1946,peace
+507,John R.,Mott,2,1946,peace
+51,Percy W.,Bridgman,1,1946,physics
+342,Hermann J.,Muller,1,1946,medicine
+203,Artturi,Virtanen,1,1945,chemistry
+615,Gabriela,Mistral,1,1945,literature
+505,Cordell,Hull,1,1945,peace
+50,Wolfgang,Pauli,1,1945,physics
+339,Sir Alexander,Fleming,3,1945,medicine
+340,Ernst B.,Chain,3,1945,medicine
+341,Sir Howard,Florey,3,1945,medicine
+202,Otto,Hahn,1,1944,chemistry
+614,Johannes V.,Jensen,1,1944,literature
+482,International Committee of the Red Cross,,1,1944,peace
+49,Isidor Isaac,Rabi,1,1944,physics
+337,Joseph,Erlanger,2,1944,medicine
+338,Herbert S.,Gasser,2,1944,medicine
+201,George,de Hevesy,1,1943,chemistry
+48,Otto,Stern,1,1943,physics
+335,Henrik,Dam,2,1943,medicine
+336,Edward A.,Doisy,2,1943,medicine
+199,Adolf,Butenandt,2,1939,chemistry
+200,Leopold,Ruzicka,2,1939,chemistry
+613,Frans Eemil,Sillanpää,1,1939,literature
+47,Ernest,Lawrence,1,1939,physics
+334,Gerhard,Domagk,1,1939,medicine
+198,Richard,Kuhn,1,1938,chemistry
+610,Pearl,Buck,1,1938,literature
+503,Nansen International Office for Refugees,,1,1938,peace
+46,Enrico,Fermi,1,1938,physics
+333,Corneille,Heymans,1,1938,medicine
+196,Norman,Haworth,2,1937,chemistry
+197,Paul,Karrer,2,1937,chemistry
+609,Roger,Martin du Gard,1,1937,literature
+502,Robert,Cecil,1,1937,peace
+44,Clinton,Davisson,2,1937,physics
+45,George Paget,Thomson,2,1937,physics
+332,Albert,Szent-Györgyi,1,1937,medicine
+195,Peter,Debye,1,1936,chemistry
+608,Eugene,O'Neill,1,1936,literature
+501,Carlos,Saavedra Lamas,1,1936,peace
+42,Victor F.,Hess,2,1936,physics
+43,Carl D.,Anderson,2,1936,physics
+330,Sir Henry,Dale,2,1936,medicine
+331,Otto,Loewi,2,1936,medicine
+193,Frédéric,Joliot,2,1935,chemistry
+194,Irène,Joliot-Curie,2,1935,chemistry
+500,Carl,von Ossietzky,1,1935,peace
+41,James,Chadwick,1,1935,physics
+329,Hans,Spemann,1,1935,medicine
+192,Harold C.,Urey,1,1934,chemistry
+607,Luigi,Pirandello,1,1934,literature
+499,Arthur,Henderson,1,1934,peace
+326,George H.,Whipple,3,1934,medicine
+327,George R.,Minot,3,1934,medicine
+328,William P.,Murphy,3,1934,medicine
+606,Ivan,Bunin,1,1933,literature
+498,Sir Norman,Angell,1,1933,peace
+39,Erwin,Schrödinger,2,1933,physics
+40,Paul A.M.,Dirac,2,1933,physics
+325,Thomas H.,Morgan,1,1933,medicine
+191,Irving,Langmuir,1,1932,chemistry
+605,John,Galsworthy,1,1932,literature
+38,Werner,Heisenberg,1,1932,physics
+323,Sir Charles,Sherrington,2,1932,medicine
+324,Edgar,Adrian,2,1932,medicine
+189,Carl,Bosch,2,1931,chemistry
+190,Friedrich,Bergius,2,1931,chemistry
+604,Erik Axel,Karlfeldt,1,1931,literature
+496,Jane,Addams,2,1931,peace
+497,Nicholas Murray,Butler,2,1931,peace
+322,Otto,Warburg,1,1931,medicine
+188,Hans,Fischer,1,1930,chemistry
+603,Sinclair,Lewis,1,1930,literature
+495,Nathan,Söderblom,1,1930,peace
+37,Sir Chandrasekhara Venkata,Raman,1,1930,physics
+321,Karl,Landsteiner,1,1930,medicine
+186,Arthur,Harden,2,1929,chemistry
+187,Hans,von Euler-Chelpin,2,1929,chemistry
+602,Thomas,Mann,1,1929,literature
+494,Frank B.,Kellogg,1,1929,peace
+36,Louis,de Broglie,1,1929,physics
+319,Christiaan,Eijkman,2,1929,medicine
+320,Sir Frederick,Hopkins,2,1929,medicine
+185,Adolf,Windaus,1,1928,chemistry
+601,Sigrid,Undset,1,1928,literature
+35,Owen Willans,Richardson,1,1928,physics
+318,Charles,Nicolle,1,1928,medicine
+184,Heinrich,Wieland,1,1927,chemistry
+600,Henri,Bergson,1,1927,literature
+492,Ferdinand,Buisson,2,1927,peace
+493,Ludwig,Quidde,2,1927,peace
+33,Arthur H.,Compton,2,1927,physics
+34,C.T.R.,Wilson,2,1927,physics
+317,Julius,Wagner-Jauregg,1,1927,medicine
+183,The,Svedberg,1,1926,chemistry
+597,Grazia,Deledda,1,1926,literature
+490,Aristide,Briand,2,1926,peace
+491,Gustav,Stresemann,2,1926,peace
+32,Jean Baptiste,Perrin,1,1926,physics
+316,Johannes,Fibiger,1,1926,medicine
+182,Richard,Zsigmondy,1,1925,chemistry
+596,George Bernard,Shaw,1,1925,literature
+488,Sir Austen,Chamberlain,2,1925,peace
+489,Charles G.,Dawes,2,1925,peace
+30,James,Franck,2,1925,physics
+31,Gustav,Hertz,2,1925,physics
+594,Władysław,Reymont,1,1924,literature
+29,Manne,Siegbahn,1,1924,physics
+315,Willem,Einthoven,1,1924,medicine
+181,Fritz,Pregl,1,1923,chemistry
+593,William Butler,Yeats,1,1923,literature
+28,Robert A.,Millikan,1,1923,physics
+313,Frederick G.,Banting,2,1923,medicine
+314,John,Macleod,2,1923,medicine
+180,Francis W.,Aston,1,1922,chemistry
+592,Jacinto,Benavente,1,1922,literature
+487,Fridtjof,Nansen,1,1922,peace
+27,Niels,Bohr,1,1922,physics
+311,Archibald V.,Hill,2,1922,medicine
+312,Otto,Meyerhof,2,1922,medicine
+179,Frederick,Soddy,1,1921,chemistry
+590,Anatole,France,1,1921,literature
+485,Hjalmar,Branting,2,1921,peace
+486,Christian,Lange,2,1921,peace
+26,Albert,Einstein,1,1921,physics
+178,Walther,Nernst,1,1920,chemistry
+589,Knut,Hamsun,1,1920,literature
+484,Léon,Bourgeois,1,1920,peace
+25,Charles Edouard,Guillaume,1,1920,physics
+310,August,Krogh,1,1920,medicine
+588,Carl,Spitteler,1,1919,literature
+483,Woodrow,Wilson,1,1919,peace
+24,Johannes,Stark,1,1919,physics
+309,Jules,Bordet,1,1919,medicine
+177,Fritz,Haber,1,1918,chemistry
+23,Max,Planck,1,1918,physics
+586,Karl,Gjellerup,2,1917,literature
+587,Henrik,Pontoppidan,2,1917,literature
+482,International Committee of the Red Cross,,1,1917,peace
+22,Charles Glover,Barkla,1,1917,physics
+585,Verner,von Heidenstam,1,1916,literature
+176,Richard,Willstätter,1,1915,chemistry
+584,Romain,Rolland,1,1915,literature
+20,William,Bragg,2,1915,physics
+21,Lawrence,Bragg,2,1915,physics
+175,Theodore W.,Richards,1,1914,chemistry
+19,Max,von Laue,1,1914,physics
+308,Robert,Bárány,1,1914,medicine
+174,Alfred,Werner,1,1913,chemistry
+583,Rabindranath,Tagore,1,1913,literature
+481,Henri,La Fontaine,1,1913,peace
+18,Heike,Kamerlingh Onnes,1,1913,physics
+307,Charles,Richet,1,1913,medicine
+172,Victor,Grignard,2,1912,chemistry
+173,Paul,Sabatier,2,1912,chemistry
+582,Gerhart,Hauptmann,1,1912,literature
+480,Elihu,Root,1,1912,peace
+17,Gustaf,Dalén,1,1912,physics
+306,Alexis,Carrel,1,1912,medicine
+6,Marie,Curie,1,1911,chemistry
+581,Maurice,Maeterlinck,1,1911,literature
+478,Tobias,Asser,2,1911,peace
+479,Alfred,Fried,2,1911,peace
+16,Wilhelm,Wien,1,1911,physics
+305,Allvar,Gullstrand,1,1911,medicine
+169,Otto,Wallach,1,1910,chemistry
+580,Paul,Heyse,1,1910,literature
+477,Permanent International Peace Bureau,,1,1910,peace
+15,Johannes Diderik,van der Waals,1,1910,physics
+304,Albrecht,Kossel,1,1910,medicine
+168,Wilhelm,Ostwald,1,1909,chemistry
+579,Selma,Lagerlöf,1,1909,literature
+475,Auguste,Beernaert,2,1909,peace
+476,Paul Henri,d'Estournelles de Constant,2,1909,peace
+13,Guglielmo,Marconi,2,1909,physics
+14,Ferdinand,Braun,2,1909,physics
+303,Theodor,Kocher,1,1909,medicine
+167,Ernest,Rutherford,1,1908,chemistry
+578,Rudolf,Eucken,1,1908,literature
+473,Klas Pontus,Arnoldson,2,1908,peace
+474,Fredrik,Bajer,2,1908,peace
+12,Gabriel,Lippmann,1,1908,physics
+301,Ilya,Mechnikov,2,1908,medicine
+302,Paul,Ehrlich,2,1908,medicine
+166,Eduard,Buchner,1,1907,chemistry
+577,Rudyard,Kipling,1,1907,literature
+471,Ernesto Teodoro,Moneta,2,1907,peace
+472,Louis,Renault,2,1907,peace
+11,Albert A.,Michelson,1,1907,physics
+300,Alphonse,Laveran,1,1907,medicine
+165,Henri,Moissan,1,1906,chemistry
+576,Giosuè,Carducci,1,1906,literature
+470,Theodore,Roosevelt,1,1906,peace
+10,J.J.,Thomson,1,1906,physics
+298,Camillo,Golgi,2,1906,medicine
+299,Santiago,Ramón y Cajal,2,1906,medicine
+164,Adolf,von Baeyer,1,1905,chemistry
+575,Henryk,Sienkiewicz,1,1905,literature
+468,Bertha,von Suttner,1,1905,peace
+9,Philipp,Lenard,1,1905,physics
+297,Robert,Koch,1,1905,medicine
+163,Sir William,Ramsay,1,1904,chemistry
+573,Frédéric,Mistral,2,1904,literature
+574,José,Echegaray,2,1904,literature
+467,Institute of International Law,,1,1904,peace
+8,Lord,Rayleigh,1,1904,physics
+296,Ivan,Pavlov,1,1904,medicine
+162,Svante,Arrhenius,1,1903,chemistry
+572,Bjørnstjerne,Bjørnson,1,1903,literature
+466,Randal,Cremer,1,1903,peace
+4,Henri,Becquerel,2,1903,physics
+5,Pierre,Curie,4,1903,physics
+6,Marie,Curie,4,1903,physics
+295,Niels Ryberg,Finsen,1,1903,medicine
+161,Emil,Fischer,1,1902,chemistry
+571,Theodor,Mommsen,1,1902,literature
+464,Élie,Ducommun,2,1902,peace
+465,Albert,Gobat,2,1902,peace
+2,Hendrik A.,Lorentz,2,1902,physics
+3,Pieter,Zeeman,2,1902,physics
+294,Ronald,Ross,1,1902,medicine
+160,Jacobus H.,van 't Hoff,1,1901,chemistry
+569,Sully,Prudhomme,1,1901,literature
+462,Henry,Dunant,2,1901,peace
+463,Frédéric,Passy,2,1901,peace
+1,Wilhelm Conrad,Röntgen,1,1901,physics
+293,Emil,von Behring,1,1901,medicine
